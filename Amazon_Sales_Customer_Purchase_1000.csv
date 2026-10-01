@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City,State,Product_Category,Product_Name,Price,Quantity,Discount_Percent,Payment_Method,Device,Customer_Rating,Previous_Purchases,Website_Visits,Cart_Additions,Time_on_Site_Min,Delivery_Days,Return_Status,Purchase_Status,Purchase_Probability,Sales_Amount
+CUST1001,37,Other,Kochi,Kerala,Fashion,Kurta,1189.31,1,0,Credit Card,Mobile,3.3,3,5,2,16.5,3,Not Returned,Purchased,0.485,1189.31
+CUST1002,34,Male,Nagpur,Maharashtra,Books,Data Science Book,2177.86,1,15,UPI,Mobile,3.7,0,4,4,8.0,5,Not Returned,Purchased,0.572,1851.18
+CUST1003,33,Other,Kolkata,West Bengal,Grocery,Green Tea,2312.5,1,5,UPI,Laptop,4.4,1,6,1,12.7,4,Not Returned,Purchased,0.421,2196.88
+CUST1004,39,Other,Pune,Maharashtra,Grocery,Protein Bar,328.98,1,20,Credit Card,Mobile,3.8,7,2,1,3.7,6,Not Returned,Purchased,0.449,263.18
+CUST1005,32,Other,Nashik,Maharashtra,Fashion,Sneakers,4260.27,2,20,Credit Card,Mobile,3.1,2,5,3,14.0,2,Not Returned,Purchased,0.622,6816.43
+CUST1006,20,Other,Goa,Goa,Electronics,Wireless Earbuds,9599.84,3,40,Debit Card,Mobile,3.2,3,3,2,10.3,7,Not Returned,Purchased,0.617,17279.71
+CUST1007,30,Female,Goa,Goa,Grocery,Olive Oil,2059.44,2,5,UPI,Mobile,3.6,5,8,2,11.3,7,Not Returned,Not Purchased,0.574,0.0
+CUST1008,25,Male,Chennai,Tamil Nadu,Books,Exam Guide,841.4,2,25,Credit Card,Mobile,4.7,11,5,2,13.9,3,Not Returned,Purchased,0.784,1262.1
+CUST1009,33,Male,Chandigarh,Chandigarh,Books,Cookbook,2028.07,1,15,Net Banking,Mobile,3.7,4,6,6,18.5,2,Not Returned,Purchased,0.835,1723.86
+CUST1010,39,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,8804.39,2,20,UPI,Mobile,2.7,8,8,0,17.3,3,Returned,Not Purchased,0.618,0.0
+CUST1011,25,Female,Mumbai,Maharashtra,Home & Kitchen,Air Fryer,9661.21,1,25,Credit Card,Tablet,5.0,3,4,2,13.5,1,Not Returned,Purchased,0.629,7245.91
+CUST1012,24,Other,Mumbai,Maharashtra,Beauty,Face Serum,3826.23,2,15,Credit Card,Mobile,5.0,4,1,0,7.1,2,Not Returned,Not Purchased,0.378,0.0
+CUST1013,29,Female,Nashik,Maharashtra,Electronics,Laptop Stand,15945.81,1,25,Cash on Delivery,Mobile,4.2,2,5,4,10.9,1,Returned,Not Purchased,0.724,0.0
+CUST1014,24,Other,Patna,Bihar,Home & Kitchen,Water Bottle,6382.19,2,20,Credit Card,Tablet,3.6,6,8,5,12.9,6,Not Returned,Purchased,0.802,10211.5
+CUST1015,49,Other,Nashik,Maharashtra,Home & Kitchen,Coffee Mug,9694.36,1,25,Credit Card,Mobile,3.5,6,8,4,14.4,2,Not Returned,Purchased,0.819,7270.77
+CUST1016,18,Female,Nagpur,Maharashtra,Beauty,Face Wash,2395.97,3,10,UPI,Mobile,5.0,4,5,5,18.8,6,Not Returned,Not Purchased,0.794,0.0
+CUST1017,18,Female,Nashik,Maharashtra,Fashion,Handbag,3626.84,1,40,Cash on Delivery,Laptop,2.8,6,9,3,9.5,7,Not Returned,Purchased,0.773,2176.1
+CUST1018,44,Other,Bhopal,Madhya Pradesh,Electronics,Power Bank,13731.18,2,30,Cash on Delivery,Mobile,3.8,5,5,1,1.0,5,Not Returned,Purchased,0.532,19223.65
+CUST1019,21,Male,Lucknow,Uttar Pradesh,Fashion,Kurta,1077.32,1,10,Cash on Delivery,Mobile,4.3,5,9,4,15.5,2,Not Returned,Purchased,0.792,969.59
+CUST1020,21,Other,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,8262.46,1,10,UPI,Mobile,5.0,1,5,1,9.7,2,Not Returned,Purchased,0.467,7436.21
+CUST1021,47,Other,Lucknow,Uttar Pradesh,Electronics,Smart Watch,1687.73,1,20,Debit Card,Mobile,3.5,4,4,1,8.2,6,Not Returned,Not Purchased,0.467,0.0
+CUST1022,27,Other,Kochi,Kerala,Home & Kitchen,Water Bottle,7518.03,1,5,UPI,Laptop,3.4,4,4,1,6.8,2,Not Returned,Not Purchased,0.337,0.0
+CUST1023,33,Female,Ahmedabad,Gujarat,Grocery,Protein Bar,718.97,1,20,UPI,Mobile,5.0,5,4,3,12.7,1,Returned,Not Purchased,0.714,0.0
+CUST1024,18,Male,Mumbai,Maharashtra,Beauty,Lipstick,684.48,1,5,Debit Card,Mobile,3.1,5,7,5,16.6,6,Not Returned,Purchased,0.742,650.26
+CUST1025,18,Female,Bengaluru,Karnataka,Grocery,Olive Oil,1485.97,1,15,UPI,Laptop,4.5,2,8,5,20.0,3,Not Returned,Purchased,0.811,1263.07
+CUST1026,21,Male,Hyderabad,Telangana,Electronics,Laptop Stand,4428.0,1,20,UPI,Laptop,4.4,5,7,2,17.5,6,Not Returned,Purchased,0.689,3542.4
+CUST1027,21,Other,Ahmedabad,Gujarat,Electronics,Wireless Earbuds,24633.16,2,5,Credit Card,Laptop,3.8,5,2,2,9.9,3,Not Returned,Not Purchased,0.412,0.0
+CUST1028,37,Male,Delhi,Delhi,Electronics,Wireless Earbuds,4805.42,1,10,Debit Card,Laptop,3.6,3,8,3,20.6,3,Not Returned,Not Purchased,0.681,0.0
+CUST1029,43,Male,Bhopal,Madhya Pradesh,Home & Kitchen,Coffee Mug,1763.59,1,25,UPI,Laptop,4.1,5,3,1,1.0,2,Not Returned,Purchased,0.432,1322.69
+CUST1030,29,Male,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,4122.54,1,10,UPI,Mobile,3.4,2,2,2,5.4,3,Not Returned,Not Purchased,0.373,0.0
+CUST1031,27,Other,Jaipur,Rajasthan,Fashion,Kurta,3524.93,3,15,UPI,Mobile,4.0,5,8,2,11.4,4,Not Returned,Purchased,0.662,8988.57
+CUST1032,18,Female,Surat,Gujarat,Home & Kitchen,Coffee Mug,6734.11,1,30,Debit Card,Mobile,4.7,3,4,2,6.5,4,Not Returned,Not Purchased,0.623,0.0
+CUST1033,25,Other,Chandigarh,Chandigarh,Fashion,Handbag,3129.29,1,10,Cash on Delivery,Mobile,3.9,2,9,1,9.7,2,Not Returned,Not Purchased,0.525,0.0
+CUST1034,37,Other,Patna,Bihar,Beauty,Face Wash,2034.29,1,40,Debit Card,Mobile,4.4,4,8,4,7.2,2,Not Returned,Purchased,0.839,1220.57
+CUST1035,24,Male,Nashik,Maharashtra,Fashion,T-Shirt,3867.58,2,20,UPI,Mobile,2.8,1,7,4,17.0,5,Not Returned,Purchased,0.713,6188.13
+CUST1036,18,Female,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,1232.55,3,15,UPI,Laptop,3.6,5,9,2,8.3,2,Returned,Not Purchased,0.607,0.0
+CUST1037,27,Female,Bhopal,Madhya Pradesh,Home & Kitchen,Coffee Mug,7642.83,1,5,Credit Card,Laptop,2.8,4,4,6,10.5,2,Returned,Purchased,0.645,7260.69
+CUST1038,18,Female,Bhopal,Madhya Pradesh,Grocery,Olive Oil,247.64,2,15,Cash on Delivery,Mobile,3.9,8,3,2,11.2,7,Returned,Not Purchased,0.589,0.0
+CUST1039,46,Male,Nashik,Maharashtra,Beauty,Sunscreen,1145.95,1,5,Debit Card,Mobile,4.8,3,2,1,10.6,3,Not Returned,Purchased,0.404,1088.65
+CUST1040,28,Female,Jaipur,Rajasthan,Books,Data Science Book,354.91,1,10,Credit Card,Laptop,2.6,5,2,0,7.5,5,Not Returned,Not Purchased,0.263,0.0
+CUST1041,43,Male,Delhi,Delhi,Electronics,Wireless Earbuds,8020.66,2,25,Cash on Delivery,Mobile,3.9,4,10,5,14.4,4,Not Returned,Not Purchased,0.867,0.0
+CUST1042,19,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,6083.69,1,10,UPI,Mobile,3.4,3,7,8,18.3,1,Not Returned,Purchased,0.876,5475.32
+CUST1043,28,Other,Mumbai,Maharashtra,Fashion,Jeans,489.26,1,15,Cash on Delivery,Laptop,5.0,4,4,1,6.5,5,Not Returned,Not Purchased,0.463,0.0
+CUST1044,34,Other,Bengaluru,Karnataka,Beauty,Lipstick,3296.6,1,20,Net Banking,Tablet,4.3,3,5,3,18.5,2,Not Returned,Purchased,0.688,2637.28
+CUST1045,41,Female,Delhi,Delhi,Electronics,Wireless Earbuds,18397.49,2,15,Net Banking,Mobile,4.3,3,11,3,11.2,2,Not Returned,Not Purchased,0.75,0.0
+CUST1046,33,Other,Kochi,Kerala,Fashion,Handbag,3679.63,1,20,Debit Card,Mobile,4.7,3,4,1,8.6,3,Not Returned,Purchased,0.519,2943.7
+CUST1047,45,Female,Goa,Goa,Books,Data Science Book,1020.48,1,25,Debit Card,Mobile,5.0,5,3,2,4.0,3,Returned,Purchased,0.597,765.36
+CUST1048,38,Other,Patna,Bihar,Grocery,Dry Fruits,922.37,1,5,Cash on Delivery,Mobile,4.1,2,5,4,13.5,5,Not Returned,Purchased,0.631,876.25
+CUST1049,23,Other,Indore,Madhya Pradesh,Beauty,Face Serum,2682.7,3,0,UPI,Mobile,3.4,8,8,2,11.6,3,Not Returned,Purchased,0.601,8048.1
+CUST1050,46,Male,Pune,Maharashtra,Electronics,Smart Watch,12016.56,1,25,UPI,Tablet,4.2,2,10,1,12.2,2,Not Returned,Purchased,0.636,9012.42
+CUST1051,51,Female,Indore,Madhya Pradesh,Electronics,Power Bank,23296.46,1,20,UPI,Mobile,3.7,5,6,2,11.5,4,Not Returned,Purchased,0.638,18637.17
+CUST1052,42,Male,Kolkata,West Bengal,Grocery,Green Tea,2260.06,1,10,Credit Card,Mobile,5.0,5,7,0,12.9,4,Not Returned,Purchased,0.548,2034.05
+CUST1053,18,Female,Patna,Bihar,Fashion,Kurta,4390.31,1,40,UPI,Mobile,3.5,1,4,2,2.7,1,Not Returned,Purchased,0.566,2634.19
+CUST1054,18,Female,Nagpur,Maharashtra,Fashion,Jeans,3337.86,1,10,Net Banking,Tablet,3.0,6,6,3,9.5,2,Not Returned,Not Purchased,0.573,0.0
+CUST1055,25,Male,Hyderabad,Telangana,Electronics,Smart Watch,20790.84,2,20,UPI,Laptop,4.0,1,5,3,13.0,7,Not Returned,Purchased,0.588,33265.34
+CUST1056,39,Female,Lucknow,Uttar Pradesh,Home & Kitchen,Water Bottle,8107.77,2,10,Net Banking,Mobile,3.9,2,11,2,8.0,1,Not Returned,Not Purchased,0.616,0.0
+CUST1057,38,Female,Patna,Bihar,Books,Self Help Book,200.76,1,20,Debit Card,Laptop,3.5,3,6,0,6.2,2,Not Returned,Purchased,0.391,160.61
+CUST1058,39,Female,Goa,Goa,Home & Kitchen,Coffee Mug,6643.31,2,20,UPI,Mobile,3.7,6,6,2,14.1,4,Returned,Purchased,0.675,10629.3
+CUST1059,24,Female,Goa,Goa,Home & Kitchen,Air Fryer,1490.2,2,10,Credit Card,Laptop,3.3,6,5,4,11.0,2,Not Returned,Purchased,0.636,2682.36
+CUST1060,18,Female,Hyderabad,Telangana,Fashion,Kurta,783.31,2,0,UPI,Mobile,4.5,1,7,1,13.9,3,Not Returned,Purchased,0.464,1566.62
+CUST1061,33,Other,Nagpur,Maharashtra,Books,Novel,1981.66,1,15,UPI,Mobile,4.4,3,9,2,6.7,2,Not Returned,Not Purchased,0.63,0.0
+CUST1062,32,Female,Jaipur,Rajasthan,Beauty,Face Wash,3687.87,1,20,Credit Card,Mobile,4.5,6,4,3,13.6,4,Not Returned,Purchased,0.716,2950.3
+CUST1063,29,Male,Kochi,Kerala,Electronics,Power Bank,4692.53,1,25,UPI,Laptop,3.8,6,10,6,19.3,4,Not Returned,Purchased,0.906,3519.4
+CUST1064,21,Male,Kolkata,West Bengal,Beauty,Face Serum,2535.42,1,25,Cash on Delivery,Laptop,3.7,3,7,2,9.7,5,Not Returned,Purchased,0.606,1901.57
+CUST1065,25,Male,Patna,Bihar,Fashion,T-Shirt,4867.79,2,20,Credit Card,Mobile,3.7,3,9,6,14.5,3,Not Returned,Not Purchased,0.859,0.0
+CUST1066,36,Female,Nagpur,Maharashtra,Beauty,Sunscreen,1831.88,2,25,Debit Card,Mobile,3.8,2,4,1,10.6,2,Not Returned,Not Purchased,0.51,0.0
+CUST1067,41,Female,Goa,Goa,Home & Kitchen,Bedsheet,3622.72,1,25,UPI,Mobile,4.2,2,9,2,18.5,7,Not Returned,Purchased,0.739,2717.04
+CUST1068,29,Male,Bhopal,Madhya Pradesh,Grocery,Coffee,2453.24,1,15,Credit Card,Laptop,3.4,6,3,4,11.6,7,Not Returned,Not Purchased,0.621,0.0
+CUST1069,34,Male,Kochi,Kerala,Fashion,Handbag,5313.62,2,10,Debit Card,Mobile,2.7,3,5,5,13.0,5,Not Returned,Purchased,0.671,9564.52
+CUST1070,33,Male,Goa,Goa,Home & Kitchen,Water Bottle,5688.75,1,20,UPI,Mobile,4.8,4,4,3,8.2,7,Not Returned,Purchased,0.646,4551.0
+CUST1071,42,Male,Thane,Maharashtra,Books,Exam Guide,1854.51,2,0,Debit Card,Mobile,3.6,6,7,2,20.8,3,Not Returned,Purchased,0.631,3709.02
+CUST1072,26,Female,Ahmedabad,Gujarat,Beauty,Lipstick,3398.39,1,0,Debit Card,Mobile,3.9,3,5,2,8.0,5,Not Returned,Purchased,0.438,3398.39
+CUST1073,35,Female,Kochi,Kerala,Grocery,Olive Oil,1709.76,1,5,UPI,Laptop,4.6,6,6,3,10.6,3,Not Returned,Purchased,0.621,1624.27
+CUST1074,25,Female,Goa,Goa,Electronics,Wireless Earbuds,8090.62,1,10,Debit Card,Laptop,4.8,2,7,1,9.5,1,Not Returned,Purchased,0.482,7281.56
+CUST1075,19,Other,Bhopal,Madhya Pradesh,Electronics,Bluetooth Speaker,9047.74,1,5,Credit Card,Mobile,4.1,6,8,0,7.6,6,Not Returned,Not Purchased,0.457,0.0
+CUST1076,26,Female,Indore,Madhya Pradesh,Electronics,Bluetooth Speaker,7592.53,1,15,Credit Card,Mobile,3.5,0,1,0,6.8,5,Not Returned,Not Purchased,0.258,0.0
+CUST1077,32,Male,Chennai,Tamil Nadu,Grocery,Coffee,2211.67,1,0,UPI,Laptop,4.6,2,8,4,18.1,1,Not Returned,Not Purchased,0.686,0.0
+CUST1078,36,Female,Hyderabad,Telangana,Electronics,Power Bank,18978.51,1,5,Credit Card,Mobile,3.9,6,7,1,9.1,3,Returned,Purchased,0.514,18029.58
+CUST1079,35,Female,Bengaluru,Karnataka,Electronics,Wireless Earbuds,11204.33,1,10,Credit Card,Mobile,4.9,8,7,2,13.8,3,Not Returned,Purchased,0.714,10083.9
+CUST1080,44,Female,Jaipur,Rajasthan,Home & Kitchen,Coffee Mug,5706.96,1,5,Credit Card,Mobile,4.0,4,5,1,9.4,3,Not Returned,Not Purchased,0.441,0.0
+CUST1081,30,Male,Kochi,Kerala,Books,Cookbook,1424.19,1,10,UPI,Laptop,4.7,5,7,4,14.4,3,Not Returned,Purchased,0.739,1281.77
+CUST1082,24,Male,Pune,Maharashtra,Electronics,Bluetooth Speaker,18275.87,1,25,Credit Card,Mobile,5.0,2,10,1,6.8,4,Not Returned,Not Purchased,0.66,0.0
+CUST1083,42,Female,Delhi,Delhi,Fashion,Handbag,5390.61,1,30,Cash on Delivery,Laptop,3.6,4,6,2,9.6,1,Not Returned,Purchased,0.626,3773.43
+CUST1084,39,Male,Mumbai,Maharashtra,Grocery,Coffee,2130.21,1,5,Credit Card,Mobile,4.4,2,3,2,10.5,3,Not Returned,Not Purchased,0.451,0.0
+CUST1085,35,Male,Kochi,Kerala,Electronics,Laptop Stand,10511.61,1,5,Cash on Delivery,Mobile,4.4,1,4,2,9.0,5,Not Returned,Not Purchased,0.443,0.0
+CUST1086,22,Female,Lucknow,Uttar Pradesh,Electronics,Power Bank,20705.34,2,15,UPI,Laptop,4.0,3,4,2,7.9,3,Not Returned,Purchased,0.475,35199.08
+CUST1087,29,Female,Ahmedabad,Gujarat,Books,Cookbook,1499.46,2,15,UPI,Tablet,3.5,6,5,2,11.0,4,Not Returned,Not Purchased,0.555,0.0
+CUST1088,27,Male,Indore,Madhya Pradesh,Electronics,Laptop Stand,10119.91,2,15,Net Banking,Laptop,3.9,3,10,0,10.7,2,Returned,Not Purchased,0.505,0.0
+CUST1089,25,Male,Ahmedabad,Gujarat,Electronics,Power Bank,3498.6,1,10,UPI,Mobile,2.2,1,2,1,8.5,4,Not Returned,Not Purchased,0.28,0.0
+CUST1090,29,Female,Indore,Madhya Pradesh,Beauty,Lipstick,3125.75,1,40,UPI,Laptop,3.1,1,4,3,15.6,7,Not Returned,Not Purchased,0.667,0.0
+CUST1091,33,Male,Nashik,Maharashtra,Fashion,Kurta,5643.06,1,15,Debit Card,Mobile,4.8,4,10,4,15.1,6,Not Returned,Purchased,0.819,4796.6
+CUST1092,36,Other,Patna,Bihar,Electronics,Wireless Earbuds,989.77,1,15,Cash on Delivery,Mobile,3.1,3,6,1,8.4,2,Not Returned,Not Purchased,0.459,0.0
+CUST1093,33,Male,Bengaluru,Karnataka,Fashion,Handbag,3139.95,1,30,UPI,Mobile,4.7,4,2,4,9.5,5,Not Returned,Not Purchased,0.731,0.0
+CUST1094,27,Other,Chennai,Tamil Nadu,Grocery,Protein Bar,2104.98,2,10,UPI,Laptop,3.0,3,5,1,23.2,3,Returned,Purchased,0.493,3788.96
+CUST1095,18,Other,Patna,Bihar,Home & Kitchen,Mixer Grinder,8510.9,2,25,Cash on Delivery,Tablet,3.9,3,5,3,18.0,3,Not Returned,Not Purchased,0.696,0.0
+CUST1096,32,Female,Goa,Goa,Home & Kitchen,Water Bottle,2243.49,1,10,Debit Card,Mobile,4.5,2,6,5,13.3,4,Returned,Purchased,0.744,2019.14
+CUST1097,37,Female,Goa,Goa,Books,Cookbook,1906.36,2,15,UPI,Mobile,4.3,4,8,2,5.8,6,Not Returned,Purchased,0.602,3240.81
+CUST1098,45,Female,Bengaluru,Karnataka,Electronics,Laptop Stand,19693.71,2,5,Cash on Delivery,Mobile,3.2,3,3,2,13.0,2,Not Returned,Purchased,0.437,37418.05
+CUST1099,18,Male,Kochi,Kerala,Fashion,Jeans,5467.46,1,25,UPI,Mobile,3.0,4,8,6,15.8,5,Not Returned,Not Purchased,0.862,0.0
+CUST1100,41,Male,Chandigarh,Chandigarh,Grocery,Dry Fruits,129.18,1,0,Debit Card,Laptop,3.9,3,6,3,13.8,4,Not Returned,Purchased,0.536,129.18
+CUST1101,30,Male,Patna,Bihar,Home & Kitchen,Coffee Mug,9776.77,1,15,Credit Card,Mobile,5.0,4,7,2,9.3,3,Not Returned,Not Purchased,0.65,0.0
+CUST1102,24,Male,Chennai,Tamil Nadu,Fashion,Jeans,4327.79,1,10,Credit Card,Tablet,4.4,4,8,0,1.9,3,Not Returned,Purchased,0.394,3895.01
+CUST1103,30,Male,Kolkata,West Bengal,Books,Data Science Book,413.04,2,30,UPI,Mobile,3.5,4,6,2,9.7,3,Not Returned,Not Purchased,0.657,0.0
+CUST1104,24,Female,Indore,Madhya Pradesh,Home & Kitchen,Water Bottle,3497.09,2,15,Credit Card,Mobile,4.1,5,10,5,9.4,5,Not Returned,Purchased,0.825,5945.05
+CUST1105,38,Other,Ahmedabad,Gujarat,Fashion,Kurta,900.74,2,15,Cash on Delivery,Mobile,5.0,3,6,2,10.3,3,Not Returned,Purchased,0.621,1531.26
+CUST1106,43,Male,Lucknow,Uttar Pradesh,Books,Self Help Book,1015.18,1,30,UPI,Mobile,5.0,4,9,2,10.8,2,Not Returned,Not Purchased,0.773,0.0
+CUST1107,32,Female,Chandigarh,Chandigarh,Electronics,Power Bank,15507.61,1,0,Debit Card,Mobile,3.4,4,7,4,6.7,3,Not Returned,Purchased,0.591,15507.61
+CUST1108,33,Male,Bhopal,Madhya Pradesh,Beauty,Sunscreen,3813.05,2,20,UPI,Mobile,3.9,8,5,4,12.7,4,Not Returned,Purchased,0.78,6100.88
+CUST1109,24,Female,Hyderabad,Telangana,Fashion,T-Shirt,2440.17,2,15,Cash on Delivery,Mobile,4.5,4,5,1,10.0,3,Not Returned,Not Purchased,0.531,0.0
+CUST1110,19,Other,Thane,Maharashtra,Home & Kitchen,Mixer Grinder,5330.46,1,20,UPI,Laptop,4.3,1,6,2,12.5,4,Not Returned,Not Purchased,0.57,0.0
+CUST1111,39,Other,Pune,Maharashtra,Electronics,Laptop Stand,13070.84,1,0,UPI,Laptop,3.5,7,6,4,12.2,2,Not Returned,Purchased,0.633,13070.84
+CUST1112,36,Female,Nagpur,Maharashtra,Fashion,Kurta,4998.66,1,25,Credit Card,Laptop,4.0,5,11,2,11.1,6,Returned,Purchased,0.728,3748.99
+CUST1113,34,Female,Bhopal,Madhya Pradesh,Electronics,Smart Watch,14434.17,1,25,UPI,Laptop,5.0,7,12,3,16.0,4,Not Returned,Purchased,0.866,10825.63
+CUST1114,31,Other,Patna,Bihar,Electronics,Power Bank,16959.81,2,5,Cash on Delivery,Mobile,3.7,1,10,4,12.5,2,Not Returned,Purchased,0.692,32223.64
+CUST1115,20,Female,Kochi,Kerala,Home & Kitchen,Bedsheet,8050.72,2,5,UPI,Tablet,3.9,3,7,4,18.8,1,Not Returned,Purchased,0.687,15296.37
+CUST1116,18,Other,Hyderabad,Telangana,Grocery,Protein Bar,597.46,1,10,Credit Card,Mobile,4.6,1,7,2,12.5,4,Not Returned,Purchased,0.581,537.71
+CUST1117,34,Male,Bhopal,Madhya Pradesh,Electronics,Power Bank,10376.13,2,10,Debit Card,Mobile,2.2,3,4,3,11.4,4,Not Returned,Purchased,0.494,18677.03
+CUST1118,50,Other,Hyderabad,Telangana,Electronics,Power Bank,5553.35,3,5,Credit Card,Tablet,4.6,5,5,1,7.0,6,Not Returned,Purchased,0.415,15827.05
+CUST1119,42,Other,Jaipur,Rajasthan,Books,Exam Guide,2030.63,1,20,Net Banking,Mobile,2.5,3,1,4,13.6,2,Returned,Purchased,0.583,1624.5
+CUST1120,25,Female,Surat,Gujarat,Electronics,Bluetooth Speaker,12127.27,1,25,Credit Card,Mobile,4.2,5,3,1,18.8,6,Returned,Purchased,0.615,9095.45
+CUST1121,18,Other,Kochi,Kerala,Grocery,Coffee,219.07,2,5,UPI,Mobile,5.0,3,7,2,9.2,2,Not Returned,Not Purchased,0.574,0.0
+CUST1122,32,Other,Bhopal,Madhya Pradesh,Beauty,Shampoo,2665.53,1,10,Credit Card,Tablet,4.2,6,6,2,10.5,7,Not Returned,Purchased,0.561,2398.98
+CUST1123,39,Female,Lucknow,Uttar Pradesh,Electronics,Power Bank,5383.32,1,0,Debit Card,Tablet,3.9,4,8,2,10.0,4,Not Returned,Not Purchased,0.503,0.0
+CUST1124,21,Female,Goa,Goa,Beauty,Face Wash,1258.59,1,10,UPI,Tablet,5.0,3,12,2,5.9,2,Returned,Purchased,0.647,1132.73
+CUST1125,21,Male,Ahmedabad,Gujarat,Beauty,Shampoo,814.22,1,10,UPI,Mobile,4.3,7,4,2,10.7,3,Not Returned,Purchased,0.589,732.8
+CUST1126,35,Other,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,12467.6,2,10,UPI,Laptop,4.0,5,5,2,11.0,4,Not Returned,Purchased,0.529,22441.68
+CUST1127,28,Female,Nagpur,Maharashtra,Grocery,Protein Bar,1421.59,1,25,UPI,Mobile,3.2,4,5,1,6.7,5,Not Returned,Not Purchased,0.506,0.0
+CUST1128,28,Male,Hyderabad,Telangana,Fashion,Jeans,586.22,1,10,UPI,Mobile,3.7,2,4,2,11.4,3,Not Returned,Purchased,0.481,527.6
+CUST1129,36,Other,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,7042.78,1,10,Cash on Delivery,Tablet,3.9,4,8,1,12.5,3,Not Returned,Not Purchased,0.525,0.0
+CUST1130,40,Other,Lucknow,Uttar Pradesh,Grocery,Green Tea,1043.45,1,0,Debit Card,Mobile,3.6,3,4,3,11.9,3,Returned,Not Purchased,0.499,0.0
+CUST1131,40,Female,Jaipur,Rajasthan,Electronics,Smart Watch,951.43,1,15,UPI,Mobile,4.1,4,3,2,2.5,3,Not Returned,Not Purchased,0.465,0.0
+CUST1132,25,Female,Kochi,Kerala,Fashion,Sneakers,2549.06,1,5,UPI,Laptop,3.4,4,4,0,14.3,2,Not Returned,Not Purchased,0.34,0.0
+CUST1133,38,Male,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,20790.77,1,25,UPI,Mobile,5.0,3,4,6,10.6,3,Not Returned,Not Purchased,0.829,0.0
+CUST1134,24,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,3926.02,1,20,Net Banking,Mobile,3.8,4,6,2,6.4,1,Not Returned,Not Purchased,0.584,0.0
+CUST1135,27,Male,Indore,Madhya Pradesh,Electronics,Laptop Stand,17773.48,1,40,Credit Card,Mobile,3.2,3,7,4,11.7,1,Not Returned,Purchased,0.808,10664.09
+CUST1136,34,Other,Bengaluru,Karnataka,Books,Self Help Book,1843.85,1,15,Cash on Delivery,Laptop,4.2,7,5,4,9.8,3,Not Returned,Purchased,0.706,1567.27
+CUST1137,44,Female,Chandigarh,Chandigarh,Fashion,Handbag,2489.04,1,40,UPI,Mobile,3.9,3,4,0,8.9,3,Not Returned,Not Purchased,0.548,0.0
+CUST1138,40,Other,Nagpur,Maharashtra,Beauty,Face Wash,2993.25,1,5,Net Banking,Laptop,3.5,5,8,2,14.1,4,Not Returned,Purchased,0.569,2843.59
+CUST1139,30,Other,Ahmedabad,Gujarat,Beauty,Shampoo,2803.85,1,10,Credit Card,Laptop,4.5,8,5,0,5.6,3,Not Returned,Not Purchased,0.432,0.0
+CUST1140,41,Male,Surat,Gujarat,Fashion,T-Shirt,986.55,1,40,Debit Card,Tablet,4.1,2,7,4,10.7,5,Not Returned,Purchased,0.793,591.93
+CUST1141,18,Other,Patna,Bihar,Fashion,Kurta,1022.9,1,5,UPI,Mobile,3.9,2,7,3,7.5,3,Not Returned,Not Purchased,0.555,0.0
+CUST1142,30,Other,Pune,Maharashtra,Home & Kitchen,Bedsheet,6393.41,2,25,Debit Card,Mobile,4.6,5,6,3,9.2,2,Not Returned,Purchased,0.736,9590.11
+CUST1143,34,Female,Jaipur,Rajasthan,Electronics,Smart Watch,21016.02,1,15,Cash on Delivery,Mobile,3.8,3,4,2,11.3,3,Not Returned,Not Purchased,0.534,0.0
+CUST1144,30,Other,Delhi,Delhi,Home & Kitchen,Water Bottle,3894.63,1,0,UPI,Mobile,5.0,3,7,0,12.2,7,Not Returned,Not Purchased,0.432,0.0
+CUST1145,26,Other,Bhopal,Madhya Pradesh,Electronics,Wireless Earbuds,23692.5,2,10,Debit Card,Mobile,4.7,1,3,4,13.3,1,Not Returned,Purchased,0.625,42646.5
+CUST1146,18,Female,Mumbai,Maharashtra,Fashion,Handbag,426.65,3,0,Net Banking,Laptop,4.3,5,4,3,15.6,3,Not Returned,Purchased,0.56,1279.95
+CUST1147,24,Other,Patna,Bihar,Fashion,Sneakers,4469.9,1,15,Credit Card,Mobile,4.4,1,8,2,13.7,3,Not Returned,Purchased,0.633,3799.41
+CUST1148,47,Female,Ahmedabad,Gujarat,Home & Kitchen,Air Fryer,3661.08,1,20,UPI,Mobile,3.0,2,4,3,11.8,2,Not Returned,Purchased,0.578,2928.86
+CUST1149,39,Female,Patna,Bihar,Electronics,Smart Watch,6670.39,1,10,UPI,Mobile,4.5,1,2,2,9.7,3,Not Returned,Purchased,0.44,6003.35
+CUST1150,18,Other,Indore,Madhya Pradesh,Grocery,Dry Fruits,809.79,1,10,UPI,Laptop,2.9,3,5,4,17.7,3,Not Returned,Purchased,0.625,728.81
+CUST1151,54,Other,Thane,Maharashtra,Electronics,Power Bank,16845.26,1,30,UPI,Mobile,4.6,4,4,3,5.7,3,Not Returned,Purchased,0.685,11791.68
+CUST1152,38,Other,Chandigarh,Chandigarh,Fashion,Jeans,5351.84,1,5,Net Banking,Mobile,5.0,1,6,1,4.2,1,Not Returned,Not Purchased,0.411,0.0
+CUST1153,18,Other,Lucknow,Uttar Pradesh,Grocery,Dry Fruits,249.84,1,5,UPI,Tablet,4.3,4,10,1,4.6,2,Not Returned,Not Purchased,0.488,0.0
+CUST1154,34,Other,Delhi,Delhi,Books,Exam Guide,502.88,2,20,Debit Card,Laptop,4.2,4,7,5,11.6,5,Not Returned,Not Purchased,0.783,0.0
+CUST1155,28,Female,Kochi,Kerala,Home & Kitchen,Water Bottle,8659.34,1,20,Credit Card,Mobile,3.5,7,3,1,6.9,3,Not Returned,Not Purchased,0.498,0.0
+CUST1156,29,Female,Thane,Maharashtra,Fashion,Sneakers,4975.44,1,15,Debit Card,Mobile,4.4,4,6,2,7.5,2,Not Returned,Purchased,0.589,4229.12
+CUST1157,25,Female,Mumbai,Maharashtra,Fashion,Sneakers,502.86,3,10,Net Banking,Mobile,3.9,1,4,4,14.1,7,Not Returned,Purchased,0.607,1357.72
+CUST1158,46,Female,Goa,Goa,Grocery,Coffee,2171.01,1,15,Cash on Delivery,Tablet,3.1,4,6,1,6.7,3,Not Returned,Not Purchased,0.425,0.0
+CUST1159,42,Other,Bhopal,Madhya Pradesh,Books,Novel,2141.92,2,20,Cash on Delivery,Mobile,3.4,2,4,2,5.6,2,Not Returned,Purchased,0.48,3427.07
+CUST1160,18,Other,Delhi,Delhi,Grocery,Protein Bar,1308.9,2,30,Debit Card,Mobile,4.7,5,7,2,14.0,5,Not Returned,Not Purchased,0.764,0.0
+CUST1161,19,Female,Nagpur,Maharashtra,Home & Kitchen,Air Fryer,1673.7,2,30,Debit Card,Mobile,3.5,4,6,1,11.2,4,Not Returned,Not Purchased,0.611,0.0
+CUST1162,20,Male,Patna,Bihar,Electronics,Bluetooth Speaker,12234.87,1,15,Cash on Delivery,Mobile,3.7,3,5,2,12.7,3,Not Returned,Purchased,0.564,10399.64
+CUST1163,27,Male,Ahmedabad,Gujarat,Books,Novel,849.45,1,25,UPI,Laptop,4.0,5,1,2,4.2,2,Not Returned,Not Purchased,0.473,0.0
+CUST1164,18,Female,Nagpur,Maharashtra,Books,Novel,1008.79,2,15,Debit Card,Mobile,5.0,8,7,3,12.8,2,Not Returned,Purchased,0.781,1714.94
+CUST1165,24,Male,Lucknow,Uttar Pradesh,Fashion,Jeans,5783.98,1,20,Net Banking,Mobile,4.5,4,3,4,16.5,3,Not Returned,Purchased,0.74,4627.18
+CUST1166,35,Male,Chandigarh,Chandigarh,Electronics,Power Bank,5440.02,1,20,Debit Card,Mobile,4.2,2,7,4,13.3,3,Not Returned,Purchased,0.751,4352.02
+CUST1167,27,Other,Bhopal,Madhya Pradesh,Electronics,Smart Watch,13685.8,1,20,UPI,Mobile,3.9,7,7,2,7.6,4,Not Returned,Purchased,0.668,10948.64
+CUST1168,22,Male,Mumbai,Maharashtra,Grocery,Coffee,1839.27,2,25,Cash on Delivery,Mobile,3.4,2,2,2,8.1,3,Not Returned,Purchased,0.488,2758.9
+CUST1169,32,Male,Goa,Goa,Electronics,Wireless Earbuds,12083.33,2,15,Cash on Delivery,Mobile,4.5,5,6,3,11.4,3,Not Returned,Purchased,0.697,20541.66
+CUST1170,58,Female,Jaipur,Rajasthan,Grocery,Coffee,2319.14,1,15,Debit Card,Mobile,4.1,6,2,3,13.4,4,Not Returned,Purchased,0.632,1971.27
+CUST1171,21,Female,Kolkata,West Bengal,Home & Kitchen,Bedsheet,3333.1,2,15,UPI,Mobile,3.6,4,8,2,14.1,1,Returned,Purchased,0.652,5666.27
+CUST1172,40,Other,Nagpur,Maharashtra,Books,Self Help Book,507.5,2,20,UPI,Laptop,3.7,6,6,3,16.4,3,Not Returned,Purchased,0.713,812.0
+CUST1173,27,Other,Chennai,Tamil Nadu,Fashion,Handbag,1962.65,2,10,UPI,Tablet,4.4,3,5,1,7.0,2,Not Returned,Not Purchased,0.415,0.0
+CUST1174,18,Male,Ahmedabad,Gujarat,Books,Exam Guide,1354.47,2,20,Cash on Delivery,Mobile,4.3,8,6,2,10.5,3,Not Returned,Purchased,0.701,2167.15
+CUST1175,42,Male,Goa,Goa,Home & Kitchen,Coffee Mug,319.64,1,10,Credit Card,Mobile,4.5,2,7,0,6.2,3,Not Returned,Not Purchased,0.415,0.0
+CUST1176,29,Other,Nashik,Maharashtra,Fashion,T-Shirt,3018.81,1,30,UPI,Mobile,3.2,7,7,1,8.4,4,Returned,Purchased,0.646,2113.17
+CUST1177,42,Other,Surat,Gujarat,Beauty,Shampoo,2557.08,2,20,Debit Card,Mobile,3.6,4,8,0,5.6,3,Not Returned,Not Purchased,0.489,0.0
+CUST1178,28,Other,Mumbai,Maharashtra,Electronics,Wireless Earbuds,9196.41,1,25,UPI,Laptop,4.1,5,3,4,17.0,4,Not Returned,Purchased,0.738,6897.31
+CUST1179,33,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,5615.92,1,20,Credit Card,Laptop,4.1,4,3,3,7.7,1,Not Returned,Purchased,0.566,4492.74
+CUST1180,32,Male,Chandigarh,Chandigarh,Grocery,Coffee,1557.58,1,20,UPI,Mobile,3.2,3,4,2,8.1,4,Not Returned,Purchased,0.51,1246.06
+CUST1181,25,Male,Chennai,Tamil Nadu,Grocery,Green Tea,1038.2,3,30,UPI,Laptop,2.8,2,8,0,3.0,4,Not Returned,Purchased,0.42,2180.22
+CUST1182,21,Other,Goa,Goa,Books,Cookbook,2159.12,1,5,Credit Card,Mobile,4.3,5,1,3,18.7,3,Not Returned,Not Purchased,0.587,0.0
+CUST1183,28,Male,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1549.52,2,25,Debit Card,Mobile,2.8,5,6,1,2.5,4,Not Returned,Purchased,0.492,2324.28
+CUST1184,25,Male,Pune,Maharashtra,Home & Kitchen,Water Bottle,5399.85,1,5,UPI,Laptop,4.6,5,2,3,13.7,2,Not Returned,Purchased,0.543,5129.86
+CUST1185,18,Male,Goa,Goa,Fashion,Kurta,423.38,1,20,Debit Card,Tablet,3.9,7,5,3,7.4,6,Not Returned,Not Purchased,0.637,0.0
+CUST1186,36,Female,Hyderabad,Telangana,Beauty,Lipstick,1470.75,1,5,Credit Card,Laptop,3.1,0,9,4,15.7,1,Not Returned,Not Purchased,0.623,0.0
+CUST1187,18,Other,Kolkata,West Bengal,Home & Kitchen,Water Bottle,2085.26,1,0,Debit Card,Laptop,4.5,2,5,1,10.5,4,Not Returned,Purchased,0.372,2085.26
+CUST1188,44,Female,Chennai,Tamil Nadu,Beauty,Sunscreen,3455.61,3,20,UPI,Mobile,4.2,2,8,3,6.8,4,Not Returned,Not Purchased,0.671,0.0
+CUST1189,37,Female,Nagpur,Maharashtra,Electronics,Smart Watch,6931.78,2,15,Credit Card,Mobile,5.0,6,7,3,8.5,2,Returned,Not Purchased,0.728,0.0
+CUST1190,35,Male,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,8006.89,1,5,Net Banking,Laptop,3.9,2,9,0,11.9,4,Not Returned,Not Purchased,0.414,0.0
+CUST1191,26,Female,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,8898.67,1,10,Debit Card,Laptop,3.7,5,7,2,9.0,3,Not Returned,Purchased,0.543,8008.8
+CUST1192,20,Other,Lucknow,Uttar Pradesh,Grocery,Dry Fruits,2451.53,2,5,UPI,Tablet,3.9,3,2,2,10.8,4,Returned,Not Purchased,0.391,0.0
+CUST1193,24,Other,Nagpur,Maharashtra,Electronics,Power Bank,3039.19,1,15,UPI,Tablet,3.5,4,2,3,8.4,4,Not Returned,Not Purchased,0.492,0.0
+CUST1194,30,Other,Surat,Gujarat,Fashion,Sneakers,496.1,1,25,UPI,Tablet,3.2,5,4,2,12.1,6,Not Returned,Not Purchased,0.561,0.0
+CUST1195,21,Female,Hyderabad,Telangana,Grocery,Dry Fruits,1360.37,1,20,Net Banking,Mobile,3.5,5,3,3,19.5,4,Not Returned,Purchased,0.688,1088.3
+CUST1196,31,Other,Bhopal,Madhya Pradesh,Electronics,Smart Watch,21828.81,2,0,Net Banking,Laptop,3.9,4,8,2,9.4,3,Not Returned,Purchased,0.498,43657.62
+CUST1197,44,Other,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,18100.54,1,10,Net Banking,Mobile,4.3,5,3,2,4.7,1,Not Returned,Purchased,0.48,16290.49
+CUST1198,41,Other,Bengaluru,Karnataka,Fashion,Jeans,5191.39,1,40,Cash on Delivery,Mobile,4.8,2,5,2,15.2,3,Not Returned,Purchased,0.75,3114.83
+CUST1199,33,Male,Ahmedabad,Gujarat,Grocery,Coffee,1004.82,3,10,Debit Card,Mobile,4.1,6,8,2,5.2,5,Returned,Not Purchased,0.603,0.0
+CUST1200,44,Female,Kochi,Kerala,Electronics,Laptop Stand,3690.66,1,30,Net Banking,Mobile,3.9,6,1,3,7.9,1,Not Returned,Not Purchased,0.645,0.0
+CUST1201,33,Male,Kolkata,West Bengal,Beauty,Face Wash,639.38,1,5,UPI,Mobile,4.0,6,10,2,14.5,3,Not Returned,Purchased,0.686,607.41
+CUST1202,45,Other,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,17487.91,2,10,Debit Card,Mobile,4.5,2,4,1,4.5,3,Not Returned,Not Purchased,0.396,0.0
+CUST1203,21,Other,Lucknow,Uttar Pradesh,Electronics,Smart Watch,20666.24,1,5,Credit Card,Laptop,1.9,3,4,0,10.2,1,Not Returned,Purchased,0.241,19632.93
+CUST1204,26,Male,Indore,Madhya Pradesh,Books,Data Science Book,1586.55,2,5,Credit Card,Laptop,3.3,4,7,3,13.7,2,Not Returned,Purchased,0.579,3014.44
+CUST1205,28,Female,Indore,Madhya Pradesh,Beauty,Shampoo,1309.53,1,10,UPI,Mobile,3.6,4,3,4,13.9,4,Not Returned,Purchased,0.633,1178.58
+CUST1206,20,Female,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,7015.29,1,5,Debit Card,Laptop,3.5,2,6,5,18.1,4,Not Returned,Not Purchased,0.685,0.0
+CUST1207,37,Other,Thane,Maharashtra,Grocery,Green Tea,556.92,1,5,UPI,Mobile,4.5,5,10,4,16.5,2,Not Returned,Purchased,0.798,529.07
+CUST1208,39,Other,Kochi,Kerala,Fashion,Sneakers,5947.27,2,15,Credit Card,Mobile,2.5,4,15,0,4.0,2,Returned,Purchased,0.551,10110.36
+CUST1209,20,Female,Goa,Goa,Fashion,Kurta,4130.7,2,10,Credit Card,Laptop,4.9,0,3,2,14.5,5,Not Returned,Purchased,0.467,7435.26
+CUST1210,18,Female,Surat,Gujarat,Books,Cookbook,1527.53,1,0,Debit Card,Mobile,5.0,4,4,0,9.3,3,Not Returned,Purchased,0.372,1527.53
+CUST1211,42,Other,Surat,Gujarat,Fashion,Sneakers,4892.85,2,25,Debit Card,Mobile,4.3,4,1,5,19.7,6,Not Returned,Not Purchased,0.78,0.0
+CUST1212,27,Male,Goa,Goa,Electronics,Wireless Earbuds,22965.63,1,5,Net Banking,Mobile,2.7,6,8,5,21.8,5,Not Returned,Purchased,0.798,21817.35
+CUST1213,18,Other,Indore,Madhya Pradesh,Electronics,Power Bank,13192.54,2,0,Cash on Delivery,Tablet,4.4,4,7,1,4.7,4,Not Returned,Not Purchased,0.396,0.0
+CUST1214,18,Male,Indore,Madhya Pradesh,Beauty,Face Wash,2875.57,2,10,UPI,Laptop,4.0,4,4,0,18.1,1,Not Returned,Not Purchased,0.426,0.0
+CUST1215,23,Female,Nagpur,Maharashtra,Books,Novel,2348.28,2,20,Credit Card,Mobile,5.0,7,4,3,11.9,4,Not Returned,Not Purchased,0.736,0.0
+CUST1216,25,Other,Delhi,Delhi,Grocery,Coffee,632.27,2,10,UPI,Mobile,4.5,2,6,4,14.7,7,Not Returned,Not Purchased,0.693,0.0
+CUST1217,27,Other,Jaipur,Rajasthan,Electronics,Wireless Earbuds,9499.04,2,10,UPI,Mobile,4.6,2,8,4,13.6,3,Not Returned,Purchased,0.736,17098.27
+CUST1218,39,Other,Nashik,Maharashtra,Fashion,Kurta,5744.5,1,10,Credit Card,Mobile,4.2,2,6,0,9.8,3,Not Returned,Not Purchased,0.411,0.0
+CUST1219,18,Female,Patna,Bihar,Grocery,Green Tea,1825.65,1,10,UPI,Laptop,4.5,4,6,3,8.6,6,Returned,Not Purchased,0.584,0.0
+CUST1220,25,Other,Chennai,Tamil Nadu,Electronics,Smart Watch,5632.01,1,15,Debit Card,Mobile,4.6,3,8,3,12.3,2,Not Returned,Purchased,0.716,4787.21
+CUST1221,39,Male,Kochi,Kerala,Electronics,Bluetooth Speaker,5387.24,2,15,Credit Card,Tablet,3.5,3,4,3,7.8,1,Not Returned,Purchased,0.514,9158.31
+CUST1222,40,Female,Surat,Gujarat,Grocery,Dry Fruits,1557.93,1,25,UPI,Mobile,4.4,1,5,2,12.7,3,Not Returned,Not Purchased,0.62,0.0
+CUST1223,36,Male,Kolkata,West Bengal,Fashion,Jeans,4548.77,1,10,UPI,Mobile,3.8,6,6,1,2.3,4,Returned,Not Purchased,0.459,0.0
+CUST1224,43,Male,Patna,Bihar,Home & Kitchen,Coffee Mug,357.38,1,5,UPI,Mobile,4.0,5,12,2,7.5,4,Not Returned,Purchased,0.656,339.51
+CUST1225,21,Female,Kochi,Kerala,Books,Self Help Book,1376.08,2,0,UPI,Laptop,3.4,3,6,5,10.0,2,Not Returned,Not Purchased,0.604,0.0
+CUST1226,27,Male,Pune,Maharashtra,Electronics,Wireless Earbuds,2181.8,1,10,Net Banking,Mobile,4.5,5,3,2,12.1,3,Not Returned,Purchased,0.553,1963.62
+CUST1227,21,Female,Indore,Madhya Pradesh,Electronics,Smart Watch,23343.37,1,15,Net Banking,Mobile,5.0,5,4,2,17.1,1,Not Returned,Not Purchased,0.667,0.0
+CUST1228,19,Female,Ahmedabad,Gujarat,Electronics,Laptop Stand,18598.58,3,20,Credit Card,Mobile,3.3,4,4,3,6.8,3,Not Returned,Purchased,0.582,44636.59
+CUST1229,30,Other,Nagpur,Maharashtra,Electronics,Power Bank,16756.45,1,15,Credit Card,Laptop,3.1,4,11,1,14.1,5,Not Returned,Not Purchased,0.6,0.0
+CUST1230,46,Male,Nashik,Maharashtra,Electronics,Power Bank,14096.17,1,15,UPI,Mobile,5.0,5,2,3,15.4,1,Not Returned,Purchased,0.669,11981.74
+CUST1231,18,Male,Bhopal,Madhya Pradesh,Grocery,Green Tea,117.03,2,10,Cash on Delivery,Laptop,4.8,8,5,1,4.0,3,Not Returned,Purchased,0.494,210.65
+CUST1232,18,Female,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,3688.74,1,15,Debit Card,Mobile,3.2,3,10,3,5.3,5,Not Returned,Purchased,0.647,3135.43
+CUST1233,29,Female,Indore,Madhya Pradesh,Fashion,Jeans,2331.51,2,15,UPI,Laptop,4.8,5,7,3,11.2,3,Not Returned,Purchased,0.694,3963.57
+CUST1234,37,Female,Hyderabad,Telangana,Grocery,Coffee,2090.63,1,15,UPI,Mobile,3.6,5,2,3,6.0,6,Returned,Not Purchased,0.518,0.0
+CUST1235,50,Female,Nashik,Maharashtra,Home & Kitchen,Mixer Grinder,5677.92,2,10,UPI,Mobile,4.8,4,4,2,14.5,5,Not Returned,Purchased,0.592,10220.26
+CUST1236,18,Female,Goa,Goa,Books,Novel,919.3,1,20,UPI,Mobile,5.0,4,5,1,9.0,5,Not Returned,Purchased,0.576,735.44
+CUST1237,27,Other,Patna,Bihar,Fashion,Sneakers,4126.44,1,15,Debit Card,Mobile,4.5,6,9,5,6.9,4,Not Returned,Purchased,0.82,3507.47
+CUST1238,18,Other,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,7623.28,1,30,Debit Card,Mobile,3.6,4,7,3,9.9,6,Not Returned,Not Purchased,0.724,0.0
+CUST1239,29,Male,Thane,Maharashtra,Home & Kitchen,Mixer Grinder,1571.29,1,5,Cash on Delivery,Tablet,3.7,3,6,6,17.2,6,Not Returned,Not Purchased,0.741,0.0
+CUST1240,23,Male,Delhi,Delhi,Home & Kitchen,Mixer Grinder,699.17,1,10,Credit Card,Laptop,4.1,7,5,5,11.5,1,Not Returned,Purchased,0.739,629.25
+CUST1241,30,Male,Kochi,Kerala,Fashion,Kurta,2840.14,2,5,Net Banking,Tablet,4.9,1,1,5,11.5,5,Not Returned,Purchased,0.569,5396.27
+CUST1242,32,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,4689.26,3,5,UPI,Mobile,4.4,3,6,1,9.3,3,Not Returned,Purchased,0.463,13364.39
+CUST1243,18,Other,Jaipur,Rajasthan,Electronics,Wireless Earbuds,17809.37,1,5,Credit Card,Mobile,3.9,3,6,4,24.1,4,Not Returned,Purchased,0.737,16918.9
+CUST1244,50,Male,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,5088.88,1,5,UPI,Mobile,3.4,8,8,1,9.4,3,Not Returned,Purchased,0.551,4834.44
+CUST1245,18,Other,Patna,Bihar,Grocery,Green Tea,2247.69,1,10,Credit Card,Mobile,4.3,2,5,3,14.8,4,Not Returned,Purchased,0.621,2022.92
+CUST1246,18,Other,Jaipur,Rajasthan,Fashion,Kurta,3241.97,1,20,Credit Card,Mobile,4.5,3,6,1,10.6,2,Not Returned,Not Purchased,0.572,0.0
+CUST1247,28,Female,Mumbai,Maharashtra,Electronics,Laptop Stand,19037.37,3,25,Cash on Delivery,Laptop,4.1,4,8,3,17.6,5,Not Returned,Purchased,0.767,42834.08
+CUST1248,40,Female,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,10437.66,1,20,UPI,Laptop,3.3,0,6,5,7.4,4,Returned,Not Purchased,0.646,0.0
+CUST1249,32,Other,Nashik,Maharashtra,Beauty,Lipstick,3793.56,1,10,Debit Card,Mobile,4.9,4,6,3,7.3,4,Not Returned,Purchased,0.638,3414.2
+CUST1250,18,Male,Mumbai,Maharashtra,Grocery,Dry Fruits,2117.06,2,25,UPI,Mobile,5.0,3,4,5,12.2,4,Not Returned,Purchased,0.799,3175.59
+CUST1251,34,Female,Thane,Maharashtra,Grocery,Dry Fruits,1300.73,2,30,UPI,Mobile,4.2,2,4,2,8.0,4,Not Returned,Purchased,0.598,1821.02
+CUST1252,35,Female,Mumbai,Maharashtra,Fashion,Jeans,722.8,1,25,UPI,Mobile,4.4,4,3,3,7.5,4,Not Returned,Purchased,0.643,542.1
+CUST1253,18,Other,Indore,Madhya Pradesh,Grocery,Dry Fruits,1886.61,3,15,UPI,Mobile,4.0,5,9,2,8.2,3,Not Returned,Not Purchased,0.657,0.0
+CUST1254,26,Other,Chennai,Tamil Nadu,Electronics,Wireless Earbuds,17387.66,2,0,UPI,Mobile,4.2,5,8,4,12.8,6,Not Returned,Not Purchased,0.697,0.0
+CUST1255,21,Male,Kochi,Kerala,Home & Kitchen,Bedsheet,7738.87,2,10,Cash on Delivery,Mobile,4.0,3,9,2,10.2,5,Returned,Purchased,0.612,13929.97
+CUST1256,26,Female,Bengaluru,Karnataka,Fashion,Kurta,5557.15,1,40,Debit Card,Mobile,3.5,2,6,1,10.1,6,Returned,Purchased,0.616,3334.29
+CUST1257,19,Male,Patna,Bihar,Electronics,Bluetooth Speaker,18747.64,1,20,UPI,Mobile,4.7,2,7,1,10.6,4,Not Returned,Not Purchased,0.586,0.0
+CUST1258,43,Other,Indore,Madhya Pradesh,Home & Kitchen,Mixer Grinder,9256.5,1,20,Cash on Delivery,Mobile,4.6,7,8,2,12.1,2,Not Returned,Purchased,0.745,7405.2
+CUST1259,29,Other,Patna,Bihar,Electronics,Laptop Stand,6364.02,1,10,Cash on Delivery,Mobile,5.0,7,6,2,6.7,4,Not Returned,Purchased,0.628,5727.62
+CUST1260,21,Male,Chandigarh,Chandigarh,Electronics,Laptop Stand,21767.54,1,30,Credit Card,Mobile,5.0,3,7,0,1.0,3,Not Returned,Purchased,0.534,15237.28
+CUST1261,53,Other,Delhi,Delhi,Grocery,Dry Fruits,1669.07,1,20,Cash on Delivery,Mobile,5.0,1,6,2,17.9,3,Not Returned,Purchased,0.678,1335.26
+CUST1262,31,Male,Kolkata,West Bengal,Fashion,Sneakers,2149.96,2,20,UPI,Mobile,3.3,2,7,4,12.2,7,Not Returned,Purchased,0.701,3439.94
+CUST1263,36,Male,Goa,Goa,Grocery,Coffee,1532.14,1,10,Debit Card,Mobile,3.6,3,6,5,16.6,6,Not Returned,Purchased,0.739,1378.93
+CUST1264,32,Other,Goa,Goa,Grocery,Protein Bar,2456.57,2,5,UPI,Mobile,4.5,1,5,0,7.0,3,Not Returned,Not Purchased,0.334,0.0
+CUST1265,40,Male,Kolkata,West Bengal,Beauty,Lipstick,1296.04,1,5,Credit Card,Laptop,3.7,7,6,0,6.1,4,Not Returned,Not Purchased,0.376,0.0
+CUST1266,32,Female,Jaipur,Rajasthan,Grocery,Green Tea,2245.82,1,25,UPI,Tablet,4.7,5,6,1,7.6,7,Returned,Not Purchased,0.571,0.0
+CUST1267,29,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,24038.45,1,25,Debit Card,Laptop,2.8,3,6,2,9.7,3,Not Returned,Purchased,0.545,18028.84
+CUST1268,50,Female,Kochi,Kerala,Beauty,Sunscreen,3734.45,3,10,Net Banking,Mobile,3.6,7,4,4,15.8,5,Not Returned,Not Purchased,0.713,0.0
+CUST1269,18,Female,Patna,Bihar,Home & Kitchen,Water Bottle,9743.99,1,15,Net Banking,Mobile,3.7,3,5,0,8.0,5,Not Returned,Not Purchased,0.399,0.0
+CUST1270,36,Female,Chennai,Tamil Nadu,Fashion,Kurta,4238.42,1,25,Debit Card,Mobile,5.0,2,6,3,11.6,5,Not Returned,Purchased,0.725,3178.82
+CUST1271,18,Female,Bhopal,Madhya Pradesh,Fashion,T-Shirt,597.93,1,15,UPI,Mobile,3.7,5,3,1,3.8,6,Not Returned,Purchased,0.402,508.24
+CUST1272,25,Other,Bhopal,Madhya Pradesh,Electronics,Smart Watch,9287.84,2,20,Debit Card,Mobile,3.5,3,13,1,7.2,3,Not Returned,Not Purchased,0.651,0.0
+CUST1273,35,Other,Delhi,Delhi,Home & Kitchen,Air Fryer,1194.94,1,20,UPI,Mobile,4.0,5,9,3,16.9,5,Not Returned,Purchased,0.791,955.95
+CUST1274,33,Female,Goa,Goa,Electronics,Power Bank,12419.05,2,0,Cash on Delivery,Mobile,4.4,5,3,1,12.6,5,Not Returned,Not Purchased,0.429,0.0
+CUST1275,36,Other,Nashik,Maharashtra,Books,Novel,1620.7,1,0,Debit Card,Laptop,2.9,5,5,1,11.0,3,Not Returned,Not Purchased,0.358,0.0
+CUST1276,46,Female,Lucknow,Uttar Pradesh,Electronics,Wireless Earbuds,18022.71,1,20,Cash on Delivery,Mobile,3.9,4,5,3,13.7,5,Not Returned,Purchased,0.684,14418.17
+CUST1277,28,Other,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,5291.93,2,15,Net Banking,Mobile,4.6,3,6,3,5.4,2,Not Returned,Purchased,0.623,8996.28
+CUST1278,35,Other,Bengaluru,Karnataka,Books,Cookbook,2429.98,2,5,Cash on Delivery,Tablet,3.9,2,9,0,8.0,3,Not Returned,Not Purchased,0.382,0.0
+CUST1279,24,Female,Indore,Madhya Pradesh,Grocery,Dry Fruits,1235.61,1,30,UPI,Laptop,3.6,4,3,2,16.0,4,Not Returned,Purchased,0.615,864.93
+CUST1280,20,Female,Lucknow,Uttar Pradesh,Fashion,Handbag,1789.57,3,10,UPI,Laptop,4.8,7,9,3,15.4,4,Not Returned,Purchased,0.762,4831.84
+CUST1281,31,Other,Surat,Gujarat,Fashion,Handbag,5664.47,2,10,UPI,Mobile,3.8,3,12,1,9.5,3,Not Returned,Purchased,0.603,10196.05
+CUST1282,19,Female,Kolkata,West Bengal,Electronics,Smart Watch,1344.6,1,25,Net Banking,Mobile,4.8,3,8,4,10.8,3,Not Returned,Purchased,0.803,1008.45
+CUST1283,18,Other,Jaipur,Rajasthan,Electronics,Smart Watch,7774.51,1,20,UPI,Mobile,4.8,5,5,1,12.7,3,Not Returned,Purchased,0.615,6219.61
+CUST1284,18,Male,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,8026.04,1,10,Credit Card,Mobile,4.0,4,4,6,10.3,3,Not Returned,Not Purchased,0.747,0.0
+CUST1285,23,Male,Kochi,Kerala,Books,Self Help Book,2142.4,1,40,Debit Card,Mobile,4.3,5,11,3,12.7,4,Not Returned,Not Purchased,0.872,0.0
+CUST1286,28,Other,Nashik,Maharashtra,Electronics,Wireless Earbuds,13799.5,1,5,UPI,Mobile,3.7,3,8,2,6.9,4,Returned,Not Purchased,0.518,0.0
+CUST1287,18,Female,Patna,Bihar,Grocery,Coffee,308.65,1,5,Credit Card,Laptop,4.6,3,10,3,14.8,3,Not Returned,Not Purchased,0.688,0.0
+CUST1288,37,Female,Thane,Maharashtra,Electronics,Power Bank,22596.12,2,20,Debit Card,Mobile,3.5,8,7,2,6.6,5,Not Returned,Purchased,0.659,36153.79
+CUST1289,24,Female,Jaipur,Rajasthan,Electronics,Smart Watch,5000.45,3,25,Credit Card,Mobile,3.2,2,5,2,7.4,2,Not Returned,Not Purchased,0.54,0.0
+CUST1290,27,Other,Chennai,Tamil Nadu,Fashion,Kurta,1887.84,2,10,UPI,Laptop,3.9,4,1,1,10.2,3,Not Returned,Purchased,0.352,3398.11
+CUST1291,18,Other,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,1682.36,1,20,Debit Card,Mobile,3.5,3,3,2,10.0,3,Not Returned,Not Purchased,0.517,0.0
+CUST1292,41,Other,Indore,Madhya Pradesh,Grocery,Green Tea,1660.71,1,15,UPI,Mobile,4.1,4,5,4,13.7,4,Not Returned,Purchased,0.718,1411.6
+CUST1293,28,Male,Lucknow,Uttar Pradesh,Electronics,Power Bank,2360.67,1,20,Credit Card,Mobile,3.2,4,8,2,8.9,2,Returned,Purchased,0.622,1888.54
+CUST1294,18,Other,Kochi,Kerala,Electronics,Power Bank,10463.69,1,15,UPI,Laptop,2.5,4,4,1,11.2,5,Not Returned,Not Purchased,0.393,0.0
+CUST1295,28,Female,Hyderabad,Telangana,Grocery,Green Tea,2439.23,1,20,UPI,Tablet,3.3,6,6,1,10.1,5,Not Returned,Not Purchased,0.529,0.0
+CUST1296,45,Female,Surat,Gujarat,Grocery,Olive Oil,689.8,1,10,Credit Card,Laptop,4.5,1,8,1,17.0,4,Returned,Purchased,0.539,620.82
+CUST1297,36,Female,Goa,Goa,Home & Kitchen,Air Fryer,6542.64,1,10,Credit Card,Mobile,4.6,5,9,4,9.3,4,Not Returned,Purchased,0.764,5888.38
+CUST1298,35,Male,Chandigarh,Chandigarh,Fashion,T-Shirt,597.98,1,0,Cash on Delivery,Mobile,4.9,2,8,4,12.1,4,Not Returned,Purchased,0.685,597.98
+CUST1299,48,Female,Pune,Maharashtra,Fashion,Jeans,3092.02,1,15,Debit Card,Laptop,3.3,6,11,3,8.0,4,Not Returned,Purchased,0.705,2628.22
+CUST1300,31,Other,Patna,Bihar,Electronics,Laptop Stand,18895.39,1,20,Cash on Delivery,Mobile,3.9,3,2,2,13.9,5,Not Returned,Purchased,0.547,15116.31
+CUST1301,27,Female,Bhopal,Madhya Pradesh,Beauty,Sunscreen,2048.35,1,20,Debit Card,Mobile,5.0,2,7,7,21.8,4,Not Returned,Purchased,0.908,1638.68
+CUST1302,34,Female,Kolkata,West Bengal,Fashion,Handbag,1430.72,3,15,Cash on Delivery,Laptop,5.0,4,5,2,6.2,6,Not Returned,Not Purchased,0.533,0.0
+CUST1303,22,Male,Ahmedabad,Gujarat,Fashion,Sneakers,1815.6,1,0,Credit Card,Laptop,3.9,6,2,2,8.9,4,Not Returned,Not Purchased,0.395,0.0
+CUST1304,43,Male,Lucknow,Uttar Pradesh,Books,Exam Guide,1512.29,2,15,Cash on Delivery,Mobile,3.4,4,7,4,13.5,4,Not Returned,Purchased,0.727,2570.89
+CUST1305,23,Male,Chennai,Tamil Nadu,Fashion,Sneakers,617.34,2,5,Debit Card,Mobile,4.2,3,3,2,13.3,5,Not Returned,Purchased,0.484,1172.95
+CUST1306,18,Female,Bengaluru,Karnataka,Fashion,Handbag,1263.63,2,5,Credit Card,Mobile,2.7,5,4,4,14.2,1,Not Returned,Not Purchased,0.605,0.0
+CUST1307,43,Female,Nashik,Maharashtra,Books,Data Science Book,1274.92,1,25,UPI,Mobile,4.0,6,2,2,16.8,6,Not Returned,Not Purchased,0.644,0.0
+CUST1308,46,Female,Ahmedabad,Gujarat,Fashion,Handbag,4888.6,1,20,Net Banking,Mobile,4.1,5,10,4,17.6,5,Not Returned,Not Purchased,0.847,0.0
+CUST1309,18,Female,Indore,Madhya Pradesh,Fashion,Sneakers,4986.6,1,20,Credit Card,Mobile,4.4,4,3,0,9.3,2,Not Returned,Not Purchased,0.445,0.0
+CUST1310,36,Male,Jaipur,Rajasthan,Grocery,Green Tea,1768.77,1,25,UPI,Laptop,1.9,1,8,4,9.2,1,Not Returned,Purchased,0.632,1326.58
+CUST1311,31,Male,Nashik,Maharashtra,Electronics,Wireless Earbuds,4608.56,1,20,Debit Card,Mobile,3.3,2,10,4,7.1,3,Not Returned,Purchased,0.73,3686.85
+CUST1312,41,Other,Surat,Gujarat,Fashion,Handbag,554.05,3,20,Net Banking,Tablet,5.0,4,7,0,7.6,5,Not Returned,Not Purchased,0.509,0.0
+CUST1313,39,Male,Hyderabad,Telangana,Fashion,Kurta,3979.42,1,0,Debit Card,Mobile,3.4,4,3,3,4.9,5,Not Returned,Purchased,0.424,3979.42
+CUST1314,36,Female,Patna,Bihar,Electronics,Laptop Stand,23802.93,3,15,UPI,Laptop,4.4,2,2,2,8.3,2,Not Returned,Purchased,0.435,60697.47
+CUST1315,41,Female,Surat,Gujarat,Home & Kitchen,Bedsheet,4329.24,1,20,Debit Card,Tablet,4.4,2,5,1,7.6,2,Not Returned,Not Purchased,0.465,0.0
+CUST1316,30,Male,Kolkata,West Bengal,Beauty,Lipstick,2833.8,1,25,UPI,Laptop,3.2,3,7,0,1.9,4,Not Returned,Purchased,0.394,2125.35
+CUST1317,27,Female,Surat,Gujarat,Fashion,Sneakers,2327.05,2,15,UPI,Mobile,4.8,3,5,2,5.5,5,Not Returned,Not Purchased,0.55,0.0
+CUST1318,37,Female,Mumbai,Maharashtra,Books,Exam Guide,2155.62,2,10,UPI,Mobile,3.3,3,11,6,17.5,2,Not Returned,Purchased,0.854,3880.12
+CUST1319,22,Female,Thane,Maharashtra,Home & Kitchen,Air Fryer,2680.63,1,15,Debit Card,Mobile,4.5,6,3,0,6.0,5,Not Returned,Purchased,0.424,2278.54
+CUST1320,21,Other,Kochi,Kerala,Fashion,Jeans,3225.46,1,15,Cash on Delivery,Mobile,3.8,2,5,0,5.8,4,Not Returned,Not Purchased,0.369,0.0
+CUST1321,37,Male,Delhi,Delhi,Home & Kitchen,Mixer Grinder,8050.53,1,5,Credit Card,Laptop,3.5,0,6,2,6.7,4,Not Returned,Not Purchased,0.375,0.0
+CUST1322,25,Other,Hyderabad,Telangana,Electronics,Power Bank,5748.5,1,5,Cash on Delivery,Laptop,4.6,5,4,0,9.8,3,Not Returned,Purchased,0.37,5461.07
+CUST1323,42,Other,Nashik,Maharashtra,Grocery,Green Tea,1480.5,3,10,UPI,Laptop,3.4,1,2,5,11.4,3,Not Returned,Not Purchased,0.555,0.0
+CUST1324,39,Male,Nashik,Maharashtra,Home & Kitchen,Coffee Mug,3811.13,1,20,Debit Card,Tablet,2.8,4,3,0,8.4,4,Not Returned,Not Purchased,0.334,0.0
+CUST1325,37,Female,Patna,Bihar,Grocery,Protein Bar,1995.22,2,20,Net Banking,Mobile,3.3,4,10,4,20.3,6,Not Returned,Purchased,0.824,3192.35
+CUST1326,48,Other,Indore,Madhya Pradesh,Grocery,Coffee,2161.57,3,10,Debit Card,Laptop,4.8,4,8,2,10.7,6,Returned,Purchased,0.598,5836.24
+CUST1327,37,Male,Patna,Bihar,Books,Exam Guide,595.27,1,15,Credit Card,Mobile,4.3,7,5,6,21.9,5,Not Returned,Not Purchased,0.877,0.0
+CUST1328,27,Female,Goa,Goa,Books,Data Science Book,587.58,1,10,Cash on Delivery,Laptop,3.8,5,3,4,10.2,3,Not Returned,Not Purchased,0.592,0.0
+CUST1329,20,Other,Surat,Gujarat,Electronics,Power Bank,8807.47,1,15,UPI,Mobile,3.6,4,7,3,8.2,5,Not Returned,Not Purchased,0.641,0.0
+CUST1330,34,Other,Pune,Maharashtra,Grocery,Protein Bar,1264.83,2,30,UPI,Mobile,4.4,7,4,2,9.9,2,Not Returned,Purchased,0.7,1770.76
+CUST1331,43,Female,Bengaluru,Karnataka,Books,Data Science Book,1946.82,2,20,Debit Card,Laptop,3.5,3,1,1,11.9,6,Not Returned,Purchased,0.379,3114.91
+CUST1332,35,Male,Surat,Gujarat,Books,Novel,2353.14,3,10,Credit Card,Tablet,3.6,5,5,6,10.9,5,Not Returned,Purchased,0.739,6353.48
+CUST1333,35,Male,Surat,Gujarat,Electronics,Laptop Stand,18778.39,2,25,UPI,Mobile,4.9,2,5,1,7.8,5,Not Returned,Purchased,0.557,28167.58
+CUST1334,21,Other,Jaipur,Rajasthan,Electronics,Power Bank,21297.69,2,15,Debit Card,Mobile,4.0,3,8,1,5.5,2,Not Returned,Not Purchased,0.519,0.0
+CUST1335,30,Female,Kochi,Kerala,Books,Exam Guide,2147.6,1,20,Cash on Delivery,Laptop,4.6,4,1,3,16.9,3,Not Returned,Purchased,0.622,1718.08
+CUST1336,30,Male,Patna,Bihar,Grocery,Olive Oil,525.84,1,15,Debit Card,Mobile,3.4,4,6,4,2.5,5,Not Returned,Purchased,0.624,446.96
+CUST1337,35,Other,Jaipur,Rajasthan,Beauty,Sunscreen,1432.38,1,5,UPI,Laptop,5.0,0,2,2,9.2,7,Not Returned,Not Purchased,0.363,0.0
+CUST1338,28,Other,Goa,Goa,Fashion,Kurta,1469.54,2,5,UPI,Mobile,4.3,1,8,1,16.4,5,Not Returned,Purchased,0.531,2792.13
+CUST1339,21,Female,Bengaluru,Karnataka,Beauty,Shampoo,215.15,1,10,Net Banking,Laptop,3.4,4,9,2,3.1,4,Returned,Not Purchased,0.505,0.0
+CUST1340,20,Other,Jaipur,Rajasthan,Fashion,Jeans,2872.62,1,15,UPI,Mobile,4.2,6,6,1,5.1,4,Not Returned,Purchased,0.532,2441.73
+CUST1341,28,Male,Bengaluru,Karnataka,Grocery,Coffee,2495.0,1,20,Cash on Delivery,Mobile,3.7,5,5,2,11.1,2,Not Returned,Purchased,0.614,1996.0
+CUST1342,18,Other,Kochi,Kerala,Beauty,Lipstick,3680.75,3,25,Debit Card,Laptop,5.0,8,2,1,8.5,3,Not Returned,Purchased,0.568,8281.69
+CUST1343,25,Female,Delhi,Delhi,Grocery,Dry Fruits,892.91,1,10,UPI,Mobile,4.3,5,4,1,14.5,3,Not Returned,Purchased,0.525,803.62
+CUST1344,40,Female,Delhi,Delhi,Grocery,Olive Oil,1400.05,1,15,Cash on Delivery,Mobile,2.9,3,4,2,12.8,4,Not Returned,Purchased,0.506,1190.04
+CUST1345,36,Other,Kochi,Kerala,Beauty,Sunscreen,1207.73,1,20,UPI,Tablet,3.4,3,11,4,21.4,4,Returned,Purchased,0.821,966.18
+CUST1346,22,Other,Kolkata,West Bengal,Grocery,Coffee,2054.61,1,10,Credit Card,Mobile,5.0,1,8,5,11.9,3,Not Returned,Purchased,0.771,1849.15
+CUST1347,18,Other,Thane,Maharashtra,Fashion,Sneakers,1704.92,1,10,Credit Card,Mobile,3.4,2,4,0,12.2,5,Not Returned,Not Purchased,0.354,0.0
+CUST1348,42,Other,Bhopal,Madhya Pradesh,Electronics,Smart Watch,8712.86,1,20,Credit Card,Mobile,5.0,8,5,3,5.9,3,Not Returned,Purchased,0.726,6970.29
+CUST1349,19,Male,Goa,Goa,Electronics,Wireless Earbuds,16742.62,1,15,Credit Card,Mobile,4.1,4,4,2,5.7,4,Not Returned,Purchased,0.516,14231.23
+CUST1350,31,Male,Hyderabad,Telangana,Grocery,Green Tea,639.7,1,15,Debit Card,Mobile,4.7,4,4,1,9.0,4,Not Returned,Purchased,0.509,543.75
+CUST1351,30,Male,Nashik,Maharashtra,Home & Kitchen,Coffee Mug,2138.58,1,20,Debit Card,Tablet,4.6,7,7,1,5.6,6,Not Returned,Purchased,0.575,1710.86
+CUST1352,18,Male,Indore,Madhya Pradesh,Home & Kitchen,Air Fryer,3841.03,1,30,Debit Card,Mobile,4.0,6,11,4,10.3,6,Not Returned,Purchased,0.858,2688.72
+CUST1353,35,Female,Bhopal,Madhya Pradesh,Beauty,Face Wash,2514.53,1,10,UPI,Mobile,3.4,5,5,5,15.3,2,Not Returned,Purchased,0.742,2263.08
+CUST1354,44,Other,Nagpur,Maharashtra,Grocery,Green Tea,1689.25,1,15,UPI,Mobile,4.0,4,2,2,14.4,4,Not Returned,Purchased,0.542,1435.86
+CUST1355,37,Female,Pune,Maharashtra,Fashion,Kurta,2375.95,1,25,Debit Card,Mobile,3.2,3,8,4,18.4,5,Returned,Purchased,0.8,1781.96
+CUST1356,36,Female,Delhi,Delhi,Fashion,Handbag,3981.01,1,30,Cash on Delivery,Laptop,5.0,4,7,2,14.9,2,Not Returned,Purchased,0.739,2786.71
+CUST1357,21,Male,Kolkata,West Bengal,Beauty,Face Wash,1492.51,2,5,Credit Card,Mobile,4.7,4,6,2,3.5,4,Not Returned,Purchased,0.506,2835.77
+CUST1358,32,Other,Bengaluru,Karnataka,Grocery,Green Tea,1317.29,1,5,Debit Card,Tablet,3.4,3,7,4,14.4,4,Not Returned,Not Purchased,0.632,0.0
+CUST1359,33,Female,Ahmedabad,Gujarat,Grocery,Olive Oil,1325.9,1,15,Debit Card,Mobile,5.0,3,11,3,10.1,3,Not Returned,Purchased,0.766,1127.02
+CUST1360,18,Male,Surat,Gujarat,Grocery,Green Tea,320.55,2,10,Debit Card,Mobile,3.8,2,5,3,16.2,2,Not Returned,Not Purchased,0.611,0.0
+CUST1361,25,Other,Patna,Bihar,Home & Kitchen,Coffee Mug,9717.03,1,0,UPI,Mobile,4.7,4,2,2,19.0,3,Not Returned,Not Purchased,0.52,0.0
+CUST1362,33,Male,Ahmedabad,Gujarat,Fashion,Sneakers,631.36,2,10,Debit Card,Mobile,3.1,4,11,2,8.6,6,Not Returned,Purchased,0.608,1136.45
+CUST1363,48,Other,Lucknow,Uttar Pradesh,Grocery,Protein Bar,1521.26,2,10,Net Banking,Mobile,4.2,2,8,4,15.4,3,Not Returned,Not Purchased,0.734,0.0
+CUST1364,20,Male,Goa,Goa,Books,Exam Guide,753.55,2,15,Credit Card,Laptop,4.9,5,3,1,8.7,2,Not Returned,Purchased,0.473,1281.03
+CUST1365,18,Male,Lucknow,Uttar Pradesh,Beauty,Face Serum,3707.97,2,15,Debit Card,Laptop,4.5,5,3,2,13.0,2,Returned,Not Purchased,0.555,0.0
+CUST1366,32,Female,Patna,Bihar,Electronics,Smart Watch,1988.87,1,15,Credit Card,Mobile,5.0,4,4,4,9.8,6,Not Returned,Not Purchased,0.694,0.0
+CUST1367,42,Male,Kochi,Kerala,Beauty,Shampoo,3331.14,2,40,Debit Card,Mobile,5.0,5,6,5,9.8,2,Returned,Purchased,0.88,3997.37
+CUST1368,27,Female,Lucknow,Uttar Pradesh,Beauty,Lipstick,3427.44,2,10,Cash on Delivery,Mobile,3.8,4,7,4,13.1,3,Not Returned,Not Purchased,0.714,0.0
+CUST1369,32,Other,Bhopal,Madhya Pradesh,Electronics,Power Bank,22633.1,1,15,Credit Card,Laptop,3.6,3,7,1,6.3,2,Not Returned,Purchased,0.449,19238.13
+CUST1370,21,Other,Chennai,Tamil Nadu,Electronics,Smart Watch,18814.84,2,10,UPI,Mobile,3.6,2,9,2,13.5,3,Not Returned,Not Purchased,0.606,0.0
+CUST1371,20,Female,Bengaluru,Karnataka,Electronics,Smart Watch,7980.41,2,0,UPI,Mobile,3.5,6,4,3,15.3,7,Not Returned,Not Purchased,0.564,0.0
+CUST1372,20,Male,Mumbai,Maharashtra,Grocery,Olive Oil,978.39,2,15,Cash on Delivery,Mobile,4.7,2,5,5,13.3,1,Returned,Purchased,0.757,1663.26
+CUST1373,25,Other,Hyderabad,Telangana,Books,Cookbook,1609.26,1,30,UPI,Mobile,5.0,4,5,3,12.1,5,Not Returned,Not Purchased,0.762,0.0
+CUST1374,29,Other,Bhopal,Madhya Pradesh,Home & Kitchen,Air Fryer,7778.49,2,0,Cash on Delivery,Tablet,3.2,1,6,4,14.0,5,Not Returned,Not Purchased,0.534,0.0
+CUST1375,42,Male,Nagpur,Maharashtra,Fashion,T-Shirt,3700.86,2,5,Credit Card,Mobile,4.4,3,4,1,8.3,6,Not Returned,Purchased,0.398,7031.63
+CUST1376,23,Other,Kolkata,West Bengal,Home & Kitchen,Water Bottle,4483.63,1,10,Debit Card,Mobile,4.7,5,3,2,4.2,7,Not Returned,Not Purchased,0.481,0.0
+CUST1377,29,Other,Hyderabad,Telangana,Fashion,Kurta,5322.82,1,25,Net Banking,Mobile,4.1,4,3,3,7.0,4,Not Returned,Not Purchased,0.627,0.0
+CUST1378,47,Male,Nashik,Maharashtra,Home & Kitchen,Air Fryer,6921.23,1,15,Credit Card,Mobile,3.7,6,4,5,18.7,3,Not Returned,Purchased,0.792,5883.05
+CUST1379,29,Other,Mumbai,Maharashtra,Home & Kitchen,Air Fryer,6364.6,1,20,Debit Card,Laptop,5.0,1,4,3,11.1,3,Not Returned,Purchased,0.606,5091.68
+CUST1380,38,Female,Nagpur,Maharashtra,Home & Kitchen,Coffee Mug,6837.1,1,15,UPI,Laptop,4.5,6,8,1,9.1,3,Not Returned,Purchased,0.587,5811.53
+CUST1381,21,Other,Nagpur,Maharashtra,Beauty,Lipstick,2880.9,2,20,Debit Card,Mobile,4.7,0,4,4,11.4,6,Not Returned,Not Purchased,0.66,0.0
+CUST1382,27,Female,Mumbai,Maharashtra,Grocery,Protein Bar,823.83,1,0,Cash on Delivery,Mobile,3.5,5,6,1,7.9,4,Not Returned,Not Purchased,0.415,0.0
+CUST1383,31,Other,Nagpur,Maharashtra,Electronics,Power Bank,8194.63,1,15,UPI,Tablet,4.3,1,8,3,14.1,2,Not Returned,Purchased,0.655,6965.44
+CUST1384,22,Male,Chennai,Tamil Nadu,Fashion,Sneakers,2303.22,1,0,UPI,Mobile,3.9,3,4,2,9.4,1,Not Returned,Not Purchased,0.428,0.0
+CUST1385,20,Other,Bengaluru,Karnataka,Fashion,Sneakers,3798.16,1,15,UPI,Mobile,4.4,6,2,3,5.5,7,Not Returned,Not Purchased,0.567,0.0
+CUST1386,32,Female,Bengaluru,Karnataka,Books,Cookbook,1520.82,2,20,UPI,Mobile,5.0,1,3,1,11.9,2,Not Returned,Purchased,0.504,2433.31
+CUST1387,22,Other,Jaipur,Rajasthan,Grocery,Green Tea,1668.37,1,15,Credit Card,Laptop,4.7,7,3,4,17.6,2,Not Returned,Purchased,0.742,1418.11
+CUST1388,33,Female,Thane,Maharashtra,Electronics,Laptop Stand,8336.02,1,25,UPI,Laptop,5.0,4,4,2,13.9,4,Not Returned,Purchased,0.648,6252.02
+CUST1389,34,Female,Mumbai,Maharashtra,Fashion,Handbag,509.1,1,20,Credit Card,Mobile,3.8,4,11,3,14.0,1,Not Returned,Purchased,0.787,407.28
+CUST1390,34,Other,Jaipur,Rajasthan,Beauty,Lipstick,2716.17,2,25,UPI,Tablet,3.0,4,6,1,3.8,7,Not Returned,Purchased,0.445,4074.26
+CUST1391,27,Male,Delhi,Delhi,Electronics,Bluetooth Speaker,14315.04,2,10,Debit Card,Laptop,3.9,3,6,2,16.6,7,Not Returned,Not Purchased,0.548,0.0
+CUST1392,45,Other,Hyderabad,Telangana,Electronics,Wireless Earbuds,1097.43,1,30,Debit Card,Mobile,4.2,5,8,3,10.0,2,Not Returned,Not Purchased,0.783,0.0
+CUST1393,24,Other,Hyderabad,Telangana,Home & Kitchen,Water Bottle,1417.73,1,0,Net Banking,Mobile,4.2,6,5,4,11.1,2,Not Returned,Not Purchased,0.651,0.0
+CUST1394,51,Female,Ahmedabad,Gujarat,Fashion,Handbag,1457.98,2,30,UPI,Mobile,3.9,7,3,0,1.7,4,Not Returned,Purchased,0.47,2041.17
+CUST1395,30,Male,Surat,Gujarat,Grocery,Green Tea,318.01,1,10,Credit Card,Mobile,4.6,8,10,2,6.8,2,Not Returned,Purchased,0.708,286.21
+CUST1396,22,Other,Goa,Goa,Fashion,Kurta,2966.86,1,5,UPI,Laptop,3.9,0,5,2,11.9,3,Not Returned,Not Purchased,0.414,0.0
+CUST1397,31,Other,Kochi,Kerala,Electronics,Wireless Earbuds,19956.12,1,30,UPI,Laptop,4.0,4,10,2,14.1,5,Not Returned,Purchased,0.751,13969.28
+CUST1398,29,Male,Lucknow,Uttar Pradesh,Grocery,Dry Fruits,1843.46,1,15,Net Banking,Mobile,2.6,4,10,5,12.4,3,Not Returned,Not Purchased,0.789,0.0
+CUST1399,35,Other,Surat,Gujarat,Home & Kitchen,Mixer Grinder,6349.5,1,10,UPI,Mobile,4.3,2,5,3,17.5,4,Not Returned,Not Purchased,0.643,0.0
+CUST1400,36,Male,Nashik,Maharashtra,Beauty,Sunscreen,3421.25,1,40,Cash on Delivery,Mobile,4.8,8,7,2,12.5,3,Not Returned,Purchased,0.832,2052.75
+CUST1401,32,Other,Nagpur,Maharashtra,Grocery,Green Tea,1185.24,2,10,Credit Card,Mobile,4.3,6,5,5,10.5,3,Not Returned,Purchased,0.754,2133.43
+CUST1402,43,Male,Surat,Gujarat,Grocery,Coffee,1119.15,1,15,Credit Card,Laptop,4.7,10,3,8,20.5,3,Not Returned,Purchased,0.914,951.28
+CUST1403,18,Female,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,1897.48,1,5,UPI,Laptop,5.0,4,5,0,10.3,4,Not Returned,Purchased,0.395,1802.61
+CUST1404,45,Other,Bengaluru,Karnataka,Electronics,Laptop Stand,2791.5,1,0,UPI,Mobile,3.6,4,8,2,12.3,4,Not Returned,Not Purchased,0.547,0.0
+CUST1405,47,Male,Delhi,Delhi,Fashion,T-Shirt,2518.24,1,40,UPI,Mobile,4.3,4,2,3,15.5,3,Not Returned,Not Purchased,0.757,0.0
+CUST1406,27,Other,Bengaluru,Karnataka,Fashion,Sneakers,5489.34,1,15,UPI,Laptop,4.3,5,5,3,6.3,5,Not Returned,Purchased,0.594,4665.94
+CUST1407,36,Male,Jaipur,Rajasthan,Electronics,Smart Watch,20906.26,1,20,Credit Card,Mobile,4.2,6,2,0,4.3,6,Not Returned,Not Purchased,0.393,0.0
+CUST1408,18,Female,Goa,Goa,Grocery,Coffee,1619.46,1,20,Credit Card,Mobile,5.0,3,4,2,11.3,6,Not Returned,Purchased,0.605,1295.57
+CUST1409,34,Female,Nashik,Maharashtra,Electronics,Wireless Earbuds,16855.69,2,25,UPI,Mobile,3.8,3,6,0,8.7,7,Not Returned,Not Purchased,0.481,0.0
+CUST1410,34,Other,Surat,Gujarat,Beauty,Face Serum,3752.4,1,10,Debit Card,Mobile,3.7,6,2,2,8.0,4,Not Returned,Not Purchased,0.477,0.0
+CUST1411,33,Female,Goa,Goa,Books,Novel,235.45,2,10,UPI,Laptop,5.0,2,7,1,10.8,4,Not Returned,Not Purchased,0.502,0.0
+CUST1412,41,Male,Delhi,Delhi,Electronics,Smart Watch,21445.3,1,0,UPI,Laptop,4.2,3,5,0,14.2,5,Not Returned,Not Purchased,0.348,0.0
+CUST1413,34,Female,Bengaluru,Karnataka,Books,Exam Guide,939.11,3,5,UPI,Mobile,3.6,7,4,0,6.8,4,Not Returned,Not Purchased,0.371,0.0
+CUST1414,25,Female,Kochi,Kerala,Home & Kitchen,Air Fryer,732.48,2,20,Debit Card,Mobile,5.0,5,4,2,14.8,5,Not Returned,Purchased,0.677,1171.97
+CUST1415,38,Female,Lucknow,Uttar Pradesh,Books,Self Help Book,336.91,1,5,UPI,Mobile,4.1,3,4,1,12.8,5,Not Returned,Not Purchased,0.436,0.0
+CUST1416,33,Male,Kolkata,West Bengal,Beauty,Shampoo,1654.87,1,20,Cash on Delivery,Mobile,4.7,6,8,1,12.8,7,Not Returned,Not Purchased,0.678,0.0
+CUST1417,22,Female,Nagpur,Maharashtra,Grocery,Protein Bar,195.97,1,20,UPI,Mobile,4.4,2,3,2,9.7,7,Returned,Purchased,0.525,156.78
+CUST1418,48,Female,Surat,Gujarat,Electronics,Smart Watch,17580.16,2,15,Cash on Delivery,Mobile,4.9,3,2,3,16.4,3,Not Returned,Purchased,0.641,29886.27
+CUST1419,40,Female,Bengaluru,Karnataka,Electronics,Smart Watch,16767.48,2,5,Debit Card,Mobile,3.6,3,8,4,11.5,3,Not Returned,Not Purchased,0.672,0.0
+CUST1420,26,Male,Nagpur,Maharashtra,Beauty,Sunscreen,3526.55,1,25,Debit Card,Tablet,4.1,3,4,2,7.1,6,Not Returned,Not Purchased,0.523,0.0
+CUST1421,25,Female,Pune,Maharashtra,Electronics,Smart Watch,14342.68,1,40,Cash on Delivery,Laptop,4.3,5,5,1,3.9,5,Not Returned,Not Purchased,0.604,0.0
+CUST1422,35,Male,Nashik,Maharashtra,Electronics,Wireless Earbuds,15817.53,1,20,Net Banking,Mobile,2.9,7,4,5,15.1,5,Not Returned,Purchased,0.779,12654.02
+CUST1423,18,Other,Thane,Maharashtra,Books,Cookbook,1924.98,1,15,UPI,Tablet,4.1,4,7,1,9.0,2,Not Returned,Purchased,0.512,1636.23
+CUST1424,31,Female,Jaipur,Rajasthan,Electronics,Power Bank,23384.86,1,25,Credit Card,Mobile,3.4,1,4,3,9.1,5,Not Returned,Purchased,0.586,17538.65
+CUST1425,24,Other,Patna,Bihar,Books,Cookbook,2045.56,1,5,UPI,Mobile,4.6,4,12,3,24.1,4,Not Returned,Not Purchased,0.82,0.0
+CUST1426,32,Male,Bhopal,Madhya Pradesh,Home & Kitchen,Water Bottle,1068.53,1,10,Cash on Delivery,Laptop,5.0,6,4,2,16.2,5,Not Returned,Not Purchased,0.612,0.0
+CUST1427,27,Female,Nagpur,Maharashtra,Fashion,T-Shirt,3333.37,2,20,Cash on Delivery,Laptop,4.0,6,6,2,14.7,6,Not Returned,Purchased,0.647,5333.39
+CUST1428,23,Male,Surat,Gujarat,Grocery,Green Tea,2222.73,1,15,UPI,Laptop,3.0,7,2,2,8.7,5,Not Returned,Not Purchased,0.462,0.0
+CUST1429,23,Male,Surat,Gujarat,Electronics,Laptop Stand,16110.36,1,10,Cash on Delivery,Mobile,4.0,2,5,4,14.8,4,Not Returned,Purchased,0.666,14499.32
+CUST1430,33,Female,Ahmedabad,Gujarat,Beauty,Shampoo,2527.83,3,20,UPI,Mobile,4.6,3,9,2,5.8,3,Not Returned,Not Purchased,0.659,0.0
+CUST1431,50,Female,Nashik,Maharashtra,Fashion,T-Shirt,5735.36,2,15,Net Banking,Mobile,4.9,6,5,3,7.7,4,Not Returned,Purchased,0.681,9750.11
+CUST1432,18,Female,Patna,Bihar,Grocery,Green Tea,2381.32,1,25,Net Banking,Tablet,3.7,5,2,4,8.6,2,Not Returned,Purchased,0.642,1785.99
+CUST1433,21,Male,Patna,Bihar,Home & Kitchen,Coffee Mug,7799.04,2,20,Credit Card,Mobile,3.3,4,5,3,9.1,1,Not Returned,Purchased,0.623,12478.46
+CUST1434,32,Other,Pune,Maharashtra,Fashion,Jeans,1800.36,2,20,Debit Card,Mobile,3.3,4,8,3,11.3,4,Not Returned,Purchased,0.7,2880.58
+CUST1435,39,Female,Surat,Gujarat,Electronics,Wireless Earbuds,2215.73,1,15,UPI,Laptop,3.3,7,7,3,11.9,3,Not Returned,Not Purchased,0.672,0.0
+CUST1436,18,Other,Bhopal,Madhya Pradesh,Fashion,Kurta,327.36,1,15,Cash on Delivery,Laptop,2.7,7,3,3,7.6,7,Not Returned,Purchased,0.512,278.26
+CUST1437,30,Male,Goa,Goa,Fashion,Jeans,5016.44,1,20,UPI,Mobile,3.3,6,6,3,9.3,3,Returned,Purchased,0.677,4013.15
+CUST1438,24,Male,Nashik,Maharashtra,Fashion,Jeans,3612.76,3,0,UPI,Mobile,3.5,5,8,2,4.0,2,Not Returned,Purchased,0.488,10838.28
+CUST1439,37,Male,Indore,Madhya Pradesh,Beauty,Face Wash,2646.43,1,30,Credit Card,Mobile,3.8,3,2,2,3.2,3,Not Returned,Not Purchased,0.511,0.0
+CUST1440,29,Male,Nashik,Maharashtra,Fashion,T-Shirt,2175.98,1,10,Cash on Delivery,Tablet,3.2,5,8,5,19.7,3,Not Returned,Purchased,0.785,1958.38
+CUST1441,20,Other,Ahmedabad,Gujarat,Electronics,Smart Watch,10030.87,1,10,UPI,Mobile,4.3,5,3,6,11.7,3,Not Returned,Purchased,0.762,9027.78
+CUST1442,23,Other,Pune,Maharashtra,Beauty,Sunscreen,1559.05,1,15,UPI,Mobile,5.0,7,12,0,8.3,4,Not Returned,Not Purchased,0.678,0.0
+CUST1443,25,Female,Patna,Bihar,Beauty,Shampoo,3131.43,1,10,Credit Card,Mobile,4.3,3,10,4,17.3,6,Not Returned,Purchased,0.786,2818.29
+CUST1444,44,Male,Nagpur,Maharashtra,Fashion,Sneakers,1340.43,1,20,Debit Card,Mobile,3.9,5,5,1,13.5,4,Not Returned,Not Purchased,0.583,0.0
+CUST1445,30,Other,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,6700.25,1,25,UPI,Mobile,4.3,1,6,5,16.6,2,Not Returned,Purchased,0.81,5025.19
+CUST1446,27,Female,Nashik,Maharashtra,Books,Self Help Book,1146.1,1,5,Credit Card,Mobile,4.2,6,6,5,13.1,4,Not Returned,Purchased,0.761,1088.79
+CUST1447,37,Female,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,4146.48,1,20,UPI,Laptop,4.0,2,6,3,9.2,4,Not Returned,Not Purchased,0.606,0.0
+CUST1448,38,Male,Goa,Goa,Electronics,Smart Watch,19354.42,1,0,UPI,Mobile,3.0,2,7,1,8.7,3,Not Returned,Not Purchased,0.372,0.0
+CUST1449,41,Male,Indore,Madhya Pradesh,Fashion,Sneakers,5943.94,3,15,UPI,Mobile,5.0,4,7,3,8.2,4,Not Returned,Purchased,0.697,15157.05
+CUST1450,43,Other,Goa,Goa,Beauty,Shampoo,2629.18,1,20,Cash on Delivery,Mobile,3.9,5,6,3,15.8,3,Not Returned,Purchased,0.732,2103.34
+CUST1451,31,Other,Patna,Bihar,Books,Data Science Book,1058.5,2,15,Net Banking,Mobile,3.9,6,6,2,12.2,2,Not Returned,Not Purchased,0.64,0.0
+CUST1452,33,Male,Kochi,Kerala,Home & Kitchen,Water Bottle,2657.44,3,25,UPI,Mobile,4.4,3,5,2,8.3,2,Not Returned,Not Purchased,0.617,0.0
+CUST1453,27,Other,Ahmedabad,Gujarat,Electronics,Power Bank,21882.32,1,5,UPI,Laptop,4.2,3,5,1,10.6,3,Not Returned,Purchased,0.407,20788.2
+CUST1454,18,Other,Bhopal,Madhya Pradesh,Books,Novel,1064.17,1,25,UPI,Mobile,4.5,1,6,1,5.3,6,Not Returned,Not Purchased,0.51,0.0
+CUST1455,33,Other,Thane,Maharashtra,Electronics,Wireless Earbuds,5626.9,1,20,UPI,Laptop,3.9,3,4,2,6.6,3,Not Returned,Purchased,0.491,4501.52
+CUST1456,39,Other,Chennai,Tamil Nadu,Beauty,Lipstick,2608.06,2,10,Net Banking,Tablet,4.5,2,2,4,9.7,1,Not Returned,Purchased,0.545,4694.51
+CUST1457,48,Male,Hyderabad,Telangana,Electronics,Smart Watch,4342.3,1,20,Credit Card,Laptop,3.5,4,8,3,1.9,4,Returned,Purchased,0.6,3473.84
+CUST1458,41,Male,Chandigarh,Chandigarh,Fashion,Sneakers,2957.28,1,5,UPI,Mobile,4.8,3,9,2,12.2,5,Not Returned,Purchased,0.633,2809.42
+CUST1459,40,Other,Surat,Gujarat,Electronics,Bluetooth Speaker,12259.66,2,25,UPI,Laptop,4.2,4,4,0,8.8,3,Not Returned,Not Purchased,0.447,0.0
+CUST1460,42,Female,Nashik,Maharashtra,Fashion,T-Shirt,2747.25,2,5,Credit Card,Mobile,3.2,2,9,2,17.2,3,Not Returned,Purchased,0.59,5219.77
+CUST1461,32,Other,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,5743.27,1,25,Debit Card,Mobile,3.6,5,4,2,16.8,2,Not Returned,Purchased,0.664,4307.45
+CUST1462,27,Other,Thane,Maharashtra,Fashion,Handbag,3453.15,1,10,Debit Card,Mobile,5.0,4,1,8,24.8,6,Not Returned,Purchased,0.875,3107.84
+CUST1463,43,Male,Kolkata,West Bengal,Electronics,Power Bank,22293.91,1,15,UPI,Mobile,3.2,4,3,1,7.9,4,Not Returned,Not Purchased,0.41,0.0
+CUST1464,46,Female,Delhi,Delhi,Beauty,Sunscreen,3116.38,3,15,UPI,Tablet,4.2,6,6,1,3.9,5,Not Returned,Purchased,0.484,7946.77
+CUST1465,33,Other,Bhopal,Madhya Pradesh,Home & Kitchen,Air Fryer,3338.3,1,15,UPI,Tablet,2.1,7,3,2,15.8,2,Not Returned,Purchased,0.506,2837.56
+CUST1466,26,Other,Mumbai,Maharashtra,Books,Novel,1723.74,1,20,UPI,Mobile,3.9,4,3,3,10.0,4,Not Returned,Purchased,0.613,1378.99
+CUST1467,23,Male,Ahmedabad,Gujarat,Home & Kitchen,Bedsheet,1777.18,1,25,UPI,Laptop,3.9,7,3,2,8.7,3,Not Returned,Not Purchased,0.587,0.0
+CUST1468,32,Other,Delhi,Delhi,Grocery,Olive Oil,718.89,1,10,Credit Card,Mobile,3.6,6,5,0,9.8,4,Not Returned,Not Purchased,0.431,0.0
+CUST1469,42,Male,Patna,Bihar,Electronics,Power Bank,23209.38,1,0,UPI,Mobile,3.8,4,3,5,13.5,1,Not Returned,Purchased,0.638,23209.38
+CUST1470,31,Male,Chandigarh,Chandigarh,Fashion,T-Shirt,3621.53,1,25,UPI,Laptop,3.6,5,5,4,16.4,3,Not Returned,Not Purchased,0.752,0.0
+CUST1471,26,Male,Ahmedabad,Gujarat,Grocery,Dry Fruits,1192.08,1,15,UPI,Mobile,3.6,7,3,3,15.8,2,Not Returned,Not Purchased,0.667,0.0
+CUST1472,18,Male,Chandigarh,Chandigarh,Beauty,Shampoo,2651.69,1,5,Cash on Delivery,Tablet,3.9,3,5,2,10.6,4,Not Returned,Purchased,0.455,2519.11
+CUST1473,23,Female,Patna,Bihar,Home & Kitchen,Water Bottle,9625.39,1,40,UPI,Mobile,3.4,3,4,1,5.0,3,Not Returned,Purchased,0.554,5775.23
+CUST1474,27,Other,Chandigarh,Chandigarh,Home & Kitchen,Coffee Mug,9532.57,2,20,UPI,Laptop,4.2,6,9,3,13.0,5,Not Returned,Purchased,0.76,15252.11
+CUST1475,38,Female,Surat,Gujarat,Electronics,Power Bank,1565.08,2,0,Cash on Delivery,Mobile,4.9,1,3,0,8.2,3,Not Returned,Purchased,0.293,3130.16
+CUST1476,35,Other,Surat,Gujarat,Home & Kitchen,Mixer Grinder,6303.52,3,5,UPI,Laptop,3.4,4,4,2,15.7,3,Not Returned,Purchased,0.472,17965.03
+CUST1477,31,Female,Thane,Maharashtra,Grocery,Green Tea,1632.75,1,25,Cash on Delivery,Mobile,4.7,4,9,2,5.7,4,Not Returned,Purchased,0.705,1224.56
+CUST1478,60,Other,Patna,Bihar,Electronics,Smart Watch,1966.49,1,40,Net Banking,Tablet,3.9,3,4,5,13.7,4,Returned,Not Purchased,0.812,0.0
+CUST1479,28,Other,Bengaluru,Karnataka,Books,Exam Guide,1106.59,1,15,UPI,Mobile,3.0,7,7,2,9.0,5,Not Returned,Purchased,0.613,940.6
+CUST1480,36,Other,Thane,Maharashtra,Fashion,Sneakers,4174.12,2,5,UPI,Laptop,3.6,8,7,2,15.9,6,Not Returned,Purchased,0.606,7930.83
+CUST1481,26,Other,Patna,Bihar,Home & Kitchen,Air Fryer,1340.5,1,40,UPI,Mobile,3.8,2,9,1,7.0,5,Not Returned,Purchased,0.677,804.3
+CUST1482,24,Female,Lucknow,Uttar Pradesh,Beauty,Sunscreen,2020.0,2,10,Credit Card,Laptop,4.8,1,6,2,5.1,2,Not Returned,Not Purchased,0.466,0.0
+CUST1483,40,Female,Lucknow,Uttar Pradesh,Fashion,Jeans,3333.74,2,20,Credit Card,Laptop,3.2,7,11,1,14.8,4,Not Returned,Not Purchased,0.687,0.0
+CUST1484,32,Male,Patna,Bihar,Grocery,Green Tea,188.1,1,25,Debit Card,Mobile,3.7,3,7,4,9.8,3,Not Returned,Purchased,0.747,141.07
+CUST1485,61,Male,Mumbai,Maharashtra,Fashion,Kurta,2988.42,1,0,Credit Card,Laptop,3.1,2,6,1,10.9,6,Not Returned,Not Purchased,0.327,0.0
+CUST1486,23,Female,Chennai,Tamil Nadu,Home & Kitchen,Water Bottle,6848.18,1,0,Cash on Delivery,Mobile,3.0,3,7,2,10.9,4,Not Returned,Not Purchased,0.468,0.0
+CUST1487,29,Other,Kochi,Kerala,Home & Kitchen,Air Fryer,5790.22,1,40,Credit Card,Mobile,5.0,5,13,4,13.1,3,Not Returned,Not Purchased,0.923,0.0
+CUST1488,27,Male,Thane,Maharashtra,Books,Data Science Book,2061.35,2,5,UPI,Mobile,4.2,2,8,2,2.1,1,Not Returned,Purchased,0.481,3916.56
+CUST1489,30,Female,Thane,Maharashtra,Grocery,Coffee,1707.49,1,15,UPI,Laptop,3.2,8,6,4,15.8,3,Not Returned,Purchased,0.743,1451.37
+CUST1490,36,Other,Nagpur,Maharashtra,Beauty,Sunscreen,314.92,1,15,Credit Card,Mobile,4.4,2,5,2,8.4,4,Not Returned,Purchased,0.54,267.68
+CUST1491,22,Male,Lucknow,Uttar Pradesh,Electronics,Wireless Earbuds,19936.1,1,0,Credit Card,Mobile,3.6,2,3,3,11.3,1,Not Returned,Not Purchased,0.454,0.0
+CUST1492,31,Female,Bhopal,Madhya Pradesh,Grocery,Coffee,973.09,2,15,UPI,Tablet,3.4,8,5,6,13.8,2,Not Returned,Purchased,0.808,1654.25
+CUST1493,24,Other,Nashik,Maharashtra,Fashion,T-Shirt,3670.65,2,30,Debit Card,Laptop,5.0,6,8,1,13.6,2,Not Returned,Purchased,0.726,5138.91
+CUST1494,53,Other,Mumbai,Maharashtra,Home & Kitchen,Coffee Mug,8456.63,1,10,Net Banking,Laptop,5.0,5,6,3,12.9,2,Not Returned,Purchased,0.669,7610.97
+CUST1495,39,Other,Mumbai,Maharashtra,Fashion,Handbag,3920.07,2,20,Debit Card,Mobile,4.4,3,7,4,14.9,1,Not Returned,Purchased,0.78,6272.11
+CUST1496,21,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Bedsheet,7492.35,1,0,UPI,Mobile,4.0,3,6,2,7.1,4,Not Returned,Purchased,0.457,7492.35
+CUST1497,27,Other,Chennai,Tamil Nadu,Electronics,Laptop Stand,10086.08,1,10,Cash on Delivery,Mobile,3.5,2,7,3,19.7,2,Not Returned,Purchased,0.668,9077.47
+CUST1498,30,Male,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,927.5,1,15,Debit Card,Laptop,4.1,4,4,1,11.0,2,Not Returned,Not Purchased,0.462,0.0
+CUST1499,21,Male,Delhi,Delhi,Electronics,Smart Watch,20627.51,2,40,UPI,Mobile,3.7,7,8,2,6.7,3,Not Returned,Purchased,0.772,24753.01
+CUST1500,18,Male,Nashik,Maharashtra,Fashion,Handbag,4570.96,1,30,UPI,Mobile,4.0,4,4,3,13.1,1,Not Returned,Purchased,0.717,3199.67
+CUST1501,23,Male,Nashik,Maharashtra,Home & Kitchen,Air Fryer,343.46,1,15,Net Banking,Mobile,4.5,4,7,1,10.0,4,Not Returned,Not Purchased,0.576,0.0
+CUST1502,25,Other,Chandigarh,Chandigarh,Fashion,Kurta,2711.4,1,15,UPI,Tablet,4.0,13,7,5,22.7,5,Not Returned,Purchased,0.895,2304.69
+CUST1503,44,Other,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,9879.27,1,15,Cash on Delivery,Tablet,3.6,10,11,3,8.7,4,Returned,Not Purchased,0.773,0.0
+CUST1504,33,Male,Kolkata,West Bengal,Electronics,Bluetooth Speaker,4945.04,2,0,Credit Card,Laptop,2.8,5,7,5,13.1,1,Not Returned,Purchased,0.658,9890.08
+CUST1505,22,Other,Chandigarh,Chandigarh,Books,Novel,381.15,1,5,Debit Card,Mobile,3.0,6,9,4,21.3,6,Not Returned,Not Purchased,0.769,0.0
+CUST1506,18,Other,Bengaluru,Karnataka,Grocery,Dry Fruits,1673.34,1,10,Cash on Delivery,Mobile,3.2,4,10,3,7.0,5,Not Returned,Not Purchased,0.648,0.0
+CUST1507,18,Female,Bengaluru,Karnataka,Fashion,Handbag,2136.04,1,10,Credit Card,Mobile,3.9,4,7,1,8.1,4,Not Returned,Purchased,0.501,1922.44
+CUST1508,31,Male,Pune,Maharashtra,Books,Self Help Book,663.31,3,15,UPI,Laptop,5.0,4,13,0,9.5,2,Not Returned,Not Purchased,0.627,0.0
+CUST1509,35,Female,Pune,Maharashtra,Electronics,Smart Watch,23046.51,1,20,UPI,Mobile,5.0,4,5,4,4.8,5,Not Returned,Purchased,0.713,18437.21
+CUST1510,33,Other,Kochi,Kerala,Electronics,Smart Watch,12024.49,1,0,UPI,Mobile,5.0,5,6,2,12.3,4,Returned,Not Purchased,0.582,0.0
+CUST1511,41,Other,Chennai,Tamil Nadu,Fashion,T-Shirt,1681.81,1,15,UPI,Tablet,3.9,8,5,4,16.1,4,Not Returned,Purchased,0.752,1429.54
+CUST1512,40,Other,Bengaluru,Karnataka,Fashion,T-Shirt,2571.41,1,25,Credit Card,Mobile,5.0,3,2,1,4.3,2,Not Returned,Purchased,0.481,1928.56
+CUST1513,24,Male,Indore,Madhya Pradesh,Books,Novel,683.12,2,20,Credit Card,Laptop,3.2,5,11,3,14.9,7,Returned,Purchased,0.75,1092.99
+CUST1514,18,Other,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,16849.34,1,15,Debit Card,Mobile,2.4,5,4,0,6.8,3,Not Returned,Not Purchased,0.346,0.0
+CUST1515,25,Other,Bhopal,Madhya Pradesh,Home & Kitchen,Water Bottle,6259.47,1,5,Credit Card,Mobile,4.2,8,2,3,12.2,2,Not Returned,Not Purchased,0.601,0.0
+CUST1516,50,Other,Chandigarh,Chandigarh,Electronics,Laptop Stand,3685.73,1,0,UPI,Mobile,4.9,3,4,1,6.4,5,Not Returned,Purchased,0.386,3685.73
+CUST1517,25,Other,Bhopal,Madhya Pradesh,Grocery,Protein Bar,1072.82,1,10,Net Banking,Laptop,3.9,4,8,2,10.8,4,Not Returned,Not Purchased,0.572,0.0
+CUST1518,22,Female,Kolkata,West Bengal,Electronics,Wireless Earbuds,14153.32,1,5,UPI,Mobile,3.0,4,8,2,7.9,4,Not Returned,Purchased,0.513,13445.65
+CUST1519,32,Male,Goa,Goa,Grocery,Green Tea,629.68,1,25,Credit Card,Laptop,4.5,5,4,3,13.3,4,Not Returned,Purchased,0.694,472.26
+CUST1520,33,Female,Thane,Maharashtra,Fashion,Handbag,4938.67,2,20,UPI,Mobile,3.3,4,7,2,5.3,1,Not Returned,Purchased,0.574,7901.87
+CUST1521,35,Other,Nashik,Maharashtra,Beauty,Face Wash,1660.21,1,25,UPI,Laptop,3.6,1,3,3,10.9,3,Not Returned,Not Purchased,0.551,0.0
+CUST1522,40,Male,Mumbai,Maharashtra,Home & Kitchen,Coffee Mug,2009.71,2,10,UPI,Mobile,3.5,4,7,0,3.5,3,Not Returned,Not Purchased,0.383,0.0
+CUST1523,30,Male,Mumbai,Maharashtra,Electronics,Power Bank,1512.11,1,20,Net Banking,Mobile,3.3,1,4,2,12.7,7,Returned,Purchased,0.507,1209.69
+CUST1524,20,Male,Chennai,Tamil Nadu,Electronics,Wireless Earbuds,7002.77,3,15,Net Banking,Mobile,3.8,5,3,2,9.4,3,Returned,Purchased,0.529,17857.06
+CUST1525,34,Other,Surat,Gujarat,Books,Data Science Book,810.2,1,10,Net Banking,Mobile,4.2,5,8,6,20.7,4,Not Returned,Not Purchased,0.871,0.0
+CUST1526,47,Male,Thane,Maharashtra,Home & Kitchen,Bedsheet,7574.63,3,40,UPI,Laptop,4.8,4,6,2,12.0,1,Not Returned,Purchased,0.743,13634.33
+CUST1527,41,Other,Patna,Bihar,Grocery,Green Tea,708.33,2,15,Debit Card,Mobile,5.0,5,5,4,16.2,5,Not Returned,Not Purchased,0.778,0.0
+CUST1528,34,Male,Kolkata,West Bengal,Electronics,Power Bank,9533.41,2,10,Debit Card,Laptop,3.7,7,5,4,9.8,3,Not Returned,Not Purchased,0.659,0.0
+CUST1529,18,Other,Chandigarh,Chandigarh,Beauty,Shampoo,736.24,1,20,UPI,Laptop,3.4,3,8,3,9.6,7,Not Returned,Purchased,0.631,588.99
+CUST1530,19,Male,Chennai,Tamil Nadu,Home & Kitchen,Coffee Mug,3960.52,2,15,Net Banking,Laptop,4.7,4,6,3,14.4,3,Not Returned,Purchased,0.68,6732.88
+CUST1531,30,Female,Chandigarh,Chandigarh,Beauty,Shampoo,3144.92,1,20,Cash on Delivery,Mobile,3.5,2,7,3,9.0,3,Not Returned,Not Purchased,0.64,0.0
+CUST1532,25,Other,Kochi,Kerala,Fashion,Jeans,5050.01,1,0,Cash on Delivery,Mobile,2.8,6,6,2,16.6,4,Not Returned,Purchased,0.539,5050.01
+CUST1533,27,Male,Bengaluru,Karnataka,Electronics,Power Bank,8662.26,1,0,Debit Card,Mobile,3.9,3,4,2,14.2,5,Not Returned,Purchased,0.47,8662.26
+CUST1534,38,Male,Kochi,Kerala,Fashion,Handbag,4133.63,1,0,Debit Card,Tablet,5.0,2,4,0,6.1,5,Not Returned,Not Purchased,0.284,0.0
+CUST1535,32,Female,Hyderabad,Telangana,Home & Kitchen,Bedsheet,3627.25,1,30,Debit Card,Mobile,4.6,2,13,5,14.5,4,Not Returned,Purchased,0.905,2539.07
+CUST1536,18,Other,Indore,Madhya Pradesh,Beauty,Shampoo,2776.47,1,25,Credit Card,Mobile,4.5,6,4,4,14.5,1,Not Returned,Purchased,0.791,2082.35
+CUST1537,24,Other,Indore,Madhya Pradesh,Books,Novel,584.34,1,20,UPI,Laptop,3.7,5,3,4,18.0,5,Not Returned,Not Purchased,0.706,0.0
+CUST1538,28,Female,Ahmedabad,Gujarat,Fashion,T-Shirt,1749.85,1,0,UPI,Mobile,3.8,4,5,4,13.2,3,Not Returned,Purchased,0.619,1749.85
+CUST1539,35,Other,Goa,Goa,Electronics,Power Bank,10736.16,1,20,Net Banking,Laptop,2.9,0,7,1,8.2,3,Not Returned,Purchased,0.413,8588.93
+CUST1540,44,Other,Bhopal,Madhya Pradesh,Beauty,Face Wash,1730.41,1,30,UPI,Mobile,4.0,1,11,1,13.5,3,Not Returned,Purchased,0.703,1211.29
+CUST1541,31,Female,Pune,Maharashtra,Fashion,T-Shirt,4395.64,1,30,Net Banking,Mobile,4.2,3,11,2,20.2,6,Not Returned,Purchased,0.814,3076.95
+CUST1542,42,Male,Indore,Madhya Pradesh,Electronics,Smart Watch,18653.93,1,15,UPI,Mobile,4.6,1,9,3,12.0,6,Not Returned,Purchased,0.693,15855.84
+CUST1543,19,Male,Delhi,Delhi,Home & Kitchen,Bedsheet,9264.86,2,5,Debit Card,Mobile,4.8,6,6,3,22.8,1,Not Returned,Purchased,0.752,17603.23
+CUST1544,35,Female,Thane,Maharashtra,Home & Kitchen,Water Bottle,3413.42,1,5,Credit Card,Mobile,3.5,4,1,3,13.5,6,Not Returned,Not Purchased,0.477,0.0
+CUST1545,26,Male,Delhi,Delhi,Grocery,Coffee,1838.52,1,15,UPI,Mobile,3.3,2,5,6,11.9,1,Not Returned,Purchased,0.748,1562.74
+CUST1546,41,Other,Delhi,Delhi,Home & Kitchen,Mixer Grinder,9986.82,1,15,UPI,Mobile,4.0,3,4,6,22.2,4,Not Returned,Purchased,0.825,8488.8
+CUST1547,26,Male,Nashik,Maharashtra,Books,Self Help Book,2068.42,2,20,Credit Card,Laptop,4.4,6,8,3,13.1,4,Not Returned,Purchased,0.75,3309.47
+CUST1548,35,Male,Ahmedabad,Gujarat,Beauty,Lipstick,1346.43,3,20,Cash on Delivery,Mobile,4.8,4,6,3,7.7,5,Not Returned,Purchased,0.693,3231.43
+CUST1549,29,Female,Lucknow,Uttar Pradesh,Grocery,Coffee,1334.18,1,20,UPI,Mobile,3.9,4,10,3,5.8,5,Not Returned,Not Purchased,0.72,0.0
+CUST1550,45,Other,Thane,Maharashtra,Beauty,Face Wash,856.13,2,10,Net Banking,Mobile,5.0,4,3,4,12.5,2,Not Returned,Not Purchased,0.679,0.0
+CUST1551,43,Female,Bhopal,Madhya Pradesh,Electronics,Laptop Stand,8620.02,2,20,Credit Card,Mobile,3.0,4,6,2,7.5,4,Not Returned,Purchased,0.558,13792.03
+CUST1552,21,Female,Delhi,Delhi,Fashion,Jeans,1117.49,1,0,UPI,Mobile,4.1,10,5,1,14.6,2,Not Returned,Purchased,0.564,1117.49
+CUST1553,28,Female,Indore,Madhya Pradesh,Electronics,Power Bank,22552.87,2,25,Cash on Delivery,Mobile,3.5,2,3,1,11.2,5,Not Returned,Not Purchased,0.479,0.0
+CUST1554,28,Female,Pune,Maharashtra,Electronics,Wireless Earbuds,10996.84,2,5,Net Banking,Tablet,3.2,3,8,3,10.2,4,Not Returned,Not Purchased,0.549,0.0
+CUST1555,39,Other,Pune,Maharashtra,Home & Kitchen,Air Fryer,9705.64,1,25,Cash on Delivery,Laptop,3.6,8,7,2,11.8,1,Not Returned,Purchased,0.698,7279.23
+CUST1556,31,Female,Indore,Madhya Pradesh,Electronics,Smart Watch,22519.5,1,20,Debit Card,Laptop,3.9,3,5,2,12.9,2,Not Returned,Not Purchased,0.568,0.0
+CUST1557,34,Other,Delhi,Delhi,Fashion,Jeans,3288.15,1,25,Cash on Delivery,Mobile,4.0,3,6,3,14.2,4,Not Returned,Purchased,0.722,2466.11
+CUST1558,21,Male,Goa,Goa,Beauty,Sunscreen,1516.43,3,25,Debit Card,Laptop,3.3,1,5,1,3.2,4,Not Returned,Not Purchased,0.392,0.0
+CUST1559,31,Female,Delhi,Delhi,Home & Kitchen,Mixer Grinder,5351.77,2,10,Cash on Delivery,Mobile,4.3,4,9,1,8.3,2,Not Returned,Not Purchased,0.566,0.0
+CUST1560,43,Female,Hyderabad,Telangana,Home & Kitchen,Water Bottle,7246.77,2,20,Net Banking,Mobile,3.7,3,4,3,1.0,4,Not Returned,Purchased,0.533,11594.83
+CUST1561,36,Female,Indore,Madhya Pradesh,Fashion,Handbag,1654.35,1,0,Credit Card,Tablet,4.9,1,8,5,14.3,1,Not Returned,Purchased,0.707,1654.35
+CUST1562,32,Other,Chennai,Tamil Nadu,Books,Novel,732.06,1,0,Credit Card,Laptop,2.9,4,11,2,11.0,2,Not Returned,Purchased,0.534,732.06
+CUST1563,23,Other,Indore,Madhya Pradesh,Fashion,Handbag,3812.22,1,40,Net Banking,Laptop,4.8,12,7,4,15.6,6,Not Returned,Not Purchased,0.908,0.0
+CUST1564,48,Male,Kolkata,West Bengal,Grocery,Dry Fruits,672.14,1,5,Credit Card,Mobile,3.6,0,9,3,9.4,4,Not Returned,Purchased,0.568,638.53
+CUST1565,25,Male,Pune,Maharashtra,Fashion,Handbag,3419.57,1,30,UPI,Mobile,3.9,4,2,2,8.6,2,Not Returned,Not Purchased,0.58,0.0
+CUST1566,41,Female,Delhi,Delhi,Home & Kitchen,Water Bottle,9507.83,1,30,UPI,Laptop,3.7,4,2,3,10.0,3,Not Returned,Purchased,0.607,6655.48
+CUST1567,18,Male,Bengaluru,Karnataka,Books,Novel,1500.96,2,0,UPI,Mobile,3.6,8,7,2,7.1,2,Not Returned,Not Purchased,0.549,0.0
+CUST1568,34,Other,Goa,Goa,Home & Kitchen,Bedsheet,2513.74,2,15,Debit Card,Mobile,3.6,8,4,1,11.0,1,Not Returned,Not Purchased,0.547,0.0
+CUST1569,39,Female,Patna,Bihar,Fashion,T-Shirt,2588.27,1,0,Debit Card,Laptop,3.4,1,8,3,12.5,1,Not Returned,Purchased,0.512,2588.27
+CUST1570,24,Female,Goa,Goa,Beauty,Lipstick,2834.7,1,5,Debit Card,Mobile,3.6,4,6,6,12.6,3,Not Returned,Not Purchased,0.758,0.0
+CUST1571,39,Male,Patna,Bihar,Electronics,Laptop Stand,19073.85,1,15,UPI,Mobile,3.9,5,12,4,9.0,2,Not Returned,Purchased,0.807,16212.77
+CUST1572,21,Other,Lucknow,Uttar Pradesh,Fashion,Kurta,3974.1,1,0,Credit Card,Laptop,3.9,4,7,7,8.4,5,Not Returned,Purchased,0.753,3974.1
+CUST1573,33,Male,Hyderabad,Telangana,Electronics,Wireless Earbuds,23468.29,1,40,UPI,Mobile,4.0,4,6,1,14.9,2,Not Returned,Purchased,0.715,14080.97
+CUST1574,41,Female,Kochi,Kerala,Home & Kitchen,Mixer Grinder,7075.33,1,25,UPI,Laptop,4.7,6,5,3,17.9,3,Not Returned,Purchased,0.764,5306.5
+CUST1575,35,Other,Goa,Goa,Electronics,Laptop Stand,18691.94,1,30,Credit Card,Laptop,4.0,5,11,5,14.7,4,Not Returned,Purchased,0.884,13084.36
+CUST1576,32,Female,Surat,Gujarat,Beauty,Sunscreen,3696.95,1,10,UPI,Mobile,3.8,6,12,0,8.5,3,Not Returned,Purchased,0.585,3327.26
+CUST1577,39,Female,Indore,Madhya Pradesh,Grocery,Dry Fruits,650.37,1,25,UPI,Mobile,2.2,2,6,1,6.5,3,Not Returned,Purchased,0.447,487.78
+CUST1578,22,Male,Bengaluru,Karnataka,Home & Kitchen,Air Fryer,5747.95,3,5,Credit Card,Mobile,3.1,4,10,0,7.8,5,Not Returned,Purchased,0.437,16381.66
+CUST1579,40,Female,Chandigarh,Chandigarh,Electronics,Wireless Earbuds,4338.66,1,15,Debit Card,Laptop,4.5,3,5,2,6.6,4,Not Returned,Purchased,0.509,3687.86
+CUST1580,42,Other,Pune,Maharashtra,Beauty,Shampoo,2562.04,1,15,UPI,Laptop,4.8,5,7,1,11.4,5,Not Returned,Not Purchased,0.581,0.0
+CUST1581,49,Female,Hyderabad,Telangana,Fashion,Sneakers,1404.68,1,40,UPI,Laptop,4.1,4,4,2,16.2,5,Not Returned,Purchased,0.712,842.81
+CUST1582,18,Male,Lucknow,Uttar Pradesh,Electronics,Wireless Earbuds,9101.18,1,20,Credit Card,Laptop,4.6,6,11,2,13.5,5,Not Returned,Purchased,0.763,7280.94
+CUST1583,39,Male,Surat,Gujarat,Electronics,Bluetooth Speaker,7712.94,1,40,Cash on Delivery,Mobile,4.2,2,5,1,11.3,2,Not Returned,Purchased,0.646,4627.76
+CUST1584,22,Male,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,11647.38,1,10,Cash on Delivery,Mobile,3.6,7,5,2,19.5,5,Not Returned,Not Purchased,0.653,0.0
+CUST1585,29,Other,Mumbai,Maharashtra,Fashion,T-Shirt,2444.24,2,15,Debit Card,Laptop,4.1,2,5,3,13.4,4,Not Returned,Purchased,0.594,4155.21
+CUST1586,25,Other,Lucknow,Uttar Pradesh,Home & Kitchen,Coffee Mug,1799.54,1,5,Cash on Delivery,Mobile,3.0,9,4,0,7.2,1,Not Returned,Not Purchased,0.382,0.0
+CUST1587,37,Other,Indore,Madhya Pradesh,Beauty,Shampoo,3135.59,1,5,UPI,Mobile,3.9,6,8,3,10.6,2,Not Returned,Purchased,0.668,2978.81
+CUST1588,34,Female,Kochi,Kerala,Fashion,Sneakers,5663.45,1,20,Credit Card,Mobile,3.4,3,9,5,7.6,3,Not Returned,Purchased,0.779,4530.76
+CUST1589,48,Other,Indore,Madhya Pradesh,Grocery,Protein Bar,868.62,2,5,Debit Card,Mobile,3.8,1,3,1,11.6,1,Not Returned,Not Purchased,0.358,0.0
+CUST1590,24,Female,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,4527.69,2,15,Debit Card,Laptop,4.2,3,5,1,16.1,4,Not Returned,Not Purchased,0.516,0.0
+CUST1591,22,Female,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,23323.89,1,5,Credit Card,Laptop,5.0,8,7,6,10.2,5,Not Returned,Purchased,0.822,22157.7
+CUST1592,27,Other,Nashik,Maharashtra,Grocery,Dry Fruits,432.51,1,30,Debit Card,Mobile,4.8,4,9,3,12.9,3,Not Returned,Purchased,0.82,302.76
+CUST1593,39,Female,Goa,Goa,Books,Self Help Book,1002.97,2,15,Cash on Delivery,Laptop,5.0,8,8,2,9.8,3,Returned,Purchased,0.702,1705.05
+CUST1594,29,Female,Bengaluru,Karnataka,Grocery,Green Tea,1075.76,1,5,UPI,Laptop,3.9,6,2,3,21.1,4,Not Returned,Purchased,0.593,1021.97
+CUST1595,41,Other,Bhopal,Madhya Pradesh,Books,Cookbook,1742.97,2,25,Debit Card,Mobile,3.5,6,6,3,8.8,2,Not Returned,Not Purchased,0.707,0.0
+CUST1596,21,Other,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,7373.97,3,15,Cash on Delivery,Laptop,3.6,4,4,2,5.5,4,Not Returned,Purchased,0.454,18803.62
+CUST1597,33,Other,Bengaluru,Karnataka,Home & Kitchen,Coffee Mug,3991.34,1,15,Cash on Delivery,Tablet,3.1,3,4,2,6.0,5,Not Returned,Purchased,0.419,3392.64
+CUST1598,28,Male,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,23940.04,2,25,Credit Card,Mobile,4.0,6,6,3,17.8,2,Not Returned,Purchased,0.784,35910.06
+CUST1599,27,Male,Goa,Goa,Beauty,Sunscreen,1980.94,2,15,Debit Card,Mobile,3.7,3,6,3,10.7,5,Not Returned,Not Purchased,0.628,0.0
+CUST1600,26,Other,Delhi,Delhi,Beauty,Sunscreen,1875.3,1,5,Credit Card,Laptop,5.0,6,6,1,4.4,4,Not Returned,Purchased,0.462,1781.53
+CUST1601,53,Female,Pune,Maharashtra,Electronics,Bluetooth Speaker,12130.05,2,25,Net Banking,Mobile,3.4,6,6,1,12.7,3,Not Returned,Purchased,0.623,18195.07
+CUST1602,28,Female,Nashik,Maharashtra,Electronics,Wireless Earbuds,16184.88,1,15,Debit Card,Mobile,4.0,5,4,2,2.5,6,Returned,Purchased,0.488,13757.15
+CUST1603,18,Other,Kolkata,West Bengal,Fashion,Handbag,4028.47,1,0,Debit Card,Laptop,3.7,5,6,0,12.3,5,Not Returned,Purchased,0.365,4028.47
+CUST1604,25,Female,Goa,Goa,Books,Cookbook,1062.38,1,30,UPI,Mobile,4.3,1,3,4,9.9,3,Not Returned,Purchased,0.694,743.67
+CUST1605,37,Male,Nagpur,Maharashtra,Grocery,Olive Oil,1225.0,1,5,Cash on Delivery,Tablet,4.9,5,5,4,8.2,3,Not Returned,Purchased,0.635,1163.75
+CUST1606,49,Male,Surat,Gujarat,Grocery,Olive Oil,404.08,1,20,Credit Card,Laptop,4.5,5,8,2,5.8,3,Not Returned,Purchased,0.633,323.26
+CUST1607,25,Male,Surat,Gujarat,Beauty,Lipstick,1427.34,1,30,Net Banking,Laptop,3.8,3,4,3,10.8,5,Not Returned,Purchased,0.644,999.14
+CUST1608,37,Female,Delhi,Delhi,Fashion,Kurta,4094.48,1,5,UPI,Mobile,4.7,3,10,5,15.3,4,Not Returned,Purchased,0.814,3889.76
+CUST1609,42,Female,Patna,Bihar,Electronics,Wireless Earbuds,3552.58,2,25,UPI,Mobile,3.3,4,6,0,3.8,3,Not Returned,Purchased,0.446,5328.87
+CUST1610,40,Male,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,5806.96,2,20,UPI,Mobile,4.3,4,5,1,10.9,2,Not Returned,Purchased,0.561,9291.14
+CUST1611,52,Other,Chandigarh,Chandigarh,Beauty,Sunscreen,2002.36,2,25,Credit Card,Mobile,3.9,6,8,4,16.2,4,Not Returned,Not Purchased,0.838,0.0
+CUST1612,37,Male,Pune,Maharashtra,Grocery,Olive Oil,829.78,1,10,Credit Card,Mobile,4.4,6,7,1,10.9,3,Not Returned,Not Purchased,0.583,0.0
+CUST1613,29,Male,Mumbai,Maharashtra,Grocery,Protein Bar,923.75,2,40,Cash on Delivery,Laptop,3.9,5,3,5,12.0,3,Not Returned,Not Purchased,0.81,0.0
+CUST1614,29,Female,Indore,Madhya Pradesh,Fashion,Sneakers,3953.4,2,15,UPI,Mobile,4.6,8,4,3,12.3,5,Not Returned,Not Purchased,0.714,0.0
+CUST1615,39,Male,Bhopal,Madhya Pradesh,Home & Kitchen,Air Fryer,6049.6,2,20,Net Banking,Laptop,5.0,5,7,7,18.3,6,Not Returned,Purchased,0.898,9679.36
+CUST1616,38,Female,Nashik,Maharashtra,Electronics,Smart Watch,24656.73,1,0,Debit Card,Mobile,3.9,4,3,1,12.9,4,Not Returned,Not Purchased,0.393,0.0
+CUST1617,37,Other,Lucknow,Uttar Pradesh,Home & Kitchen,Coffee Mug,5529.36,2,0,UPI,Mobile,2.8,10,5,2,9.0,4,Not Returned,Purchased,0.52,11058.72
+CUST1618,25,Male,Bhopal,Madhya Pradesh,Home & Kitchen,Bedsheet,1993.63,1,15,Cash on Delivery,Mobile,3.7,4,7,2,9.3,3,Not Returned,Purchased,0.595,1694.59
+CUST1619,21,Other,Pune,Maharashtra,Beauty,Lipstick,1986.33,1,15,UPI,Mobile,4.1,2,10,4,13.6,1,Not Returned,Purchased,0.775,1688.38
+CUST1620,26,Male,Thane,Maharashtra,Grocery,Olive Oil,110.26,1,15,UPI,Mobile,4.3,7,1,3,7.5,2,Not Returned,Purchased,0.587,93.72
+CUST1621,27,Other,Patna,Bihar,Books,Novel,2169.58,2,25,UPI,Mobile,4.1,3,7,3,14.8,3,Not Returned,Purchased,0.747,3254.37
+CUST1622,18,Female,Delhi,Delhi,Electronics,Laptop Stand,3152.83,1,0,UPI,Laptop,5.0,4,5,0,6.7,4,Not Returned,Not Purchased,0.337,0.0
+CUST1623,26,Other,Pune,Maharashtra,Fashion,Kurta,992.07,1,30,UPI,Tablet,5.0,5,1,4,7.0,4,Not Returned,Purchased,0.689,694.45
+CUST1624,23,Female,Indore,Madhya Pradesh,Fashion,Handbag,1080.96,1,15,Credit Card,Mobile,3.1,3,6,5,12.5,2,Not Returned,Purchased,0.727,918.82
+CUST1625,47,Other,Jaipur,Rajasthan,Home & Kitchen,Water Bottle,6637.58,1,40,Cash on Delivery,Mobile,4.2,6,3,2,8.5,3,Not Returned,Not Purchased,0.701,0.0
+CUST1626,32,Female,Surat,Gujarat,Fashion,Jeans,464.8,3,20,Net Banking,Mobile,4.8,4,5,0,9.4,6,Not Returned,Purchased,0.496,1115.52
+CUST1627,58,Female,Ahmedabad,Gujarat,Fashion,Handbag,3721.25,1,15,UPI,Mobile,4.2,4,11,1,17.3,1,Not Returned,Purchased,0.704,3163.06
+CUST1628,24,Other,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,23784.19,1,25,UPI,Mobile,4.7,6,8,4,14.6,4,Not Returned,Purchased,0.85,17838.14
+CUST1629,34,Male,Nashik,Maharashtra,Electronics,Laptop Stand,19541.17,1,15,Debit Card,Mobile,3.1,3,9,3,13.3,6,Not Returned,Not Purchased,0.674,0.0
+CUST1630,27,Female,Jaipur,Rajasthan,Electronics,Power Bank,21057.08,2,25,Credit Card,Laptop,4.8,2,9,4,18.2,4,Not Returned,Purchased,0.823,31585.62
+CUST1631,42,Female,Chandigarh,Chandigarh,Electronics,Smart Watch,12766.96,3,0,Debit Card,Laptop,2.8,5,11,5,16.8,5,Not Returned,Purchased,0.758,38300.88
+CUST1632,39,Male,Patna,Bihar,Fashion,Handbag,5630.0,1,0,Credit Card,Mobile,4.6,5,5,1,3.7,5,Returned,Purchased,0.406,5630.0
+CUST1633,26,Other,Delhi,Delhi,Electronics,Wireless Earbuds,4037.26,1,20,Net Banking,Tablet,3.5,0,6,4,17.5,3,Not Returned,Purchased,0.678,3229.81
+CUST1634,38,Male,Patna,Bihar,Home & Kitchen,Mixer Grinder,1408.66,1,10,Credit Card,Laptop,3.5,0,5,2,13.1,2,Not Returned,Purchased,0.437,1267.79
+CUST1635,20,Male,Chennai,Tamil Nadu,Grocery,Protein Bar,867.64,2,30,UPI,Laptop,4.1,4,5,2,15.1,4,Not Returned,Purchased,0.67,1214.7
+CUST1636,29,Female,Nashik,Maharashtra,Fashion,Kurta,2708.44,1,30,Credit Card,Laptop,2.7,5,2,4,10.3,3,Returned,Not Purchased,0.643,0.0
+CUST1637,26,Female,Hyderabad,Telangana,Fashion,Handbag,1640.47,1,30,Debit Card,Laptop,3.7,3,5,0,5.8,3,Not Returned,Not Purchased,0.435,0.0
+CUST1638,28,Female,Surat,Gujarat,Beauty,Face Serum,1234.17,1,20,Credit Card,Laptop,4.2,2,10,1,5.0,4,Not Returned,Not Purchased,0.545,0.0
+CUST1639,29,Other,Kochi,Kerala,Electronics,Laptop Stand,16688.1,1,15,UPI,Mobile,4.9,3,11,4,16.0,5,Not Returned,Purchased,0.836,14184.88
+CUST1640,23,Other,Patna,Bihar,Electronics,Power Bank,21964.82,1,15,Debit Card,Mobile,4.7,5,4,4,12.2,6,Returned,Not Purchased,0.715,0.0
+CUST1641,18,Other,Pune,Maharashtra,Fashion,T-Shirt,1081.47,1,20,UPI,Mobile,3.9,6,3,1,8.6,6,Not Returned,Purchased,0.501,865.18
+CUST1642,28,Female,Pune,Maharashtra,Grocery,Protein Bar,473.8,1,0,UPI,Mobile,3.5,6,7,1,14.6,2,Not Returned,Not Purchased,0.513,0.0
+CUST1643,25,Other,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,2043.49,1,20,Debit Card,Laptop,4.2,4,5,3,8.1,2,Not Returned,Purchased,0.618,1634.79
+CUST1644,32,Female,Delhi,Delhi,Fashion,Jeans,3790.39,1,10,UPI,Mobile,4.3,2,9,1,5.6,3,Returned,Purchased,0.507,3411.35
+CUST1645,37,Male,Mumbai,Maharashtra,Electronics,Wireless Earbuds,3123.47,1,15,UPI,Mobile,4.4,3,2,3,12.4,4,Not Returned,Not Purchased,0.587,0.0
+CUST1646,18,Other,Lucknow,Uttar Pradesh,Electronics,Power Bank,14186.55,1,5,UPI,Laptop,3.8,1,2,4,1.4,3,Returned,Not Purchased,0.394,0.0
+CUST1647,18,Male,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,5121.98,1,20,Net Banking,Laptop,5.0,5,8,3,6.8,3,Not Returned,Purchased,0.715,4097.58
+CUST1648,34,Male,Pune,Maharashtra,Fashion,Jeans,2382.43,2,30,Cash on Delivery,Mobile,5.0,2,5,2,19.0,3,Not Returned,Purchased,0.734,3335.4
+CUST1649,44,Male,Chandigarh,Chandigarh,Electronics,Smart Watch,7937.34,1,5,UPI,Laptop,3.6,1,7,1,12.1,2,Not Returned,Purchased,0.403,7540.47
+CUST1650,48,Male,Hyderabad,Telangana,Grocery,Coffee,2352.21,1,15,UPI,Mobile,3.6,6,6,6,9.6,1,Not Returned,Purchased,0.807,1999.38
+CUST1651,33,Male,Kolkata,West Bengal,Home & Kitchen,Coffee Mug,4245.03,2,30,Cash on Delivery,Mobile,4.0,3,7,4,9.0,6,Not Returned,Purchased,0.766,5943.04
+CUST1652,18,Male,Lucknow,Uttar Pradesh,Grocery,Olive Oil,203.6,2,25,UPI,Mobile,3.7,3,8,1,8.3,2,Not Returned,Purchased,0.592,305.4
+CUST1653,25,Other,Mumbai,Maharashtra,Books,Self Help Book,2316.44,1,20,Cash on Delivery,Mobile,3.8,6,7,2,9.8,4,Not Returned,Purchased,0.665,1853.15
+CUST1654,22,Female,Bhopal,Madhya Pradesh,Home & Kitchen,Air Fryer,8039.79,1,15,Credit Card,Mobile,3.7,4,4,2,13.6,4,Not Returned,Not Purchased,0.566,0.0
+CUST1655,30,Female,Bhopal,Madhya Pradesh,Electronics,Power Bank,21363.06,1,10,Net Banking,Laptop,4.9,7,5,2,14.3,3,Not Returned,Not Purchased,0.63,0.0
+CUST1656,18,Male,Chandigarh,Chandigarh,Electronics,Smart Watch,10289.08,1,10,UPI,Mobile,5.0,4,7,1,9.7,3,Not Returned,Not Purchased,0.565,0.0
+CUST1657,39,Female,Mumbai,Maharashtra,Electronics,Power Bank,7800.37,1,25,UPI,Mobile,3.2,4,9,5,18.0,4,Not Returned,Purchased,0.856,5850.28
+CUST1658,49,Male,Hyderabad,Telangana,Beauty,Sunscreen,991.88,1,10,Net Banking,Mobile,4.1,5,2,3,9.7,4,Not Returned,Purchased,0.554,892.69
+CUST1659,39,Female,Goa,Goa,Electronics,Smart Watch,3975.64,2,25,Cash on Delivery,Mobile,4.7,8,8,1,3.4,3,Not Returned,Purchased,0.675,5963.46
+CUST1660,18,Other,Thane,Maharashtra,Home & Kitchen,Coffee Mug,7799.43,1,25,UPI,Mobile,3.0,6,3,2,9.7,4,Not Returned,Not Purchased,0.576,0.0
+CUST1661,57,Other,Mumbai,Maharashtra,Beauty,Face Serum,1675.92,1,10,Cash on Delivery,Mobile,3.7,4,5,3,16.5,4,Not Returned,Purchased,0.642,1508.33
+CUST1662,39,Other,Pune,Maharashtra,Beauty,Shampoo,2204.45,1,25,Debit Card,Mobile,3.1,3,6,1,6.3,5,Not Returned,Not Purchased,0.503,0.0
+CUST1663,42,Female,Nagpur,Maharashtra,Electronics,Laptop Stand,16568.38,1,10,UPI,Mobile,4.4,4,4,3,13.4,2,Not Returned,Purchased,0.625,14911.54
+CUST1664,44,Female,Nashik,Maharashtra,Fashion,Handbag,5164.4,1,10,UPI,Mobile,3.5,9,5,1,10.4,4,Not Returned,Not Purchased,0.546,0.0
+CUST1665,35,Male,Chennai,Tamil Nadu,Electronics,Power Bank,15462.92,1,10,Debit Card,Mobile,4.2,5,12,1,12.8,3,Not Returned,Purchased,0.678,13916.63
+CUST1666,35,Female,Surat,Gujarat,Grocery,Dry Fruits,785.85,1,20,Net Banking,Mobile,4.7,5,7,1,10.0,3,Not Returned,Purchased,0.631,628.68
+CUST1667,36,Other,Hyderabad,Telangana,Fashion,Kurta,951.66,1,15,UPI,Laptop,3.6,4,6,1,7.7,4,Not Returned,Purchased,0.456,808.91
+CUST1668,18,Male,Kolkata,West Bengal,Fashion,Handbag,3849.35,1,30,UPI,Laptop,3.8,3,3,1,13.9,4,Not Returned,Not Purchased,0.528,0.0
+CUST1669,45,Other,Indore,Madhya Pradesh,Fashion,Kurta,2181.73,1,10,Credit Card,Mobile,3.1,4,8,4,7.9,3,Not Returned,Purchased,0.667,1963.56
+CUST1670,43,Male,Chandigarh,Chandigarh,Electronics,Laptop Stand,7279.24,1,20,UPI,Tablet,3.4,2,9,3,10.2,1,Not Returned,Not Purchased,0.652,0.0
+CUST1671,37,Female,Mumbai,Maharashtra,Beauty,Lipstick,2712.22,1,25,Credit Card,Laptop,4.4,5,3,5,12.2,2,Not Returned,Purchased,0.764,2034.16
+CUST1672,37,Male,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,9742.4,1,15,UPI,Mobile,4.2,3,10,3,14.1,4,Not Returned,Purchased,0.749,8281.04
+CUST1673,22,Other,Bengaluru,Karnataka,Electronics,Laptop Stand,16006.92,2,30,Net Banking,Mobile,3.5,3,3,5,5.0,4,Not Returned,Purchased,0.71,22409.69
+CUST1674,25,Female,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,6201.51,1,20,UPI,Laptop,3.5,4,5,3,7.0,3,Not Returned,Not Purchased,0.578,0.0
+CUST1675,51,Other,Chandigarh,Chandigarh,Beauty,Sunscreen,479.73,1,15,Credit Card,Laptop,4.7,9,8,3,11.2,4,Returned,Not Purchased,0.764,0.0
+CUST1676,30,Male,Chennai,Tamil Nadu,Books,Self Help Book,1839.12,1,15,Credit Card,Mobile,3.8,4,5,2,10.0,4,Not Returned,Not Purchased,0.562,0.0
+CUST1677,36,Female,Lucknow,Uttar Pradesh,Beauty,Face Serum,3049.72,3,5,UPI,Mobile,3.5,1,6,3,8.7,3,Not Returned,Not Purchased,0.507,0.0
+CUST1678,32,Female,Ahmedabad,Gujarat,Home & Kitchen,Water Bottle,6690.42,1,25,UPI,Tablet,4.2,4,7,2,6.3,3,Returned,Purchased,0.616,5017.82
+CUST1679,26,Other,Hyderabad,Telangana,Fashion,Kurta,2608.03,2,15,Cash on Delivery,Mobile,3.4,4,10,1,10.4,5,Not Returned,Not Purchased,0.597,0.0
+CUST1680,24,Male,Kolkata,West Bengal,Home & Kitchen,Air Fryer,8501.84,2,0,UPI,Laptop,4.9,4,3,3,12.2,3,Returned,Purchased,0.517,17003.68
+CUST1681,18,Other,Bhopal,Madhya Pradesh,Grocery,Coffee,2273.64,1,10,Credit Card,Laptop,3.3,2,5,2,13.3,6,Not Returned,Purchased,0.453,2046.28
+CUST1682,30,Female,Surat,Gujarat,Fashion,Kurta,3119.04,1,10,UPI,Mobile,3.8,2,1,3,12.4,4,Not Returned,Purchased,0.49,2807.14
+CUST1683,24,Male,Patna,Bihar,Home & Kitchen,Coffee Mug,8492.28,1,0,Credit Card,Tablet,5.0,5,9,3,15.3,2,Not Returned,Purchased,0.691,8492.28
+CUST1684,22,Female,Jaipur,Rajasthan,Fashion,Handbag,2745.11,3,5,Cash on Delivery,Mobile,3.0,6,2,4,16.9,5,Returned,Not Purchased,0.615,0.0
+CUST1685,31,Female,Lucknow,Uttar Pradesh,Grocery,Dry Fruits,2065.38,2,15,Credit Card,Tablet,2.6,1,7,2,9.6,3,Not Returned,Not Purchased,0.46,0.0
+CUST1686,35,Male,Goa,Goa,Fashion,Sneakers,5358.67,1,0,Cash on Delivery,Laptop,3.6,1,5,1,10.0,5,Not Returned,Not Purchased,0.316,0.0
+CUST1687,34,Female,Lucknow,Uttar Pradesh,Books,Cookbook,2432.43,1,30,Cash on Delivery,Tablet,3.8,3,12,1,18.4,2,Not Returned,Not Purchased,0.746,0.0
+CUST1688,36,Other,Hyderabad,Telangana,Electronics,Power Bank,15901.86,1,20,Debit Card,Laptop,4.1,4,9,2,13.7,2,Not Returned,Purchased,0.683,12721.49
+CUST1689,32,Male,Hyderabad,Telangana,Home & Kitchen,Coffee Mug,9736.31,1,0,Cash on Delivery,Mobile,4.0,5,9,2,11.9,3,Not Returned,Purchased,0.6,9736.31
+CUST1690,32,Other,Hyderabad,Telangana,Home & Kitchen,Water Bottle,9611.04,1,25,Debit Card,Mobile,3.9,4,6,1,9.0,1,Returned,Purchased,0.58,7208.28
+CUST1691,38,Female,Chennai,Tamil Nadu,Grocery,Dry Fruits,491.73,1,30,Net Banking,Laptop,4.7,3,3,3,9.6,3,Not Returned,Purchased,0.651,344.21
+CUST1692,31,Female,Thane,Maharashtra,Electronics,Bluetooth Speaker,22887.16,1,20,Credit Card,Mobile,3.4,1,6,5,16.8,6,Not Returned,Purchased,0.754,18309.73
+CUST1693,28,Female,Jaipur,Rajasthan,Grocery,Green Tea,2247.78,1,0,UPI,Laptop,3.9,2,5,0,8.6,5,Not Returned,Purchased,0.279,2247.78
+CUST1694,26,Female,Kochi,Kerala,Electronics,Laptop Stand,14931.43,1,5,Credit Card,Mobile,4.1,5,11,6,18.1,2,Returned,Purchased,0.875,14184.86
+CUST1695,18,Other,Pune,Maharashtra,Home & Kitchen,Air Fryer,654.97,1,20,Debit Card,Mobile,4.6,3,7,3,11.1,2,Not Returned,Purchased,0.714,523.98
+CUST1696,47,Male,Pune,Maharashtra,Grocery,Protein Bar,585.43,1,0,UPI,Mobile,3.3,4,6,1,9.6,2,Not Returned,Not Purchased,0.404,0.0
+CUST1697,45,Other,Pune,Maharashtra,Books,Exam Guide,1361.4,1,20,Cash on Delivery,Mobile,4.5,5,4,2,15.7,5,Returned,Purchased,0.664,1089.12
+CUST1698,37,Female,Chennai,Tamil Nadu,Fashion,Sneakers,1380.66,2,10,UPI,Mobile,3.5,4,6,8,19.6,3,Not Returned,Not Purchased,0.88,0.0
+CUST1699,19,Other,Chennai,Tamil Nadu,Home & Kitchen,Air Fryer,2670.36,2,0,Debit Card,Mobile,4.7,3,7,0,9.9,3,Not Returned,Not Purchased,0.412,0.0
+CUST1700,32,Female,Delhi,Delhi,Beauty,Face Serum,3518.56,1,10,Debit Card,Mobile,4.9,3,7,2,13.5,6,Returned,Purchased,0.624,3166.7
+CUST1701,30,Female,Pune,Maharashtra,Beauty,Face Serum,481.15,1,5,UPI,Laptop,4.9,3,12,1,7.9,5,Not Returned,Purchased,0.57,457.09
+CUST1702,34,Female,Bhopal,Madhya Pradesh,Home & Kitchen,Air Fryer,953.1,1,5,UPI,Mobile,4.0,3,13,3,5.3,3,Not Returned,Purchased,0.684,905.44
+CUST1703,23,Male,Bhopal,Madhya Pradesh,Fashion,Sneakers,5563.42,1,30,UPI,Laptop,5.0,4,10,3,11.7,6,Not Returned,Not Purchased,0.802,0.0
+CUST1704,37,Male,Kochi,Kerala,Beauty,Shampoo,1391.65,2,10,UPI,Mobile,4.8,2,5,2,8.3,5,Not Returned,Purchased,0.526,2504.97
+CUST1705,23,Other,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,9724.24,1,25,Cash on Delivery,Laptop,4.9,2,9,4,13.9,5,Not Returned,Purchased,0.803,7293.18
+CUST1706,34,Other,Indore,Madhya Pradesh,Beauty,Face Wash,2340.11,1,15,UPI,Mobile,3.0,2,5,2,9.9,5,Not Returned,Purchased,0.49,1989.09
+CUST1707,39,Female,Nashik,Maharashtra,Fashion,Kurta,4686.76,3,0,Credit Card,Laptop,4.8,7,8,4,15.7,6,Not Returned,Purchased,0.738,14060.28
+CUST1708,18,Male,Thane,Maharashtra,Books,Novel,2181.4,2,10,Net Banking,Mobile,3.7,1,2,3,13.4,5,Not Returned,Not Purchased,0.499,0.0
+CUST1709,34,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Bedsheet,1991.82,1,5,UPI,Laptop,4.7,5,7,3,12.0,2,Not Returned,Purchased,0.641,1892.23
+CUST1710,24,Male,Indore,Madhya Pradesh,Grocery,Protein Bar,964.22,1,20,UPI,Laptop,4.7,4,6,1,3.9,6,Not Returned,Purchased,0.491,771.38
+CUST1711,40,Female,Patna,Bihar,Grocery,Dry Fruits,229.33,3,30,Credit Card,Mobile,3.3,8,4,3,10.1,5,Not Returned,Not Purchased,0.727,0.0
+CUST1712,25,Female,Surat,Gujarat,Fashion,Sneakers,2100.18,1,0,UPI,Laptop,4.1,5,5,3,11.7,3,Not Returned,Not Purchased,0.539,0.0
+CUST1713,36,Other,Ahmedabad,Gujarat,Electronics,Laptop Stand,9396.88,1,40,Debit Card,Tablet,4.5,7,4,0,1.0,7,Not Returned,Not Purchased,0.526,0.0
+CUST1714,28,Other,Nashik,Maharashtra,Beauty,Face Wash,1172.93,2,30,UPI,Mobile,3.7,1,8,0,4.6,2,Not Returned,Purchased,0.494,1642.1
+CUST1715,25,Male,Indore,Madhya Pradesh,Home & Kitchen,Water Bottle,3135.84,1,15,Debit Card,Mobile,4.0,4,10,4,12.1,1,Not Returned,Purchased,0.787,2665.46
+CUST1716,24,Female,Goa,Goa,Fashion,Sneakers,1885.59,1,0,Net Banking,Mobile,3.8,3,8,4,26.3,1,Not Returned,Purchased,0.759,1885.59
+CUST1717,35,Female,Delhi,Delhi,Books,Novel,1890.49,1,0,Debit Card,Tablet,3.6,1,7,3,15.2,5,Not Returned,Purchased,0.522,1890.49
+CUST1718,48,Male,Bhopal,Madhya Pradesh,Books,Data Science Book,871.26,1,30,Credit Card,Laptop,4.5,4,7,4,13.1,4,Not Returned,Purchased,0.8,609.88
+CUST1719,33,Other,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,7067.58,3,0,Net Banking,Mobile,5.0,6,10,1,11.5,4,Not Returned,Purchased,0.618,21202.74
+CUST1720,18,Male,Chandigarh,Chandigarh,Beauty,Sunscreen,1744.84,1,10,UPI,Laptop,5.0,6,11,3,9.6,3,Not Returned,Purchased,0.751,1570.36
+CUST1721,30,Female,Chennai,Tamil Nadu,Fashion,T-Shirt,5129.7,1,15,Debit Card,Mobile,4.4,5,9,2,15.4,3,Not Returned,Not Purchased,0.726,0.0
+CUST1722,22,Male,Pune,Maharashtra,Fashion,Handbag,5546.05,1,20,UPI,Mobile,3.9,3,5,3,8.0,3,Not Returned,Purchased,0.623,4436.84
+CUST1723,18,Male,Indore,Madhya Pradesh,Home & Kitchen,Water Bottle,8654.8,1,20,Net Banking,Mobile,5.0,3,4,0,5.9,2,Not Returned,Not Purchased,0.447,0.0
+CUST1724,34,Female,Bhopal,Madhya Pradesh,Books,Novel,1339.3,1,25,UPI,Mobile,3.3,4,5,2,5.0,5,Returned,Not Purchased,0.558,0.0
+CUST1725,43,Male,Ahmedabad,Gujarat,Fashion,Sneakers,4312.47,1,15,Net Banking,Mobile,3.0,6,3,3,4.5,3,Not Returned,Purchased,0.531,3665.6
+CUST1726,21,Female,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,774.31,2,20,Debit Card,Mobile,3.5,1,8,3,9.3,3,Not Returned,Purchased,0.647,1238.9
+CUST1727,35,Other,Nagpur,Maharashtra,Fashion,T-Shirt,667.78,1,10,UPI,Mobile,3.3,4,9,4,16.8,3,Not Returned,Purchased,0.756,601.0
+CUST1728,31,Female,Bhopal,Madhya Pradesh,Electronics,Wireless Earbuds,20078.41,1,25,Net Banking,Tablet,2.8,7,6,1,7.4,4,Not Returned,Not Purchased,0.532,0.0
+CUST1729,34,Female,Indore,Madhya Pradesh,Home & Kitchen,Mixer Grinder,3445.11,2,30,UPI,Laptop,4.2,4,12,0,11.2,4,Not Returned,Purchased,0.672,4823.15
+CUST1730,29,Other,Bengaluru,Karnataka,Grocery,Dry Fruits,1273.13,2,15,Credit Card,Laptop,4.0,2,8,2,12.0,2,Not Returned,Not Purchased,0.583,0.0
+CUST1731,27,Other,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,10801.21,2,40,Cash on Delivery,Tablet,4.7,6,3,1,10.8,2,Not Returned,Not Purchased,0.651,0.0
+CUST1732,23,Other,Chandigarh,Chandigarh,Fashion,Jeans,3719.01,1,15,UPI,Mobile,4.6,4,6,1,13.7,5,Not Returned,Purchased,0.59,3161.16
+CUST1733,36,Female,Thane,Maharashtra,Books,Exam Guide,758.54,2,0,Debit Card,Mobile,2.9,0,6,3,7.3,3,Not Returned,Purchased,0.42,1517.08
+CUST1734,33,Other,Patna,Bihar,Electronics,Wireless Earbuds,22331.68,1,30,Credit Card,Mobile,5.0,5,3,0,14.2,3,Not Returned,Purchased,0.593,15632.18
+CUST1735,33,Female,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2882.81,1,20,Cash on Delivery,Laptop,4.9,6,12,1,13.0,4,Not Returned,Not Purchased,0.74,0.0
+CUST1736,18,Other,Nagpur,Maharashtra,Home & Kitchen,Water Bottle,6857.93,1,20,Debit Card,Laptop,3.8,2,15,1,11.2,3,Not Returned,Purchased,0.685,5486.34
+CUST1737,20,Other,Kolkata,West Bengal,Fashion,Jeans,3844.49,1,10,Credit Card,Mobile,5.0,4,4,1,6.8,5,Not Returned,Not Purchased,0.472,0.0
+CUST1738,44,Other,Nagpur,Maharashtra,Fashion,T-Shirt,5522.53,1,25,UPI,Laptop,4.4,7,7,4,14.2,4,Returned,Purchased,0.817,4141.9
+CUST1739,20,Male,Chandigarh,Chandigarh,Grocery,Dry Fruits,598.44,2,30,Net Banking,Mobile,5.0,6,4,3,3.8,4,Not Returned,Purchased,0.716,837.82
+CUST1740,26,Female,Thane,Maharashtra,Books,Self Help Book,375.93,1,15,Cash on Delivery,Mobile,5.0,1,6,3,8.2,1,Returned,Purchased,0.63,319.54
+CUST1741,29,Other,Mumbai,Maharashtra,Fashion,T-Shirt,2575.87,2,5,Credit Card,Mobile,3.5,2,3,0,10.2,1,Not Returned,Not Purchased,0.296,0.0
+CUST1742,49,Female,Kolkata,West Bengal,Electronics,Laptop Stand,11856.96,3,15,Credit Card,Tablet,4.5,6,8,3,9.4,3,Not Returned,Purchased,0.703,30235.25
+CUST1743,27,Male,Mumbai,Maharashtra,Home & Kitchen,Water Bottle,5691.86,1,25,UPI,Mobile,4.0,2,7,1,10.3,4,Not Returned,Purchased,0.583,4268.89
+CUST1744,45,Male,Nashik,Maharashtra,Fashion,T-Shirt,662.45,2,40,Cash on Delivery,Mobile,4.7,2,5,2,17.8,4,Not Returned,Not Purchased,0.763,0.0
+CUST1745,40,Male,Bengaluru,Karnataka,Beauty,Lipstick,1093.82,1,10,Net Banking,Mobile,2.4,8,7,0,7.2,3,Not Returned,Not Purchased,0.434,0.0
+CUST1746,46,Other,Nashik,Maharashtra,Fashion,Kurta,5611.95,1,10,Credit Card,Laptop,3.9,5,7,2,6.8,2,Not Returned,Not Purchased,0.532,0.0
+CUST1747,40,Female,Nagpur,Maharashtra,Home & Kitchen,Air Fryer,4628.04,1,5,UPI,Laptop,5.0,4,8,4,10.2,2,Not Returned,Purchased,0.699,4396.64
+CUST1748,19,Male,Patna,Bihar,Electronics,Wireless Earbuds,3140.94,2,15,UPI,Mobile,4.5,2,4,2,21.6,2,Not Returned,Purchased,0.634,5339.6
+CUST1749,29,Other,Lucknow,Uttar Pradesh,Beauty,Lipstick,1827.11,1,20,UPI,Laptop,3.2,5,12,3,12.1,1,Not Returned,Not Purchased,0.758,0.0
+CUST1750,41,Other,Bengaluru,Karnataka,Electronics,Wireless Earbuds,9355.99,2,25,Debit Card,Mobile,3.1,2,10,2,10.3,4,Returned,Not Purchased,0.667,0.0
+CUST1751,33,Male,Nagpur,Maharashtra,Fashion,Sneakers,979.14,1,10,Debit Card,Tablet,3.9,6,7,1,7.8,3,Not Returned,Purchased,0.496,881.23
+CUST1752,27,Female,Jaipur,Rajasthan,Grocery,Olive Oil,1071.51,1,25,UPI,Laptop,3.7,5,7,1,14.0,2,Not Returned,Purchased,0.616,803.63
+CUST1753,28,Female,Mumbai,Maharashtra,Electronics,Laptop Stand,15836.79,1,15,UPI,Mobile,3.1,6,8,1,8.0,3,Not Returned,Not Purchased,0.553,0.0
+CUST1754,35,Other,Patna,Bihar,Electronics,Power Bank,7381.33,1,15,UPI,Mobile,3.3,4,9,4,11.3,6,Not Returned,Purchased,0.734,6274.13
+CUST1755,23,Male,Surat,Gujarat,Fashion,Jeans,5321.18,1,20,Credit Card,Mobile,4.6,6,8,4,13.1,2,Not Returned,Purchased,0.823,4256.94
+CUST1756,30,Male,Bhopal,Madhya Pradesh,Electronics,Bluetooth Speaker,18995.73,1,15,Cash on Delivery,Laptop,3.8,5,8,2,7.6,3,Not Returned,Purchased,0.588,16146.37
+CUST1757,18,Female,Chandigarh,Chandigarh,Beauty,Lipstick,2945.43,2,30,UPI,Mobile,4.0,2,4,2,7.1,5,Not Returned,Purchased,0.581,4123.6
+CUST1758,29,Male,Kolkata,West Bengal,Fashion,T-Shirt,5653.71,1,25,Credit Card,Mobile,4.2,8,10,1,13.4,1,Not Returned,Purchased,0.763,4240.28
+CUST1759,24,Other,Bhopal,Madhya Pradesh,Electronics,Wireless Earbuds,18430.73,1,5,UPI,Mobile,2.7,6,6,3,6.8,2,Not Returned,Purchased,0.542,17509.19
+CUST1760,21,Other,Mumbai,Maharashtra,Fashion,T-Shirt,3656.56,1,15,Credit Card,Mobile,3.4,5,10,3,13.1,7,Not Returned,Not Purchased,0.732,0.0
+CUST1761,41,Male,Jaipur,Rajasthan,Fashion,T-Shirt,3213.21,1,15,UPI,Laptop,4.5,2,7,2,11.0,3,Not Returned,Not Purchased,0.574,0.0
+CUST1762,30,Other,Kochi,Kerala,Grocery,Dry Fruits,1776.62,1,0,UPI,Mobile,3.5,5,10,1,21.3,3,Not Returned,Not Purchased,0.619,0.0
+CUST1763,47,Female,Chennai,Tamil Nadu,Beauty,Lipstick,2999.02,1,40,UPI,Mobile,3.6,5,7,3,8.1,6,Not Returned,Not Purchased,0.772,0.0
+CUST1764,28,Female,Mumbai,Maharashtra,Home & Kitchen,Air Fryer,2036.72,2,15,Net Banking,Laptop,3.7,3,4,3,16.4,3,Not Returned,Purchased,0.597,3462.42
+CUST1765,36,Other,Indore,Madhya Pradesh,Books,Cookbook,2427.72,2,15,Debit Card,Laptop,4.3,7,3,7,16.0,3,Not Returned,Purchased,0.843,4127.12
+CUST1766,26,Other,Kolkata,West Bengal,Electronics,Bluetooth Speaker,20278.23,2,0,Cash on Delivery,Tablet,4.0,2,6,1,10.0,5,Not Returned,Not Purchased,0.368,0.0
+CUST1767,28,Other,Indore,Madhya Pradesh,Grocery,Green Tea,1201.39,1,15,Cash on Delivery,Mobile,5.0,4,4,1,7.3,1,Not Returned,Purchased,0.508,1021.18
+CUST1768,34,Male,Lucknow,Uttar Pradesh,Fashion,Kurta,5853.25,1,15,Cash on Delivery,Laptop,5.0,9,5,3,21.1,4,Not Returned,Purchased,0.786,4975.26
+CUST1769,29,Female,Bengaluru,Karnataka,Home & Kitchen,Air Fryer,5114.4,1,5,Debit Card,Mobile,3.5,5,5,3,9.8,7,Not Returned,Not Purchased,0.552,0.0
+CUST1770,23,Female,Nagpur,Maharashtra,Books,Self Help Book,1584.11,1,20,Cash on Delivery,Laptop,3.4,2,6,1,8.1,3,Not Returned,Not Purchased,0.447,0.0
+CUST1771,36,Other,Thane,Maharashtra,Fashion,Sneakers,5881.81,1,30,UPI,Mobile,5.0,5,8,3,5.2,1,Not Returned,Purchased,0.779,4117.27
+CUST1772,32,Other,Mumbai,Maharashtra,Fashion,Handbag,1126.79,1,30,Credit Card,Tablet,3.2,3,6,5,19.3,4,Not Returned,Purchased,0.812,788.75
+CUST1773,28,Male,Ahmedabad,Gujarat,Books,Exam Guide,443.89,2,25,UPI,Laptop,3.9,7,9,3,11.8,6,Not Returned,Not Purchased,0.769,0.0
+CUST1774,40,Male,Kochi,Kerala,Electronics,Bluetooth Speaker,12733.23,2,20,Net Banking,Mobile,5.0,6,6,1,5.9,2,Not Returned,Purchased,0.605,20373.17
+CUST1775,35,Female,Mumbai,Maharashtra,Beauty,Sunscreen,1308.95,2,10,Credit Card,Mobile,3.6,4,9,1,7.8,6,Not Returned,Purchased,0.518,2356.11
+CUST1776,23,Male,Delhi,Delhi,Grocery,Dry Fruits,878.68,1,25,UPI,Mobile,4.7,8,3,4,12.9,1,Returned,Purchased,0.796,659.01
+CUST1777,23,Male,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,6946.19,2,15,Credit Card,Mobile,4.1,4,8,5,10.9,2,Not Returned,Purchased,0.795,11808.52
+CUST1778,18,Other,Thane,Maharashtra,Books,Cookbook,1970.05,3,40,UPI,Mobile,4.4,3,4,3,17.8,5,Returned,Purchased,0.793,3546.09
+CUST1779,31,Other,Chandigarh,Chandigarh,Beauty,Face Serum,2548.58,1,10,Debit Card,Mobile,4.4,5,7,0,18.2,2,Not Returned,Purchased,0.567,2293.72
+CUST1780,22,Male,Bhopal,Madhya Pradesh,Home & Kitchen,Water Bottle,1798.68,2,25,Debit Card,Mobile,3.7,3,6,1,13.2,5,Not Returned,Purchased,0.59,2698.02
+CUST1781,46,Female,Mumbai,Maharashtra,Electronics,Smart Watch,10106.0,2,5,Credit Card,Mobile,3.9,4,7,4,16.8,2,Not Returned,Not Purchased,0.718,0.0
+CUST1782,27,Other,Kochi,Kerala,Home & Kitchen,Bedsheet,9663.3,1,5,UPI,Laptop,4.7,1,3,3,15.9,5,Returned,Purchased,0.519,9180.13
+CUST1783,29,Male,Thane,Maharashtra,Electronics,Smart Watch,6975.25,1,0,Cash on Delivery,Laptop,2.5,1,6,4,20.4,4,Not Returned,Purchased,0.558,6975.25
+CUST1784,18,Other,Nashik,Maharashtra,Fashion,T-Shirt,534.89,1,10,UPI,Mobile,3.3,6,7,2,5.2,2,Not Returned,Purchased,0.546,481.4
+CUST1785,34,Female,Delhi,Delhi,Grocery,Coffee,1672.25,1,40,Debit Card,Mobile,3.5,7,3,2,8.5,3,Not Returned,Purchased,0.689,1003.35
+CUST1786,24,Other,Chennai,Tamil Nadu,Electronics,Power Bank,4014.39,1,10,Credit Card,Laptop,5.0,2,6,2,14.0,7,Not Returned,Not Purchased,0.557,0.0
+CUST1787,31,Other,Pune,Maharashtra,Electronics,Laptop Stand,2335.47,1,0,Debit Card,Mobile,3.5,5,5,1,11.8,2,Not Returned,Not Purchased,0.426,0.0
+CUST1788,33,Other,Surat,Gujarat,Books,Data Science Book,2452.72,1,5,Credit Card,Laptop,5.0,4,7,2,4.0,5,Returned,Not Purchased,0.509,0.0
+CUST1789,22,Other,Goa,Goa,Grocery,Olive Oil,941.53,2,15,UPI,Mobile,3.5,2,5,3,8.1,3,Not Returned,Not Purchased,0.559,0.0
+CUST1790,31,Male,Bengaluru,Karnataka,Electronics,Wireless Earbuds,12161.14,2,0,Credit Card,Laptop,3.9,6,5,4,13.3,2,Not Returned,Not Purchased,0.622,0.0
+CUST1791,41,Other,Indore,Madhya Pradesh,Beauty,Shampoo,3471.7,1,10,Credit Card,Mobile,3.9,3,8,4,13.9,4,Returned,Purchased,0.727,3124.53
+CUST1792,48,Other,Indore,Madhya Pradesh,Home & Kitchen,Water Bottle,1225.76,1,0,UPI,Laptop,3.6,4,8,0,6.3,5,Not Returned,Not Purchased,0.338,0.0
+CUST1793,18,Other,Delhi,Delhi,Beauty,Face Wash,1047.02,1,15,UPI,Mobile,4.2,8,5,3,8.1,4,Not Returned,Purchased,0.687,889.97
+CUST1794,30,Female,Ahmedabad,Gujarat,Electronics,Laptop Stand,23568.12,1,25,UPI,Mobile,4.7,3,4,0,4.9,3,Not Returned,Not Purchased,0.456,0.0
+CUST1795,41,Male,Indore,Madhya Pradesh,Beauty,Face Serum,3894.77,1,25,UPI,Mobile,2.9,0,5,3,14.0,4,Not Returned,Purchased,0.61,2921.08
+CUST1796,18,Other,Kolkata,West Bengal,Home & Kitchen,Coffee Mug,1239.63,1,0,Cash on Delivery,Tablet,5.0,2,6,1,11.6,3,Not Returned,Purchased,0.425,1239.63
+CUST1797,21,Male,Thane,Maharashtra,Electronics,Power Bank,15100.96,1,25,UPI,Mobile,4.3,4,2,3,15.0,4,Returned,Not Purchased,0.678,0.0
+CUST1798,32,Female,Delhi,Delhi,Fashion,Sneakers,2867.48,1,0,UPI,Mobile,4.0,3,4,2,13.8,6,Not Returned,Purchased,0.458,2867.48
+CUST1799,33,Other,Indore,Madhya Pradesh,Books,Exam Guide,1697.69,2,5,Credit Card,Mobile,3.1,3,2,4,13.0,2,Returned,Not Purchased,0.534,0.0
+CUST1800,29,Other,Pune,Maharashtra,Grocery,Dry Fruits,1726.67,2,5,Debit Card,Tablet,3.8,6,4,6,19.3,1,Not Returned,Purchased,0.773,3280.67
+CUST1801,33,Male,Hyderabad,Telangana,Beauty,Sunscreen,2795.87,1,25,Debit Card,Tablet,4.4,6,7,4,10.1,2,Not Returned,Purchased,0.783,2096.9
+CUST1802,24,Other,Ahmedabad,Gujarat,Electronics,Smart Watch,23946.84,1,5,UPI,Laptop,3.9,6,12,0,12.6,3,Not Returned,Purchased,0.557,22749.5
+CUST1803,42,Male,Delhi,Delhi,Fashion,Jeans,858.42,1,10,Debit Card,Mobile,3.8,4,3,1,7.3,5,Not Returned,Purchased,0.401,772.58
+CUST1804,18,Male,Thane,Maharashtra,Grocery,Protein Bar,2451.54,3,10,UPI,Laptop,3.8,1,7,1,12.6,2,Returned,Not Purchased,0.446,0.0
+CUST1805,18,Male,Hyderabad,Telangana,Beauty,Shampoo,3381.4,2,15,UPI,Mobile,3.0,2,4,0,5.1,3,Not Returned,Not Purchased,0.311,0.0
+CUST1806,27,Female,Lucknow,Uttar Pradesh,Electronics,Bluetooth Speaker,8975.8,1,0,Cash on Delivery,Mobile,2.6,4,3,3,11.5,2,Not Returned,Purchased,0.445,8975.8
+CUST1807,41,Male,Indore,Madhya Pradesh,Electronics,Smart Watch,18143.46,1,20,Credit Card,Mobile,4.0,2,6,1,7.6,6,Not Returned,Not Purchased,0.494,0.0
+CUST1808,34,Male,Ahmedabad,Gujarat,Grocery,Coffee,2121.83,2,15,Cash on Delivery,Laptop,4.4,7,10,3,11.4,6,Not Returned,Purchased,0.753,3607.11
+CUST1809,32,Female,Surat,Gujarat,Home & Kitchen,Mixer Grinder,2834.17,1,0,UPI,Laptop,4.0,3,5,4,8.7,2,Not Returned,Purchased,0.536,2834.17
+CUST1810,24,Other,Kolkata,West Bengal,Electronics,Wireless Earbuds,7669.53,2,15,Credit Card,Mobile,4.6,4,7,2,19.2,5,Not Returned,Purchased,0.71,13038.2
+CUST1811,19,Male,Thane,Maharashtra,Fashion,Sneakers,553.62,1,20,Cash on Delivery,Mobile,3.8,6,5,1,9.4,4,Not Returned,Not Purchased,0.56,0.0
+CUST1812,48,Female,Ahmedabad,Gujarat,Grocery,Green Tea,1861.01,2,20,UPI,Laptop,3.6,4,7,5,13.8,3,Not Returned,Purchased,0.777,2977.62
+CUST1813,28,Male,Patna,Bihar,Electronics,Smart Watch,7258.76,1,0,UPI,Laptop,4.8,3,11,1,6.6,1,Not Returned,Not Purchased,0.501,0.0
+CUST1814,26,Other,Surat,Gujarat,Fashion,Jeans,5919.65,2,25,UPI,Mobile,3.5,2,4,2,15.0,2,Not Returned,Purchased,0.596,8879.47
+CUST1815,28,Male,Chandigarh,Chandigarh,Beauty,Lipstick,2340.51,1,5,Cash on Delivery,Mobile,4.1,3,7,1,5.2,3,Not Returned,Not Purchased,0.437,0.0
+CUST1816,26,Other,Kochi,Kerala,Fashion,Jeans,430.08,1,10,UPI,Tablet,4.0,5,6,1,11.1,3,Not Returned,Purchased,0.49,387.07
+CUST1817,26,Male,Nashik,Maharashtra,Electronics,Laptop Stand,908.74,1,15,Debit Card,Laptop,3.4,9,3,3,16.1,3,Not Returned,Purchased,0.659,772.43
+CUST1818,30,Male,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,7198.22,1,25,Debit Card,Tablet,4.1,5,3,2,14.0,5,Not Returned,Not Purchased,0.607,0.0
+CUST1819,51,Female,Kolkata,West Bengal,Electronics,Wireless Earbuds,2425.58,1,20,Cash on Delivery,Laptop,3.0,5,6,3,12.4,3,Not Returned,Purchased,0.64,1940.46
+CUST1820,33,Male,Indore,Madhya Pradesh,Electronics,Power Bank,14102.94,1,30,Net Banking,Mobile,4.3,0,5,3,10.0,4,Not Returned,Purchased,0.665,9872.06
+CUST1821,23,Other,Kolkata,West Bengal,Grocery,Green Tea,2389.81,1,25,Cash on Delivery,Mobile,4.2,8,9,2,8.0,5,Not Returned,Purchased,0.758,1792.36
+CUST1822,39,Male,Kochi,Kerala,Beauty,Face Serum,3755.06,1,5,Debit Card,Mobile,4.5,6,6,3,9.9,4,Returned,Purchased,0.646,3567.31
+CUST1823,45,Female,Patna,Bihar,Electronics,Wireless Earbuds,16567.47,1,10,UPI,Laptop,3.7,3,4,2,7.1,3,Returned,Not Purchased,0.424,0.0
+CUST1824,33,Female,Bengaluru,Karnataka,Beauty,Shampoo,1032.09,3,0,UPI,Mobile,3.3,2,12,6,17.5,3,Not Returned,Purchased,0.823,3096.27
+CUST1825,26,Other,Mumbai,Maharashtra,Beauty,Face Serum,3890.98,2,10,UPI,Mobile,3.1,3,7,3,7.6,4,Not Returned,Purchased,0.568,7003.76
+CUST1826,26,Other,Nashik,Maharashtra,Fashion,T-Shirt,3154.24,1,20,Debit Card,Tablet,3.2,4,4,1,13.9,2,Not Returned,Purchased,0.478,2523.39
+CUST1827,26,Female,Nashik,Maharashtra,Fashion,Handbag,1158.61,2,5,UPI,Mobile,4.1,6,10,1,5.2,2,Not Returned,Not Purchased,0.556,0.0
+CUST1828,50,Female,Hyderabad,Telangana,Fashion,Kurta,1491.78,1,20,Credit Card,Mobile,3.3,5,9,1,9.3,1,Not Returned,Purchased,0.608,1193.42
+CUST1829,25,Other,Hyderabad,Telangana,Beauty,Sunscreen,3022.41,1,30,Debit Card,Mobile,2.7,8,5,5,13.6,2,Not Returned,Purchased,0.829,2115.69
+CUST1830,37,Male,Pune,Maharashtra,Grocery,Protein Bar,1647.34,2,15,Cash on Delivery,Laptop,3.3,3,6,2,17.7,3,Not Returned,Purchased,0.574,2800.48
+CUST1831,29,Other,Delhi,Delhi,Home & Kitchen,Air Fryer,6486.96,3,25,UPI,Laptop,3.6,5,3,1,10.7,4,Not Returned,Not Purchased,0.494,0.0
+CUST1832,36,Male,Bengaluru,Karnataka,Books,Self Help Book,1766.39,1,20,Credit Card,Mobile,3.1,5,7,1,6.3,7,Not Returned,Not Purchased,0.517,0.0
+CUST1833,35,Female,Kochi,Kerala,Fashion,Sneakers,4524.57,1,15,UPI,Laptop,3.8,4,8,2,8.3,2,Not Returned,Purchased,0.577,3845.88
+CUST1834,29,Other,Ahmedabad,Gujarat,Fashion,T-Shirt,2877.9,1,30,UPI,Laptop,3.4,2,9,1,1.6,4,Not Returned,Not Purchased,0.519,0.0
+CUST1835,18,Male,Bengaluru,Karnataka,Home & Kitchen,Water Bottle,2265.67,1,25,UPI,Mobile,5.0,1,6,5,14.6,4,Not Returned,Purchased,0.818,1699.25
+CUST1836,41,Female,Bengaluru,Karnataka,Electronics,Smart Watch,10596.78,1,10,Debit Card,Mobile,5.0,4,13,2,4.0,7,Not Returned,Purchased,0.69,9537.1
+CUST1837,27,Female,Indore,Madhya Pradesh,Electronics,Bluetooth Speaker,15687.6,2,0,UPI,Mobile,4.2,2,3,3,6.6,2,Not Returned,Not Purchased,0.44,0.0
+CUST1838,29,Male,Patna,Bihar,Home & Kitchen,Air Fryer,1303.68,1,15,Cash on Delivery,Mobile,2.8,5,7,5,12.4,4,Not Returned,Purchased,0.76,1108.13
+CUST1839,62,Male,Patna,Bihar,Fashion,Handbag,1701.28,1,0,Credit Card,Mobile,3.8,5,10,2,13.3,7,Not Returned,Purchased,0.613,1701.28
+CUST1840,42,Male,Goa,Goa,Fashion,Sneakers,1857.03,1,10,UPI,Mobile,3.4,5,7,3,4.5,3,Not Returned,Purchased,0.589,1671.33
+CUST1841,25,Male,Nashik,Maharashtra,Grocery,Protein Bar,535.31,1,20,Credit Card,Mobile,3.1,6,7,2,10.6,6,Not Returned,Not Purchased,0.632,0.0
+CUST1842,22,Other,Jaipur,Rajasthan,Grocery,Dry Fruits,1165.21,2,10,UPI,Laptop,4.3,3,5,4,11.2,3,Not Returned,Purchased,0.631,2097.38
+CUST1843,43,Other,Delhi,Delhi,Grocery,Olive Oil,843.6,1,25,UPI,Laptop,4.5,7,9,3,8.3,2,Not Returned,Purchased,0.775,632.7
+CUST1844,52,Male,Bhopal,Madhya Pradesh,Books,Novel,1100.97,2,30,Debit Card,Tablet,2.7,6,7,3,1.0,3,Not Returned,Purchased,0.63,1541.36
+CUST1845,32,Female,Nagpur,Maharashtra,Electronics,Wireless Earbuds,14393.36,1,40,UPI,Mobile,3.5,2,7,3,15.8,5,Not Returned,Purchased,0.788,8636.02
+CUST1846,19,Male,Mumbai,Maharashtra,Fashion,Jeans,522.0,1,10,Cash on Delivery,Mobile,4.0,2,7,4,12.9,4,Not Returned,Purchased,0.69,469.8
+CUST1847,26,Other,Nagpur,Maharashtra,Grocery,Coffee,946.86,1,25,UPI,Mobile,5.0,3,10,2,14.1,4,Not Returned,Not Purchased,0.775,0.0
+CUST1848,18,Other,Kochi,Kerala,Home & Kitchen,Bedsheet,8393.68,2,15,UPI,Tablet,4.7,3,9,5,10.6,2,Not Returned,Purchased,0.79,14269.26
+CUST1849,31,Male,Pune,Maharashtra,Electronics,Power Bank,19069.53,2,0,Debit Card,Mobile,4.8,3,3,0,8.8,2,Not Returned,Not Purchased,0.323,0.0
+CUST1850,27,Male,Thane,Maharashtra,Grocery,Olive Oil,2296.34,1,20,UPI,Tablet,3.7,3,5,5,12.9,3,Not Returned,Purchased,0.729,1837.07
+CUST1851,30,Female,Kochi,Kerala,Electronics,Wireless Earbuds,14657.47,1,10,UPI,Laptop,4.3,1,11,3,10.1,3,Not Returned,Not Purchased,0.656,0.0
+CUST1852,30,Other,Bengaluru,Karnataka,Electronics,Laptop Stand,22386.96,2,5,Debit Card,Mobile,4.1,3,9,3,7.2,1,Not Returned,Not Purchased,0.621,0.0
+CUST1853,29,Female,Ahmedabad,Gujarat,Fashion,Handbag,1504.3,1,20,Debit Card,Mobile,3.6,3,2,3,7.4,2,Not Returned,Not Purchased,0.539,0.0
+CUST1854,37,Male,Ahmedabad,Gujarat,Beauty,Shampoo,3072.62,2,10,Debit Card,Mobile,4.1,2,5,1,9.2,4,Not Returned,Purchased,0.44,5530.72
+CUST1855,44,Male,Delhi,Delhi,Electronics,Laptop Stand,1197.04,1,40,Net Banking,Laptop,4.2,6,15,1,10.7,1,Not Returned,Purchased,0.833,718.22
+CUST1856,38,Male,Patna,Bihar,Fashion,T-Shirt,738.11,1,30,Debit Card,Mobile,2.7,4,9,1,12.2,5,Not Returned,Not Purchased,0.649,0.0
+CUST1857,18,Other,Nagpur,Maharashtra,Electronics,Power Bank,19299.1,2,10,UPI,Mobile,5.0,4,3,1,9.6,4,Not Returned,Purchased,0.474,34738.38
+CUST1858,26,Female,Hyderabad,Telangana,Beauty,Lipstick,1222.01,1,15,UPI,Mobile,4.4,2,3,4,12.2,3,Not Returned,Purchased,0.649,1038.71
+CUST1859,23,Male,Goa,Goa,Electronics,Wireless Earbuds,17293.61,2,15,Net Banking,Mobile,4.6,4,3,1,13.2,2,Not Returned,Not Purchased,0.519,0.0
+CUST1860,18,Other,Indore,Madhya Pradesh,Electronics,Power Bank,17099.46,2,5,Debit Card,Mobile,4.1,4,5,1,14.6,5,Not Returned,Purchased,0.491,32488.97
+CUST1861,26,Male,Bhopal,Madhya Pradesh,Electronics,Laptop Stand,22770.26,2,0,Cash on Delivery,Laptop,3.6,5,2,2,8.3,3,Not Returned,Purchased,0.361,45540.52
+CUST1862,45,Male,Nashik,Maharashtra,Beauty,Lipstick,870.23,1,15,Credit Card,Mobile,4.8,4,6,4,16.2,2,Not Returned,Purchased,0.775,739.7
+CUST1863,40,Other,Pune,Maharashtra,Fashion,Kurta,3907.13,2,20,UPI,Mobile,4.9,2,3,1,9.6,3,Not Returned,Not Purchased,0.497,0.0
+CUST1864,27,Female,Indore,Madhya Pradesh,Electronics,Wireless Earbuds,3625.45,1,15,UPI,Tablet,4.4,2,9,4,12.4,2,Not Returned,Purchased,0.733,3081.63
+CUST1865,51,Female,Goa,Goa,Fashion,Kurta,932.34,1,15,Net Banking,Mobile,3.1,4,5,0,8.4,5,Not Returned,Purchased,0.393,792.49
+CUST1866,21,Male,Bhopal,Madhya Pradesh,Electronics,Smart Watch,7468.45,3,15,UPI,Laptop,4.1,4,9,2,4.5,3,Not Returned,Purchased,0.579,19044.55
+CUST1867,33,Female,Kolkata,West Bengal,Grocery,Dry Fruits,2286.96,1,0,Debit Card,Mobile,4.4,2,6,4,13.1,2,Not Returned,Not Purchased,0.632,0.0
+CUST1868,29,Other,Chandigarh,Chandigarh,Grocery,Protein Bar,650.42,1,20,UPI,Mobile,3.3,2,10,4,7.1,4,Not Returned,Not Purchased,0.73,0.0
+CUST1869,41,Male,Thane,Maharashtra,Home & Kitchen,Mixer Grinder,4716.66,1,20,Cash on Delivery,Mobile,3.1,6,7,0,1.0,3,Not Returned,Not Purchased,0.439,0.0
+CUST1870,29,Male,Jaipur,Rajasthan,Home & Kitchen,Coffee Mug,3151.8,1,20,UPI,Laptop,3.7,2,3,3,6.4,5,Returned,Purchased,0.502,2521.44
+CUST1871,21,Other,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,16235.59,2,20,UPI,Mobile,4.4,3,8,1,7.1,3,Not Returned,Purchased,0.582,25976.94
+CUST1872,34,Other,Mumbai,Maharashtra,Beauty,Lipstick,1816.23,2,40,Debit Card,Mobile,3.5,1,5,2,1.0,4,Not Returned,Not Purchased,0.573,0.0
+CUST1873,23,Other,Bhopal,Madhya Pradesh,Beauty,Lipstick,3247.76,1,0,UPI,Laptop,2.9,2,2,0,1.0,2,Returned,Not Purchased,0.159,0.0
+CUST1874,27,Male,Surat,Gujarat,Grocery,Protein Bar,1705.39,1,30,Net Banking,Laptop,4.1,4,8,5,19.5,4,Not Returned,Purchased,0.868,1193.77
+CUST1875,47,Female,Nagpur,Maharashtra,Beauty,Lipstick,2071.31,2,15,Debit Card,Mobile,4.7,3,8,4,11.9,4,Not Returned,Purchased,0.764,3521.23
+CUST1876,18,Other,Bengaluru,Karnataka,Grocery,Dry Fruits,277.24,1,5,Cash on Delivery,Laptop,4.0,6,5,3,6.1,3,Not Returned,Not Purchased,0.535,0.0
+CUST1877,30,Female,Indore,Madhya Pradesh,Grocery,Coffee,244.03,1,20,UPI,Laptop,4.6,2,3,2,5.2,1,Not Returned,Purchased,0.47,195.22
+CUST1878,31,Other,Bengaluru,Karnataka,Grocery,Coffee,2478.24,1,20,Credit Card,Mobile,3.9,4,4,1,7.5,3,Not Returned,Purchased,0.491,1982.59
+CUST1879,24,Male,Chandigarh,Chandigarh,Beauty,Face Wash,2050.56,2,15,UPI,Mobile,2.1,2,8,1,7.7,2,Not Returned,Purchased,0.436,3485.95
+CUST1880,40,Female,Goa,Goa,Electronics,Power Bank,21698.57,1,15,Cash on Delivery,Mobile,3.1,8,8,1,8.7,6,Not Returned,Not Purchased,0.581,0.0
+CUST1881,26,Male,Pune,Maharashtra,Electronics,Laptop Stand,7373.13,1,15,Credit Card,Laptop,4.2,2,4,0,10.0,5,Not Returned,Purchased,0.364,6267.16
+CUST1882,26,Male,Patna,Bihar,Electronics,Bluetooth Speaker,4563.37,1,0,UPI,Mobile,5.0,1,1,3,11.6,4,Not Returned,Not Purchased,0.457,0.0
+CUST1883,25,Female,Goa,Goa,Grocery,Green Tea,1929.56,1,20,Cash on Delivery,Mobile,4.5,7,3,2,5.9,4,Not Returned,Purchased,0.595,1543.65
+CUST1884,35,Other,Nagpur,Maharashtra,Home & Kitchen,Air Fryer,5408.57,1,15,Debit Card,Tablet,2.9,5,5,3,14.5,6,Not Returned,Not Purchased,0.59,0.0
+CUST1885,33,Female,Hyderabad,Telangana,Books,Data Science Book,2087.6,1,5,UPI,Mobile,4.0,3,3,6,17.2,3,Not Returned,Not Purchased,0.738,0.0
+CUST1886,30,Female,Chandigarh,Chandigarh,Electronics,Laptop Stand,8907.31,1,10,UPI,Laptop,3.6,2,7,4,11.2,1,Not Returned,Purchased,0.627,8016.58
+CUST1887,27,Other,Goa,Goa,Electronics,Laptop Stand,23645.83,2,25,Net Banking,Mobile,5.0,4,4,3,9.4,5,Not Returned,Not Purchased,0.701,0.0
+CUST1888,31,Female,Jaipur,Rajasthan,Books,Cookbook,1870.64,2,20,UPI,Mobile,3.1,5,5,3,8.5,4,Not Returned,Purchased,0.626,2993.02
+CUST1889,35,Female,Bhopal,Madhya Pradesh,Home & Kitchen,Bedsheet,6608.65,2,15,Cash on Delivery,Mobile,2.6,2,9,5,14.5,3,Not Returned,Purchased,0.761,11234.7
+CUST1890,52,Other,Mumbai,Maharashtra,Fashion,Handbag,333.38,1,20,Cash on Delivery,Mobile,3.1,3,2,4,14.8,3,Not Returned,Purchased,0.64,266.7
+CUST1891,23,Female,Lucknow,Uttar Pradesh,Beauty,Shampoo,3515.4,1,5,Credit Card,Tablet,4.7,5,11,2,6.3,2,Not Returned,Not Purchased,0.62,0.0
+CUST1892,47,Other,Hyderabad,Telangana,Home & Kitchen,Air Fryer,5074.65,1,20,UPI,Mobile,3.3,5,8,1,8.7,2,Not Returned,Not Purchased,0.581,0.0
+CUST1893,18,Other,Surat,Gujarat,Electronics,Wireless Earbuds,13589.15,1,20,UPI,Mobile,3.8,7,1,1,18.6,1,Not Returned,Not Purchased,0.568,0.0
+CUST1894,18,Other,Kochi,Kerala,Electronics,Laptop Stand,16302.93,3,15,Cash on Delivery,Mobile,3.5,7,2,2,14.4,3,Not Returned,Not Purchased,0.572,0.0
+CUST1895,18,Female,Goa,Goa,Books,Cookbook,2393.85,1,20,Credit Card,Mobile,3.3,3,7,3,9.7,3,Not Returned,Purchased,0.653,1915.08
+CUST1896,22,Male,Ahmedabad,Gujarat,Beauty,Face Wash,1627.26,1,0,Debit Card,Laptop,3.8,7,3,1,13.5,3,Not Returned,Purchased,0.408,1627.26
+CUST1897,32,Other,Jaipur,Rajasthan,Beauty,Face Serum,543.48,1,5,UPI,Laptop,4.6,10,4,4,10.1,4,Not Returned,Not Purchased,0.696,0.0
+CUST1898,35,Female,Patna,Bihar,Fashion,Sneakers,3010.43,1,10,Debit Card,Mobile,4.0,2,5,2,11.3,3,Not Returned,Not Purchased,0.516,0.0
+CUST1899,46,Male,Kochi,Kerala,Electronics,Laptop Stand,3080.76,2,10,UPI,Mobile,2.7,3,8,5,17.7,5,Not Returned,Purchased,0.759,5545.37
+CUST1900,33,Female,Chandigarh,Chandigarh,Beauty,Shampoo,2186.05,1,15,UPI,Mobile,4.1,3,9,2,15.7,3,Not Returned,Purchased,0.688,1858.14
+CUST1901,18,Male,Patna,Bihar,Fashion,Jeans,3944.1,1,20,Credit Card,Tablet,4.2,6,4,4,16.8,3,Not Returned,Purchased,0.747,3155.28
+CUST1902,18,Female,Mumbai,Maharashtra,Beauty,Face Wash,2290.92,1,0,UPI,Mobile,3.9,6,1,3,14.1,2,Not Returned,Not Purchased,0.516,0.0
+CUST1903,27,Other,Chandigarh,Chandigarh,Books,Data Science Book,2235.25,2,5,Credit Card,Mobile,4.5,8,7,1,9.3,6,Not Returned,Purchased,0.565,4246.97
+CUST1904,20,Male,Goa,Goa,Beauty,Sunscreen,3029.25,1,10,UPI,Tablet,3.7,2,5,3,8.8,2,Not Returned,Not Purchased,0.506,0.0
+CUST1905,18,Other,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,19116.9,1,5,UPI,Mobile,3.2,2,6,0,2.2,6,Not Returned,Not Purchased,0.272,0.0
+CUST1906,25,Female,Thane,Maharashtra,Home & Kitchen,Air Fryer,1072.93,1,10,UPI,Mobile,4.7,6,5,4,9.4,4,Not Returned,Purchased,0.712,965.64
+CUST1907,26,Male,Kolkata,West Bengal,Home & Kitchen,Water Bottle,7271.08,1,5,Cash on Delivery,Mobile,5.0,2,5,1,10.8,3,Returned,Purchased,0.463,6907.53
+CUST1908,36,Female,Nagpur,Maharashtra,Electronics,Bluetooth Speaker,13987.47,1,10,UPI,Mobile,3.7,5,6,5,8.3,1,Returned,Not Purchased,0.722,0.0
+CUST1909,19,Female,Ahmedabad,Gujarat,Home & Kitchen,Mixer Grinder,7762.69,1,10,Net Banking,Laptop,4.2,1,6,2,7.8,3,Not Returned,Not Purchased,0.462,0.0
+CUST1910,23,Male,Chennai,Tamil Nadu,Books,Self Help Book,336.5,1,0,Cash on Delivery,Mobile,3.7,1,8,4,10.0,5,Not Returned,Not Purchased,0.603,0.0
+CUST1911,21,Male,Thane,Maharashtra,Fashion,Kurta,1195.13,1,15,UPI,Tablet,2.8,7,5,3,9.7,2,Not Returned,Purchased,0.591,1015.86
+CUST1912,23,Other,Thane,Maharashtra,Beauty,Face Serum,422.99,1,10,Net Banking,Tablet,3.3,4,7,2,9.8,3,Not Returned,Not Purchased,0.514,0.0
+CUST1913,29,Male,Bhopal,Madhya Pradesh,Fashion,Jeans,827.96,1,20,Net Banking,Mobile,4.0,2,4,3,10.2,3,Not Returned,Purchased,0.608,662.37
+CUST1914,30,Male,Patna,Bihar,Home & Kitchen,Air Fryer,7430.4,1,20,Debit Card,Mobile,3.9,3,8,3,11.9,2,Not Returned,Purchased,0.713,5944.32
+CUST1915,32,Female,Mumbai,Maharashtra,Books,Cookbook,2139.77,1,5,Cash on Delivery,Mobile,5.0,3,12,3,14.7,6,Not Returned,Purchased,0.758,2032.78
+CUST1916,39,Other,Bhopal,Madhya Pradesh,Home & Kitchen,Water Bottle,3218.62,1,15,Credit Card,Mobile,3.1,6,5,1,12.5,4,Not Returned,Not Purchased,0.525,0.0
+CUST1917,48,Other,Surat,Gujarat,Fashion,Jeans,1361.25,1,25,Credit Card,Mobile,4.0,7,11,3,6.1,7,Not Returned,Not Purchased,0.794,0.0
+CUST1918,36,Male,Pune,Maharashtra,Grocery,Olive Oil,1492.56,2,10,Net Banking,Laptop,4.4,4,4,1,15.5,2,Not Returned,Not Purchased,0.484,0.0
+CUST1919,40,Female,Kolkata,West Bengal,Grocery,Green Tea,1471.88,1,15,Credit Card,Tablet,4.1,5,4,2,15.6,1,Not Returned,Not Purchased,0.582,0.0
+CUST1920,40,Male,Surat,Gujarat,Home & Kitchen,Bedsheet,4209.1,1,0,Credit Card,Tablet,3.1,6,9,2,5.5,3,Not Returned,Not Purchased,0.485,0.0
+CUST1921,28,Female,Goa,Goa,Fashion,Sneakers,4025.72,1,5,Debit Card,Mobile,3.3,7,8,3,21.3,1,Not Returned,Purchased,0.738,3824.43
+CUST1922,23,Other,Patna,Bihar,Grocery,Olive Oil,550.43,1,15,UPI,Mobile,4.2,4,7,3,16.1,3,Not Returned,Purchased,0.724,467.87
+CUST1923,40,Male,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,22101.94,2,40,Cash on Delivery,Mobile,4.3,2,8,1,14.6,3,Not Returned,Purchased,0.732,26522.33
+CUST1924,26,Other,Chandigarh,Chandigarh,Grocery,Coffee,2176.63,1,10,Cash on Delivery,Mobile,3.9,6,4,2,5.4,3,Not Returned,Not Purchased,0.508,0.0
+CUST1925,26,Male,Kochi,Kerala,Grocery,Coffee,681.32,1,5,Debit Card,Mobile,3.6,4,5,2,13.5,4,Not Returned,Not Purchased,0.521,0.0
+CUST1926,40,Male,Patna,Bihar,Fashion,T-Shirt,4123.02,2,25,Cash on Delivery,Laptop,5.0,4,6,0,12.1,5,Not Returned,Not Purchased,0.557,0.0
+CUST1927,33,Female,Ahmedabad,Gujarat,Home & Kitchen,Air Fryer,8893.65,1,20,Credit Card,Mobile,4.6,4,6,4,8.2,5,Not Returned,Not Purchased,0.74,0.0
+CUST1928,18,Male,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,4627.22,3,20,Net Banking,Tablet,3.1,3,5,1,4.5,3,Not Returned,Not Purchased,0.398,0.0
+CUST1929,32,Male,Nagpur,Maharashtra,Fashion,Handbag,1513.7,1,10,UPI,Mobile,3.9,3,3,2,12.3,4,Not Returned,Purchased,0.493,1362.33
+CUST1930,21,Other,Nagpur,Maharashtra,Electronics,Smart Watch,18700.04,1,25,Debit Card,Laptop,3.6,3,8,0,7.9,2,Not Returned,Purchased,0.485,14025.03
+CUST1931,18,Female,Indore,Madhya Pradesh,Books,Exam Guide,1580.47,2,25,UPI,Mobile,2.9,8,5,0,3.4,3,Returned,Not Purchased,0.472,0.0
+CUST1932,41,Female,Nagpur,Maharashtra,Fashion,Jeans,2290.78,1,0,Debit Card,Mobile,3.2,5,4,2,5.5,5,Not Returned,Not Purchased,0.399,0.0
+CUST1933,35,Male,Thane,Maharashtra,Fashion,Handbag,1174.59,1,15,UPI,Mobile,3.6,3,3,4,7.2,2,Not Returned,Not Purchased,0.59,0.0
+CUST1934,23,Male,Kolkata,West Bengal,Beauty,Lipstick,596.21,1,5,Cash on Delivery,Mobile,4.2,2,7,3,11.0,1,Not Returned,Not Purchased,0.598,0.0
+CUST1935,37,Male,Thane,Maharashtra,Home & Kitchen,Water Bottle,8353.03,1,20,UPI,Mobile,2.8,3,6,3,9.3,3,Not Returned,Purchased,0.608,6682.42
+CUST1936,26,Male,Chennai,Tamil Nadu,Electronics,Laptop Stand,24999.37,1,20,Credit Card,Mobile,4.0,4,5,4,12.7,3,Not Returned,Purchased,0.732,19999.5
+CUST1937,28,Female,Indore,Madhya Pradesh,Home & Kitchen,Bedsheet,1386.14,2,10,UPI,Mobile,3.4,5,11,4,12.5,1,Not Returned,Purchased,0.777,2495.05
+CUST1938,25,Male,Chennai,Tamil Nadu,Home & Kitchen,Air Fryer,6197.27,1,30,Credit Card,Tablet,3.5,3,7,3,14.4,3,Not Returned,Purchased,0.718,4338.09
+CUST1939,49,Other,Pune,Maharashtra,Home & Kitchen,Coffee Mug,6705.36,1,15,Cash on Delivery,Laptop,4.2,3,4,5,9.7,2,Not Returned,Not Purchased,0.679,0.0
+CUST1940,18,Other,Nashik,Maharashtra,Grocery,Dry Fruits,392.85,2,40,Cash on Delivery,Laptop,3.2,1,6,3,9.2,3,Not Returned,Purchased,0.672,471.42
+CUST1941,30,Female,Nashik,Maharashtra,Home & Kitchen,Air Fryer,1098.31,1,15,UPI,Mobile,4.0,2,6,3,11.8,3,Not Returned,Purchased,0.634,933.56
+CUST1942,31,Other,Kolkata,West Bengal,Fashion,Handbag,922.94,1,25,Debit Card,Laptop,3.3,8,10,2,1.0,3,Not Returned,Purchased,0.662,692.21
+CUST1943,42,Male,Kochi,Kerala,Fashion,T-Shirt,5431.69,2,10,Cash on Delivery,Mobile,4.2,4,5,1,7.7,5,Not Returned,Not Purchased,0.466,0.0
+CUST1944,18,Female,Chennai,Tamil Nadu,Grocery,Green Tea,2209.57,1,20,Net Banking,Laptop,4.3,2,6,2,9.3,1,Returned,Purchased,0.56,1767.66
+CUST1945,41,Other,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2669.93,1,15,Credit Card,Laptop,3.5,6,7,1,10.8,3,Not Returned,Not Purchased,0.536,0.0
+CUST1946,35,Female,Indore,Madhya Pradesh,Home & Kitchen,Coffee Mug,7212.73,2,25,UPI,Laptop,3.3,6,6,3,9.6,3,Not Returned,Purchased,0.674,10819.09
+CUST1947,28,Male,Surat,Gujarat,Home & Kitchen,Coffee Mug,6236.09,1,20,Debit Card,Mobile,4.2,4,6,1,4.7,4,Not Returned,Purchased,0.525,4988.87
+CUST1948,39,Female,Indore,Madhya Pradesh,Grocery,Olive Oil,311.3,2,20,UPI,Mobile,5.0,8,4,0,14.7,6,Not Returned,Purchased,0.597,498.08
+CUST1949,21,Other,Chennai,Tamil Nadu,Grocery,Dry Fruits,1029.63,1,15,Credit Card,Mobile,4.4,3,6,1,8.7,2,Not Returned,Not Purchased,0.52,0.0
+CUST1950,34,Other,Thane,Maharashtra,Fashion,Sneakers,5806.64,1,0,Debit Card,Mobile,4.0,5,8,5,15.8,1,Returned,Purchased,0.769,5806.64
+CUST1951,41,Female,Surat,Gujarat,Electronics,Wireless Earbuds,21995.93,2,5,Debit Card,Laptop,4.1,1,5,2,5.8,5,Not Returned,Purchased,0.388,41792.27
+CUST1952,37,Female,Pune,Maharashtra,Home & Kitchen,Bedsheet,4585.11,2,40,Cash on Delivery,Mobile,4.5,4,7,2,10.5,2,Not Returned,Not Purchased,0.768,0.0
+CUST1953,32,Female,Lucknow,Uttar Pradesh,Home & Kitchen,Coffee Mug,732.72,1,0,Credit Card,Laptop,2.9,5,7,4,13.5,2,Not Returned,Not Purchased,0.607,0.0
+CUST1954,55,Male,Hyderabad,Telangana,Beauty,Shampoo,3380.23,1,20,Debit Card,Laptop,4.0,6,3,2,13.0,6,Not Returned,Purchased,0.568,2704.18
+CUST1955,25,Other,Nashik,Maharashtra,Grocery,Coffee,1432.01,2,10,UPI,Laptop,3.9,2,5,0,1.0,4,Not Returned,Not Purchased,0.276,0.0
+CUST1956,20,Female,Chandigarh,Chandigarh,Grocery,Protein Bar,408.23,1,30,UPI,Mobile,3.2,3,5,3,9.4,5,Not Returned,Purchased,0.663,285.76
+CUST1957,39,Male,Patna,Bihar,Books,Novel,1732.76,2,15,Cash on Delivery,Mobile,4.0,2,5,1,11.0,5,Not Returned,Purchased,0.483,2945.69
+CUST1958,18,Male,Lucknow,Uttar Pradesh,Home & Kitchen,Mixer Grinder,6414.21,1,30,Credit Card,Mobile,2.7,1,6,1,8.9,5,Returned,Not Purchased,0.504,0.0
+CUST1959,42,Female,Patna,Bihar,Home & Kitchen,Air Fryer,6262.59,1,10,UPI,Mobile,3.3,1,6,3,17.0,1,Not Returned,Purchased,0.601,5636.33
+CUST1960,48,Male,Jaipur,Rajasthan,Fashion,Sneakers,5223.19,1,30,Debit Card,Tablet,3.4,2,5,2,6.9,4,Not Returned,Not Purchased,0.538,0.0
+CUST1961,18,Female,Pune,Maharashtra,Electronics,Laptop Stand,7725.44,2,10,Debit Card,Laptop,4.7,4,3,1,2.9,4,Not Returned,Not Purchased,0.368,0.0
+CUST1962,47,Other,Kolkata,West Bengal,Electronics,Laptop Stand,993.02,2,15,Net Banking,Laptop,5.0,5,4,3,20.4,3,Not Returned,Purchased,0.713,1688.13
+CUST1963,18,Female,Nagpur,Maharashtra,Fashion,Sneakers,716.9,1,15,Cash on Delivery,Mobile,4.3,4,5,1,3.6,4,Returned,Purchased,0.466,609.37
+CUST1964,47,Other,Kolkata,West Bengal,Books,Self Help Book,1444.53,1,25,Credit Card,Mobile,4.6,2,3,4,5.8,3,Not Returned,Not Purchased,0.663,0.0
+CUST1965,26,Other,Patna,Bihar,Home & Kitchen,Coffee Mug,7768.33,1,20,UPI,Laptop,3.6,3,6,3,11.5,4,Not Returned,Purchased,0.625,6214.66
+CUST1966,38,Other,Pune,Maharashtra,Home & Kitchen,Bedsheet,6649.18,1,0,UPI,Mobile,2.8,0,6,2,9.7,3,Not Returned,Not Purchased,0.376,0.0
+CUST1967,30,Male,Thane,Maharashtra,Electronics,Smart Watch,18852.51,1,10,Cash on Delivery,Laptop,4.7,5,12,6,10.5,3,Not Returned,Purchased,0.865,16967.26
+CUST1968,18,Male,Lucknow,Uttar Pradesh,Grocery,Olive Oil,2069.85,1,25,Credit Card,Tablet,2.7,7,5,1,11.3,2,Not Returned,Purchased,0.539,1552.39
+CUST1969,31,Male,Nagpur,Maharashtra,Electronics,Laptop Stand,15847.12,1,20,UPI,Tablet,3.6,3,6,3,12.2,5,Not Returned,Purchased,0.631,12677.7
+CUST1970,41,Male,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,3717.87,1,25,Cash on Delivery,Mobile,5.0,7,6,2,17.6,3,Not Returned,Not Purchased,0.783,0.0
+CUST1971,47,Female,Indore,Madhya Pradesh,Grocery,Coffee,2160.07,2,5,UPI,Tablet,4.1,4,7,1,4.4,1,Not Returned,Purchased,0.41,4104.13
+CUST1972,29,Male,Chandigarh,Chandigarh,Electronics,Power Bank,20710.12,2,10,Debit Card,Mobile,3.9,7,7,3,12.1,6,Not Returned,Purchased,0.691,37278.22
+CUST1973,42,Male,Ahmedabad,Gujarat,Beauty,Face Wash,1290.23,2,20,Cash on Delivery,Mobile,3.9,7,8,2,11.5,4,Not Returned,Not Purchased,0.716,0.0
+CUST1974,30,Female,Ahmedabad,Gujarat,Electronics,Power Bank,18997.58,1,20,Debit Card,Mobile,3.4,6,5,1,2.3,5,Not Returned,Not Purchased,0.481,0.0
+CUST1975,36,Male,Thane,Maharashtra,Electronics,Laptop Stand,11244.52,1,15,UPI,Mobile,3.7,5,9,0,8.4,1,Not Returned,Not Purchased,0.526,0.0
+CUST1976,41,Other,Chandigarh,Chandigarh,Home & Kitchen,Bedsheet,8024.97,2,10,Credit Card,Mobile,4.9,4,6,2,7.4,4,Not Returned,Purchased,0.58,14444.95
+CUST1977,34,Female,Kolkata,West Bengal,Fashion,T-Shirt,1882.95,2,15,UPI,Mobile,4.0,4,7,1,1.0,1,Not Returned,Purchased,0.475,3201.01
+CUST1978,18,Other,Chandigarh,Chandigarh,Books,Novel,1831.67,1,30,UPI,Laptop,4.6,3,3,2,6.5,2,Not Returned,Purchased,0.561,1282.17
+CUST1979,22,Other,Hyderabad,Telangana,Grocery,Dry Fruits,1240.42,2,10,UPI,Mobile,3.1,5,8,1,7.1,2,Not Returned,Not Purchased,0.497,0.0
+CUST1980,23,Male,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,5818.58,1,15,Cash on Delivery,Laptop,3.8,5,7,3,16.2,4,Not Returned,Purchased,0.693,4945.79
+CUST1981,33,Other,Chandigarh,Chandigarh,Fashion,Kurta,2591.23,3,10,Cash on Delivery,Mobile,3.5,3,9,5,16.4,6,Not Returned,Not Purchased,0.783,0.0
+CUST1982,47,Male,Bengaluru,Karnataka,Fashion,Sneakers,3969.77,1,15,UPI,Mobile,4.6,8,8,2,16.4,4,Not Returned,Purchased,0.763,3374.3
+CUST1983,32,Male,Chennai,Tamil Nadu,Electronics,Smart Watch,15932.71,1,10,Credit Card,Laptop,4.3,3,5,2,8.9,5,Not Returned,Purchased,0.489,14339.44
+CUST1984,32,Male,Surat,Gujarat,Grocery,Olive Oil,891.32,1,15,Credit Card,Laptop,4.7,3,5,1,6.7,3,Returned,Not Purchased,0.456,0.0
+CUST1985,37,Female,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,2790.1,1,10,Credit Card,Mobile,3.4,5,11,3,4.1,1,Not Returned,Purchased,0.669,2511.09
+CUST1986,38,Male,Bhopal,Madhya Pradesh,Beauty,Face Wash,2086.64,1,10,Credit Card,Mobile,4.4,6,11,1,6.4,3,Not Returned,Purchased,0.631,1877.98
+CUST1987,31,Other,Goa,Goa,Fashion,T-Shirt,997.19,1,10,Cash on Delivery,Laptop,4.4,5,2,2,7.2,5,Not Returned,Not Purchased,0.446,0.0
+CUST1988,31,Other,Kochi,Kerala,Home & Kitchen,Air Fryer,4288.73,1,10,Cash on Delivery,Laptop,3.2,3,5,3,13.6,6,Not Returned,Not Purchased,0.53,0.0
+CUST1989,24,Male,Mumbai,Maharashtra,Fashion,Jeans,3079.39,1,20,Debit Card,Mobile,3.5,3,3,2,10.1,1,Not Returned,Not Purchased,0.518,0.0
+CUST1990,20,Female,Hyderabad,Telangana,Electronics,Wireless Earbuds,3894.76,1,10,UPI,Mobile,4.2,2,2,5,21.9,4,Not Returned,Purchased,0.722,3505.28
+CUST1991,28,Other,Bengaluru,Karnataka,Home & Kitchen,Air Fryer,9956.18,1,20,Debit Card,Mobile,2.5,3,3,0,7.6,2,Returned,Purchased,0.333,7964.94
+CUST1992,51,Female,Jaipur,Rajasthan,Grocery,Olive Oil,840.77,2,15,Debit Card,Mobile,3.0,5,7,3,14.3,5,Returned,Purchased,0.68,1429.31
+CUST1993,45,Male,Lucknow,Uttar Pradesh,Grocery,Coffee,1696.79,2,15,UPI,Laptop,3.0,9,6,3,10.0,4,Not Returned,Purchased,0.656,2884.54
+CUST1994,31,Male,Nashik,Maharashtra,Books,Self Help Book,445.16,2,10,Credit Card,Laptop,3.8,2,3,6,22.4,2,Not Returned,Purchased,0.748,801.29
+CUST1995,25,Other,Lucknow,Uttar Pradesh,Grocery,Dry Fruits,2245.51,2,40,Cash on Delivery,Mobile,3.6,7,6,2,9.3,1,Returned,Not Purchased,0.753,0.0
+CUST1996,32,Male,Goa,Goa,Electronics,Laptop Stand,23847.13,1,20,Cash on Delivery,Mobile,4.5,7,10,5,16.1,4,Not Returned,Purchased,0.893,19077.7
+CUST1997,31,Male,Chennai,Tamil Nadu,Books,Exam Guide,2045.04,1,30,UPI,Mobile,4.8,2,7,1,12.2,1,Not Returned,Purchased,0.662,1431.53
+CUST1998,40,Female,Chennai,Tamil Nadu,Grocery,Olive Oil,504.78,1,25,UPI,Mobile,4.4,5,9,1,12.4,1,Not Returned,Purchased,0.705,378.58
+CUST1999,30,Male,Chennai,Tamil Nadu,Home & Kitchen,Air Fryer,7142.59,1,15,UPI,Laptop,4.6,4,5,2,7.2,3,Not Returned,Not Purchased,0.536,0.0
+CUST2000,34,Male,Jaipur,Rajasthan,Fashion,Handbag,4895.32,1,15,Credit Card,Mobile,3.9,3,4,2,13.8,5,Returned,Purchased,0.56,4161.02
